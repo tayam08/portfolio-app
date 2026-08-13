@@ -1,0 +1,95 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css');
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-paper text-ink antialiased;
+    font-family: "Pretendard", "Inter", system-ui, sans-serif;
+  }
+
+  ::selection {
+    @apply bg-navy text-white;
+  }
+}
+
+@layer components {
+  /* ── Typography ── */
+  .eyebrow {
+    @apply text-xs font-semibold tracking-[0.2em] uppercase text-navy;
+  }
+
+  .display-xl {
+    @apply text-5xl md:text-6xl lg:text-7xl font-bold leading-[1.08] tracking-[-0.02em] text-ink;
+  }
+
+  .display-lg {
+    @apply text-4xl md:text-5xl font-bold leading-[1.1] tracking-[-0.02em] text-ink;
+  }
+
+  /* ── Buttons ── */
+  .btn-primary {
+    @apply inline-flex items-center gap-2 px-6 py-3 bg-navy text-white text-sm font-semibold tracking-wide hover:bg-navy-700 transition-colors duration-150;
+  }
+
+  .btn-secondary {
+    @apply inline-flex items-center gap-2 px-6 py-3 border border-ink text-ink text-sm font-medium hover:bg-ink hover:text-white transition-colors duration-150;
+  }
+
+  .btn-ghost {
+    @apply inline-flex items-center gap-2 text-sm font-medium text-ink-400 hover:text-ink transition-colors duration-150;
+  }
+
+  /* ── Tags ── */
+  .tag-category {
+    @apply inline-block px-3 py-1 text-[10px] font-bold tracking-[0.15em] uppercase border border-navy-100 text-navy bg-navy-50;
+  }
+
+  .tag-tech {
+    @apply inline-block px-3 py-1 text-xs font-medium border border-ink-200 text-ink-500;
+  }
+
+  .framework-pill {
+    @apply inline-block px-4 py-2 text-xs font-semibold tracking-wider uppercase border border-ink-200 text-ink-600 hover:border-navy hover:text-navy transition-colors cursor-default;
+  }
+
+  /* ── Layout ── */
+  .section-rule {
+    @apply border-t border-ink-100;
+  }
+
+  /* ── Case Study ── */
+  .cs-section-header {
+    @apply flex items-baseline gap-4 mb-6 pb-4 border-b border-ink-100;
+  }
+
+  .cs-section-number {
+    @apply font-mono text-xs text-navy font-bold tracking-wider flex-shrink-0;
+  }
+
+  .cs-kv-row {
+    @apply flex gap-4 py-3 border-b border-ink-50 last:border-0;
+  }
+
+  .cs-kv-label {
+    @apply text-xs font-bold text-navy uppercase tracking-wider w-32 flex-shrink-0 pt-0.5;
+  }
+
+  .cs-impact-card {
+    @apply border border-ink-100 p-5 bg-white;
+  }
+
+  .cs-hypothesis-box {
+    @apply border border-navy bg-navy-50 p-6;
+  }
+
+  .cs-bullet-list {
+    @apply space-y-2 text-[15px] text-ink-600 leading-loose;
+  }
+}
