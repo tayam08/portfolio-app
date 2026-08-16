@@ -8,6 +8,15 @@ export const metadata = {
 const articles = [
   {
     number: "01",
+    category: "AI & Finance",
+    title: "The Case for AI Augmentation in Credit Analysis",
+    excerpt:
+      "Small business owners rarely lack access to credit products — they lack the ability to read their own cash flow. That reframing changes what the AI should actually build.",
+    readTime: "6 min",
+    href: "/writing/ai-credit-analysis",
+  },
+  {
+    number: "02",
     category: "InsurTech",
     title: "What I Learned from Building an Insurance AI Platform",
     excerpt:
@@ -16,25 +25,7 @@ const articles = [
     href: "/writing/insurance-ai-platform",
   },
   {
-    number: "02",
-    category: "Digital Transformation",
-    title: "Why AI Changes the Economics of Financial Services",
-    excerpt:
-      "When the marginal cost of AI-generated financial analysis approaches zero, the constraint that decides who wins shifts from data access to trustworthy interface design.",
-    readTime: "6 min",
-    href: "/writing/ai-financial-economics",
-  },
-  {
     number: "03",
-    category: "Strategy",
-    title: "GTM Lessons from Pivoting Two AI Products in Korea",
-    excerpt:
-      "A 3% cold-email response rate taught me more about GTM strategy than any amount of iterating on the product itself — because it forced a conversation with the actual gatekeeper.",
-    readTime: "6 min",
-    href: "/writing/b2b-gtm-lessons",
-  },
-  {
-    number: "04",
     category: "Insurance",
     title: "How Digital Transformation Reshapes the Insurance Value Chain",
     excerpt:
@@ -43,22 +34,31 @@ const articles = [
     href: "/writing/insurance-value-chain",
   },
   {
+    number: "04",
+    category: "Digital Transformation",
+    title: "Why AI Changes the Economics of Financial Services",
+    excerpt:
+      "When the marginal cost of AI-generated financial analysis approaches zero, the constraint that decides who wins shifts from data access to trustworthy interface design.",
+    readTime: "6 min",
+    href: "/writing/ai-financial-economics",
+  },
+  {
     number: "05",
+    category: "Strategy",
+    title: "GTM Lessons from Pivoting Two AI Products in Korea",
+    excerpt:
+      "A 3% cold-email response rate taught me more about GTM strategy than any amount of iterating on the product itself — because it forced a conversation with the actual gatekeeper.",
+    readTime: "6 min",
+    href: "/writing/b2b-gtm-lessons",
+  },
+  {
+    number: "06",
     category: "Career",
     title: "Why Corporate Strategy Interests Me More Than Startups",
     excerpt:
       "The skill I keep enjoying across every project — insurance, automotive, real estate, EdTech — is reframing an ambiguous problem, not committing to one bet and executing it.",
     readTime: "4 min",
     href: "/writing/why-corporate-strategy",
-  },
-  {
-    number: "06",
-    category: "AI & Finance",
-    title: "The Case for AI Augmentation in Credit Analysis",
-    excerpt:
-      "Small business owners rarely lack access to credit products — they lack the ability to read their own cash flow. That reframing changes what the AI should actually build.",
-    readTime: "6 min",
-    href: "/writing/ai-credit-analysis",
   },
 ];
 

@@ -10,56 +10,16 @@ type Category = (typeof categories)[number];
 const caseStudies = [
   {
     number: "01",
-    category: "AI Systems" as Category,
+    category: "Financial Technology" as Category,
     tag: "Flagship",
-    title: "Insurance Digital Transformation Strategy",
+    title: "AI Valuation Agent — DCF & EV/EBITDA Automation",
     description:
-      "AI-powered risk scoring platform enabling real-time underwriting intelligence. Industry-academia partnership (산학협력) validating AI augmentation in traditional insurance operations — 8+ risk dimensions, real-time analysis.",
-    tags: ["AI Strategy", "InsurTech", "산학협력"],
-    href: "/case-studies/insurance",
+      "Tool-calling LLM agent producing auditable DCF and EV/EBITDA valuations across US and Korean markets — deterministic math, LLM judgment, and an MCP server for reuse beyond this one project. Deployed live on Vercel with Postgres-backed run history.",
+    tags: ["LLM Agent", "Valuation", "MCP", "Financial AI"],
+    href: "/case-studies/valuation-agent",
   },
   {
     number: "02",
-    category: "Strategy" as Category,
-    tag: null,
-    title: "PropTech Business Strategy",
-    description:
-      "AI-powered local intelligence platform solving information asymmetry in Korean real estate. Combining community-sourced insight with AI synthesis — giving first-time visitors the knowledge of a long-term resident.",
-    tags: ["PropTech", "Platform Strategy", "AI"],
-    href: "/case-studies/web-app",
-  },
-  {
-    number: "03",
-    category: "Strategy" as Category,
-    tag: null,
-    title: "Future Mobility Business Strategy",
-    description:
-      "KIA brand heritage × SDV transition value analysis — a B2B2C platform strategy for retaining 80-year legacy customers through the electrification imperative.",
-    tags: ["B2B2C", "Automotive", "Brand Strategy"],
-    href: "/case-studies/auto",
-  },
-  {
-    number: "04",
-    category: "Product & SaaS" as Category,
-    tag: "In Progress",
-    title: "AI Education SaaS Strategy",
-    description:
-      "LLM ensemble-based automated TOEFL scoring. Ten specialized evaluators running in parallel — instant calibrated feedback at 1/100th the cost of human graders, with a B2C→B2B GTM roadmap.",
-    tags: ["EdTech", "LLM Ensemble", "SaaS Strategy"],
-    href: "/case-studies/toefl",
-  },
-  {
-    number: "05",
-    category: "AI Systems" as Category,
-    tag: null,
-    title: "LLM Architecture Design for Financial AI",
-    description:
-      "Built a GPT-2 style transformer from scratch to derive a business decision framework — translating architecture parameters (context window, model depth, tokenization) into financial AI deployment trade-offs.",
-    tags: ["LLM Architecture", "Financial AI", "PyTorch"],
-    href: "/case-studies/minigpt",
-  },
-  {
-    number: "06",
     category: "Financial Technology" as Category,
     tag: null,
     title: "AI-driven Quant Trading System",
@@ -69,7 +29,27 @@ const caseStudies = [
     href: "/case-studies/quant-trading",
   },
   {
-    number: "07",
+    number: "03",
+    category: "AI Systems" as Category,
+    tag: null,
+    title: "LLM Architecture Design for Financial AI",
+    description:
+      "Built a GPT-2 style transformer from scratch to derive a business decision framework — translating architecture parameters (context window, model depth, tokenization) into financial AI deployment trade-offs.",
+    tags: ["LLM Architecture", "Financial AI", "PyTorch"],
+    href: "/case-studies/minigpt",
+  },
+  {
+    number: "04",
+    category: "AI Systems" as Category,
+    tag: null,
+    title: "Insurance Digital Transformation Strategy",
+    description:
+      "AI-powered risk scoring platform enabling real-time underwriting intelligence. Industry-academia partnership (산학협력) validating AI augmentation in traditional insurance operations — 8+ risk dimensions, real-time analysis.",
+    tags: ["AI Strategy", "InsurTech", "산학협력"],
+    href: "/case-studies/insurance",
+  },
+  {
+    number: "05",
     category: "Strategy" as Category,
     tag: "Featured",
     title: "AI Growth Operating System",
@@ -77,6 +57,36 @@ const caseStudies = [
       "Comprehensive growth framework for 인톡 — designing Revenue Engine, Network Engine, and Global GTM to achieve 11× B2B and 20× B2C growth with an 11-person team using compounding AI leverage.",
     tags: ["Growth Strategy", "GTM", "AI SaaS"],
     href: "/case-studies/intalk",
+  },
+  {
+    number: "06",
+    category: "Strategy" as Category,
+    tag: null,
+    title: "PropTech Business Strategy",
+    description:
+      "AI-powered local intelligence platform solving information asymmetry in Korean real estate. Combining community-sourced insight with AI synthesis — giving first-time visitors the knowledge of a long-term resident.",
+    tags: ["PropTech", "Platform Strategy", "AI"],
+    href: "/case-studies/web-app",
+  },
+  {
+    number: "07",
+    category: "Strategy" as Category,
+    tag: null,
+    title: "Future Mobility Business Strategy",
+    description:
+      "KIA brand heritage × SDV transition value analysis — a B2B2C platform strategy for retaining 80-year legacy customers through the electrification imperative.",
+    tags: ["B2B2C", "Automotive", "Brand Strategy"],
+    href: "/case-studies/auto",
+  },
+  {
+    number: "08",
+    category: "Product & SaaS" as Category,
+    tag: "In Progress",
+    title: "AI Education SaaS Strategy",
+    description:
+      "LLM ensemble-based automated TOEFL scoring. Ten specialized evaluators running in parallel — instant calibrated feedback at 1/100th the cost of human graders, with a B2C→B2B GTM roadmap.",
+    tags: ["EdTech", "LLM Ensemble", "SaaS Strategy"],
+    href: "/case-studies/toefl",
   },
 ];
 
@@ -105,9 +115,10 @@ export default function CaseStudiesPage() {
         <p className="eyebrow mb-4">Work</p>
         <h1 className="text-5xl font-bold tracking-tight text-ink mb-5">Case Studies</h1>
         <p className="text-lg text-ink-500 leading-relaxed">
-          Seven engagements across AI Systems, Strategy, Financial Technology, and EdTech —
-          each structured as a consulting case with business context, frameworks, and
-          measurable outcomes. Technology appears last; business problem comes first.
+          Eight engagements across Financial Technology, AI Systems, and Strategy — each
+          structured as a case with business context, quantitative analysis, and a deployed
+          or deployable outcome. The pattern: understand the workflow, model the numbers,
+          then ship the tool.
         </p>
       </div>
 

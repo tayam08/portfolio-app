@@ -4,51 +4,15 @@ import { ArrowRight, ArrowUpRight } from "lucide-react";
 const caseStudies = [
   {
     number: "01",
-    category: "AI Systems · Digital Transformation",
-    title: "Insurance Digital Transformation Strategy",
+    category: "Financial Technology · Valuation",
+    title: "AI Valuation Agent — DCF & EV/EBITDA Automation",
     description:
-      "AI-powered risk scoring platform enabling real-time underwriting intelligence for non-technical business users. Industry-academia partnership validating AI augmentation in traditional insurance operations.",
-    tags: ["AI Strategy", "산학협력"],
-    href: "/case-studies/insurance",
+      "Tool-calling LLM agent producing auditable DCF and EV/EBITDA valuations across US and Korean markets — deterministic math, LLM judgment, MCP server for reuse. Deployed live on Vercel.",
+    tags: ["LLM Agent", "Valuation", "MCP"],
+    href: "/case-studies/valuation-agent",
   },
   {
     number: "02",
-    category: "Strategy · PropTech",
-    title: "PropTech Business Strategy",
-    description:
-      "AI-powered local intelligence platform solving information asymmetry in Korean real estate. Community insight + AI synthesis — giving first-time visitors the knowledge of a long-term resident.",
-    tags: ["PropTech", "Platform"],
-    href: "/case-studies/web-app",
-  },
-  {
-    number: "03",
-    category: "Strategy · Automotive",
-    title: "Future Mobility Business Strategy",
-    description:
-      "KIA brand heritage × SDV transition value analysis — a B2B2C platform strategy for retaining legacy customers through the electrification imperative.",
-    tags: ["B2B2C Strategy", "Automotive"],
-    href: "/case-studies/auto",
-  },
-  {
-    number: "04",
-    category: "Product & SaaS · EdTech",
-    title: "AI Education SaaS Strategy",
-    description:
-      "LLM ensemble-based automated TOEFL scoring. Ten specialized evaluators delivering instant calibrated feedback at 1/100th the cost of human graders — with a productization roadmap.",
-    tags: ["EdTech", "LLM"],
-    href: "/case-studies/toefl",
-  },
-  {
-    number: "05",
-    category: "AI Systems · LLM Architecture",
-    title: "LLM Architecture Design for Financial AI",
-    description:
-      "Built a GPT-2 transformer from scratch to derive a framework for translating LLM architecture decisions into financial AI deployment trade-offs: cost, latency, compliance.",
-    tags: ["LLM Architecture", "Financial AI"],
-    href: "/case-studies/minigpt",
-  },
-  {
-    number: "06",
     category: "Financial Technology · Quant",
     title: "AI-driven Quant Trading System",
     description:
@@ -57,7 +21,25 @@ const caseStudies = [
     href: "/case-studies/quant-trading",
   },
   {
-    number: "07",
+    number: "03",
+    category: "AI Systems · LLM Architecture",
+    title: "LLM Architecture Design for Financial AI",
+    description:
+      "Built a GPT-2 transformer from scratch to derive a framework for translating LLM architecture decisions into financial AI deployment trade-offs: cost, latency, compliance.",
+    tags: ["LLM Architecture", "Financial AI"],
+    href: "/case-studies/minigpt",
+  },
+  {
+    number: "04",
+    category: "AI Systems · Digital Transformation",
+    title: "Insurance Digital Transformation Strategy",
+    description:
+      "AI-powered risk scoring platform enabling real-time underwriting intelligence for non-technical business users. Industry-academia partnership validating AI augmentation in traditional insurance operations.",
+    tags: ["AI Strategy", "산학협력"],
+    href: "/case-studies/insurance",
+  },
+  {
+    number: "05",
     category: "Strategy · AI Growth OS",
     title: "AI Growth Operating System",
     description:
@@ -65,24 +47,51 @@ const caseStudies = [
     tags: ["Growth Strategy", "GTM"],
     href: "/case-studies/intalk",
   },
+  {
+    number: "06",
+    category: "Strategy · PropTech",
+    title: "PropTech Business Strategy",
+    description:
+      "AI-powered local intelligence platform solving information asymmetry in Korean real estate. Community insight + AI synthesis — giving first-time visitors the knowledge of a long-term resident.",
+    tags: ["PropTech", "Platform"],
+    href: "/case-studies/web-app",
+  },
+  {
+    number: "07",
+    category: "Strategy · Automotive",
+    title: "Future Mobility Business Strategy",
+    description:
+      "KIA brand heritage × SDV transition value analysis — a B2B2C platform strategy for retaining legacy customers through the electrification imperative.",
+    tags: ["B2B2C Strategy", "Automotive"],
+    href: "/case-studies/auto",
+  },
+  {
+    number: "08",
+    category: "Product & SaaS · EdTech",
+    title: "AI Education SaaS Strategy",
+    description:
+      "LLM ensemble-based automated TOEFL scoring. Ten specialized evaluators delivering instant calibrated feedback at 1/100th the cost of human graders — with a productization roadmap.",
+    tags: ["EdTech", "LLM"],
+    href: "/case-studies/toefl",
+  },
 ];
 
 const capabilities = [
   {
-    label: "Business Strategy",
-    desc: "Market analysis, competitive positioning, GTM strategy, business model design",
+    label: "AI Agent & LLM Systems",
+    desc: "LLM agent workflows, RAG, prompt engineering — Claude API, OpenAI API, LangChain, LlamaIndex",
   },
   {
-    label: "Financial Analysis",
-    desc: "Credit risk modeling, investment analysis, valuation, data-driven decision frameworks",
+    label: "Financial & Risk Analysis",
+    desc: "Financial modeling, valuation, credit and insurance risk scoring on real domain data",
   },
   {
-    label: "AI Implementation",
-    desc: "LLM systems, AI agents, prompt engineering, AI-augmented workflow design",
+    label: "End-to-End Product Development",
+    desc: "Problem definition, user interviews, MVP design, build, deploy, iterate on feedback",
   },
   {
-    label: "Digital Transformation",
-    desc: "Tech-enabled business model redesign, process automation, data infrastructure",
+    label: "Full-Stack Deployment",
+    desc: "Python/FastAPI backends, Next.js/Streamlit frontends, shipped and operated on Vercel",
   },
 ];
 
@@ -101,17 +110,17 @@ export default function HomePage() {
       {/* ── Hero ── */}
       <section className="max-w-7xl mx-auto px-8 pt-28 pb-24">
         <div className="max-w-4xl">
-          <p className="eyebrow mb-8">Business Strategy & AI</p>
+          <p className="eyebrow mb-8">LLM Agent · RAG · Financial AI</p>
           <h1 className="display-xl mb-10">
-            Understanding industries.<br />
-            Structuring problems.<br />
-            Building AI-driven<br />
-            business solutions.
+            Understanding financial<br />
+            workflows.<br />
+            Building AI agents that<br />
+            automate them, end to end.
           </h1>
           <p className="text-lg text-ink-500 leading-relaxed max-w-2xl mb-12">
-            Economics + Mathematics student at Yonsei University. Focused on Strategy,
-            Digital Transformation, Corporate Finance, and AI. Building case studies
-            at the intersection of business and technology.
+            Economics + Mathematics student at Yonsei University, building LLM agent
+            and RAG-based AI applications for finance, insurance, and risk domains —
+            problem definition, MVP, deployment, and iteration, end to end.
           </p>
           <div className="flex flex-wrap items-center gap-4">
             <Link href="/case-studies" className="btn-primary">
@@ -131,8 +140,8 @@ export default function HomePage() {
         <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
           {[
             { label: "Degree", value: "Economics · Mathematics" },
-            { label: "Focus", value: "Strategy · Finance · AI" },
-            { label: "Case Studies", value: "7 Engagements" },
+            { label: "Focus", value: "LLM Agents · RAG · Financial AI" },
+            { label: "Case Studies", value: "8 Engagements" },
             { label: "University", value: "Yonsei (신촌)" },
           ].map((item) => (
             <div key={item.label}>

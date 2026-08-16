@@ -4,20 +4,21 @@ import ProfileImage from "@/components/ProfileImage";
 
 const capabilityGroups = [
   {
-    category: "Business",
+    category: "Finance & Risk",
     items: [
+      "Financial Analysis",
+      "Risk Modeling",
       "Strategy & Market Analysis",
       "Business Model Design",
       "GTM Strategy",
       "Product Strategy",
-      "Financial Analysis",
-      "Risk Modeling",
     ],
   },
   {
     category: "AI & LLM",
     items: [
-      "LLM Application Design",
+      "LLM Agent Workflow Design",
+      "RAG (Retrieval-Augmented Generation)",
       "AI Agent Architecture",
       "Prompt Engineering",
       "AI Workflow Integration",
@@ -47,18 +48,24 @@ const frameworks = [
 ];
 
 const learning = [
-  { item: "신용분석사 (Credit Analyst)", status: "In Progress" },
-  { item: "OPIc AL (영어)", status: "In Progress" },
-  { item: "Financial Modeling", status: "Self-study" },
-  { item: "GTM Strategy", status: "Self-study" },
-  { item: "Case Interview", status: "Active" },
+  { item: "Knowledge Graph", status: "In Progress" },
+  { item: "Graph RAG", status: "In Progress" },
+  { item: "MCP Server / Client", status: "In Progress" },
+  { item: "Agent Memory", status: "In Progress" },
+  { item: "RAG Evaluation", status: "In Progress" },
 ];
 
 const experiences = [
   {
-    org: "주식회사 인톡 (Intalk Inc.)",
-    role: "AI Engineer",
+    org: "EY 한영 (EY Hanyoung), Deal3 SAT M&A",
+    role: "AI Product / Strategy Intern",
     period: "2026.07 —",
+    desc: "Building internal AI Agents that automate recurring financial-advisory work — a DCF Model Agent, an EV/EBITDA Multiple Agent, a Report Footing Agent, and a DM Deck Agent — identified through direct workflow observation and teammate interviews.",
+  },
+  {
+    org: "주식회사 인톡 (Intalk Inc.)",
+    role: "AI Product / Strategy Intern",
+    period: "2026.07",
     desc: "Automating AI-driven workflows, leading PoC planning for a new business initiative with Shinhan (신한), and driving early-stage market entry strategy for Vietnam and U.S. expansion.",
   },
   {
@@ -102,16 +109,17 @@ export default function AboutPage() {
       {/* ── Bio ── */}
       <section className="mb-16">
         <p className="text-lg text-ink leading-relaxed mb-4">
-          I enjoy understanding industries and solving business problems by combining strategic
-          thinking with AI and data. My work sits at the intersection of business analysis and
-          technology — not as an engineer building tools, but as a strategist using tools to
-          answer business questions.
+          I use Economics and Mathematics to structure problems in the finance and risk domain —
+          accounting, corporate finance, financial and insurance risk, real assets — and then
+          design and ship AI applications that solve them, end to end: problem definition,
+          user interviews, requirements, MVP, build, deploy, and iterate on feedback.
         </p>
         <p className="text-ink-500 leading-relaxed">
           My background in Economics and Mathematics gives me the analytical foundation to
-          structure problems rigorously. My interest in AI and digital transformation gives me
-          the technological fluency to implement solutions. The case studies in this portfolio
-          reflect that combination — business-first, technology-as-enabler.
+          structure financial and risk problems rigorously. My work building LLM agent and
+          RAG-based systems gives me the ability to actually ship the tool, not just recommend
+          it. The case studies in this portfolio reflect that combination — domain problem
+          first, AI as the thing I build and deploy.
         </p>
       </section>
 

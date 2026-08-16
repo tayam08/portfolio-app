@@ -4,11 +4,11 @@ import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
-  title: "Taebeen Am | Business Strategy & AI",
-  description: "Business Strategy & AI Portfolio — Economics + Mathematics, focused on Strategy, Digital Transformation, Corporate Finance, and AI.",
+  title: "Taebeen Am | LLM Agent · RAG · Financial AI",
+  description: "LLM Agent · RAG · Financial AI Portfolio — Economics + Mathematics, building AI applications for finance, insurance, and risk domains end-to-end: problem definition, MVP, deployment, iteration.",
   openGraph: {
-    title: "Taebeen Am | Business Strategy & AI",
-    description: "Business Strategy & AI Portfolio — Strategy · Finance · Digital Transformation · AI",
+    title: "Taebeen Am | LLM Agent · RAG · Financial AI",
+    description: "LLM Agent · RAG · Financial AI · End-to-End Product Development — Economics + Mathematics",
     type: "website",
   },
 };

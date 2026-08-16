@@ -8,7 +8,18 @@ export const metadata = {
 const experiences = [
   {
     period: "2026.07 —",
-    role: "AI Engineer",
+    role: "AI Product / Strategy Intern",
+    org: "EY 한영 (EY Hanyoung), Deal3 SAT M&A",
+    outcomes: [
+      "Identified recurring bottlenecks in financial model review, benchmarking, and report drafting through teammate interviews and direct workflow observation",
+      "Built a DCF Model Agent automating review of key assumptions, cash flow structure, discount rate, and terminal value",
+      "Built an EV/EBITDA Multiple Agent supporting peer-group selection, EBITDA adjustments, and implied valuation output",
+      "Built a Report Footing Agent automating cross-document numerical consistency checks, and a DM Deck Agent supporting deal-marketing deck drafting",
+    ],
+  },
+  {
+    period: "2026.07",
+    role: "AI Product / Strategy Intern",
     org: "주식회사 인톡 (Intalk Inc.)",
     outcomes: [
       "Automated AI-driven workflows to streamline core product operations and scale team output",
@@ -66,10 +77,10 @@ const levelOrder: SkillLevel[] = ["Basic", "Proficient", "Advanced"];
 
 const skills: { label: string; level: SkillLevel; context: string }[] = [
   { label: "Python", level: "Advanced", context: "FastAPI · pandas · numpy · scikit-learn" },
-  { label: "Data Analysis", level: "Advanced", context: "EDA · risk modeling · statistical testing" },
-  { label: "Next.js / React", level: "Proficient", context: "Full-stack web application development" },
-  { label: "LLM / AI Agents", level: "Proficient", context: "Claude API · OpenAI · prompt engineering · LangChain" },
   { label: "Financial Modeling", level: "Proficient", context: "DCF · credit risk · scenario analysis" },
+  { label: "Data Analysis", level: "Advanced", context: "EDA · risk modeling · statistical testing" },
+  { label: "LLM / AI Agents", level: "Proficient", context: "Claude API · OpenAI · LangChain · LlamaIndex · RAG · Prompt Engineering" },
+  { label: "Next.js / React", level: "Proficient", context: "Full-stack web application development" },
   { label: "SQL", level: "Basic", context: "Data extraction · analysis queries" },
 ];
 
@@ -79,7 +90,12 @@ export default function ResumePage() {
       <div className="mb-14">
         <p className="eyebrow mb-4">Experience</p>
         <h1 className="text-4xl font-bold text-ink mb-2">Taebeen Am</h1>
-        <p className="text-ink-500">Economics · Mathematics · Business Strategy & AI</p>
+        <p className="text-ink-500 mb-4">Economics · Mathematics · LLM Agent · RAG · Financial AI</p>
+        <p className="text-sm text-ink-500 leading-relaxed max-w-2xl">
+          Structuring finance and risk-domain problems with Economics and Mathematics, then
+          shipping AI applications end to end — problem definition, MVP, deployment, iteration —
+          using Python and LLM-based agent tooling.
+        </p>
       </div>
 
       <div className="flex gap-4 mb-14">
