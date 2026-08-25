@@ -11,6 +11,7 @@ const navItems = [
   { label: "Experience", href: "/resume" },
   { label: "About", href: "/about" },
   { label: "Writing", href: "/writing" },
+  { label: "Research", href: "/research" },
   { label: "Contact", href: "/contact" },
 ];
 
@@ -31,7 +32,7 @@ export default function Navbar() {
         </Link>
 
         {/* Desktop */}
-        <ul className="hidden md:flex items-center gap-9">
+        <ul className="hidden md:flex items-center gap-7 lg:gap-9">
           {navItems.map((item) => (
             <li key={item.href}>
               <Link
