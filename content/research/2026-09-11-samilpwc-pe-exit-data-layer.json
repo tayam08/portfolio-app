@@ -1,0 +1,274 @@
+{
+  "slug": "2026-09-11-samilpwc-pe-exit-data-layer",
+  "date": "2026-09-11",
+  "company": "삼일PwC",
+  "industry": "회계법인 · PE 자문 · Valuation · 데이터·ERP",
+  "tier": "S Tier",
+  "targetRole": "가치평가 서비스 업무혁신",
+  "title": "PE 밸류업의 다음 병목은 AI 모델이 아니라 Exit-ready 데이터 레이어다",
+  "summary": "삼일PwC의 9월 PE Portfolio Letter와 최신 운영 사례를 바탕으로, 가치평가 업무혁신 신입이 포트폴리오사의 ERP·CRM·Excel 데이터를 검증 가능한 KPI와 Exit 모델로 연결하는 방법을 분석한다.",
+  "thesis": "PE 포트폴리오의 데이터 투자는 대시보드 구축으로 끝나면 비용이지만, KPI 정의·원천 계보·조정 내역을 Valuation과 IT DD까지 재사용할 수 있게 만들면 보유기간의 의사결정 속도와 Exit의 설명력을 함께 높이는 자산이 된다.",
+  "tags": [
+    "삼일PwC",
+    "Private Equity",
+    "Valuation",
+    "업무혁신",
+    "Data Layer",
+    "Exit Readiness",
+    "S Tier"
+  ],
+  "metrics": [
+    {
+      "label": "FY25 삼일회계법인 매출",
+      "value": "1조 1,094억 원",
+      "context": "2024년 7월~2025년 6월. 경영자문 4,475억 원으로 단순 계산상 약 40.3%; PwC Korea 보고서와 금융감독원 분석 인용 보도로 교차 확인"
+    },
+    {
+      "label": "PE 포트폴리오 KPI 리드타임",
+      "value": "15일 → 4일",
+      "context": "삼일PwC가 공개한 익명 소비재 포트폴리오사 사례로 약 73% 단축. 표본·비용·정확도와 독립 검증은 공개되지 않은 단일 자사 사례"
+    },
+    {
+      "label": "SAP Business Suite 7 유지보수",
+      "value": "2027년 말 / 2030년 말",
+      "context": "최신 3개 enhancement package의 일반 유지보수는 2027년 말 종료, 2%포인트 추가 비용의 선택적 연장은 2030년 말까지 가능; SAP와 삼일PwC 자료로 확인"
+    },
+    {
+      "label": "노후 ERP의 PE 평가 영향",
+      "value": "56% · 726개사",
+      "context": "BCG 조사에서 투자자의 56%가 수명 말기 ERP에 10% 초과 할인을 예상했고, SAP ECC 종료 영향 PE 포트폴리오를 726개로 추정. 관측된 실제 할인율이 아닌 2024년 설문·조사치"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "1. [사실] 무엇으로 돈을 버는가",
+      "paragraphs": [
+        "삼일회계법인의 FY25 매출은 1조 1,094억 원이며 회계감사 3,860억 원, 세무자문 2,759억 원, 경영자문 4,475억 원으로 구성된다. 경영자문 비중은 단순 계산으로 약 40.3%다. 감사·세무의 반복 계약이 기반을 만들고, 실사·Valuation·PMI·Value Creation·Exit readiness가 프로젝트형 매출과 후속 수임을 만든다.",
+        "삼일PwC의 PE 서비스는 Pre-closing, 인수 후 100일, 보유기간, Exit를 잇고 CFO Office의 회계·보고·KPI·프로세스 고도화를 지원한다. 데이터 레이어는 별도 소프트웨어 매출이 공개된 상품이 아니라, 현재 공개 정보상 ERP·FP&A·AI·실사·가치평가 자문을 연결해 프로젝트 범위와 재사용성을 넓히는 기반으로 보는 것이 안전하다."
+      ],
+      "bullets": [
+        "기반 수익: 회계감사·세무와 상시 회계·규제 대응",
+        "딜 수익: FDD·CDD·Valuation·거래구조·매수·매각 자문",
+        "보유기간 수익: PMI, FP&A·KPI, ERP·데이터와 운영개선",
+        "Exit 수익: IPO readiness, Vendor DD, carve-out와 매각 스토리",
+        "확인 한계: 데이터 레이어 프로젝트의 가격·고객 수·반복매출은 비공개"
+      ]
+    },
+    {
+      "heading": "2. [사실과 해석] 산업·경쟁 구도",
+      "paragraphs": [
+        "[사실] PE의 데이터 전환은 네 집단이 겹쳐 경쟁한다. Big 4는 회계·실사·가치평가와 시스템 통제를, 전략·디지털 컨설팅사는 투자논리와 대규모 전환을, ERP·SI 사업자는 실제 마이그레이션을, PE 운용사의 Operating team은 포트폴리오 공통 표준을 담당한다. BCG는 ERP 전환비를 매출의 2~4%로 제시하고, 삼일PwC는 PE CFO Office 지원과 Deal Analytics·KPI 모니터링을 거래 전 과정에 연결한다.",
+        "[해석] 삼일PwC의 차별화 기회는 ERP 구축 자체보다 숫자의 의미와 Exit 사용처를 함께 설계하는 데 있다. 동일한 매출·EBITDA도 회계정책, 경영진 조정, 채널·제품 정의가 다르면 가치평가와 매각자료에서 충돌한다. 회계·Deals·AX 조직이 KPI 사전, 데이터 계보, 조정 EBITDA bridge와 모델을 하나의 검토 체계로 묶을 때 전략사나 SI와 다른 방어력이 생긴다."
+      ],
+      "bullets": [
+        "Big 4: 회계 기준·실사·Valuation·내부통제를 통합",
+        "전략·디지털 자문: 투자논리, 운영개선과 전환 PMO에 강점",
+        "ERP·SI: S/4HANA 전환, 데이터 이관과 장기 운영 역량",
+        "PE Operating team: 하우스 표준과 여러 포트폴리오의 빠른 확산",
+        "승부 KPI: 데이터 대사 성공률, 월마감·KPI 리드타임, DD 요청 대응시간, 조정 EBITDA 재현율"
+      ]
+    },
+    {
+      "heading": "3. [사실과 해석] 최신 실적·운영 지표가 말하는 것",
+      "paragraphs": [
+        "[사실] 9월 11일 현재 삼일PwC Deals 페이지는 754명의 Deal Professional과 2026년 2분기 94건·33.4조 원의 실적을 제시한다. 이는 회사 자체 집계이며 외부 리그테이블과 범위가 다를 수 있다. 9월 PE Portfolio Letter는 데이터 레이어를 ERP·AI의 공통 선행자산으로 제안했고, 5월 Letter는 ERP 2개·사업부 6개를 가진 익명 소비재사에서 월간 KPI 작성이 15영업일에서 4영업일로 줄었다고 밝혔다.",
+        "[해석] 15→4일은 강한 가능성 신호지만 단일 자사 사례라 포트폴리오 전체의 효과로 일반화하면 안 된다. 업무혁신팀은 시간 단축과 함께 원천 대사율, 정의되지 않은 KPI 비율, 수동 조정 건수, 재작성률과 DD 질의 응답시간을 전후 비교해야 한다. 그래야 데이터 정비가 단순 BI 편의가 아니라 Valuation 가정의 신뢰도와 Exit 준비기간을 개선했다는 인과를 방어할 수 있다."
+      ],
+      "bullets": [
+        "속도: 월마감·GP 보고·DD 요청별 기준 리드타임과 분산",
+        "정합성: ERP·CRM·Excel 간 대사율과 미해결 차이 금액",
+        "정의: 핵심 KPI의 owner·산식·기준일·통화·조정근거 완비율",
+        "Valuation: 실적→Forecast→DCF·Multiple bridge의 자동 연결률",
+        "Exit: 데이터룸 갱신시간, 반복 질의와 buyer 조정의 수·금액",
+        "경제성: 구축·운영·변화관리비 대비 절감시간과 할인 방어의 검증 가능 범위"
+      ]
+    },
+    {
+      "heading": "4. [해석] 향후 3년의 성장동력",
+      "paragraphs": [
+        "첫째, 한 포트폴리오사의 핵심 가치동인부터 공통 언어를 만드는 것이다. 매출·가격·물량·믹스·마진·운전자본의 정의, 원천 시스템, 조정 권한과 승인자를 고정하고 시맨틱 레이어로 연결하면 ERP 교체 전에도 GP 보고와 Valuation 모델을 같은 숫자로 운영할 수 있다.",
+        "둘째, 프로젝트 산출물을 PE 하우스 표준으로 제품화하는 것이다. 산업별 KPI ontology, 계정·고객·제품 매핑 규칙, 데이터 품질 테스트와 IFRS 18의 MPM·영업손익 bridge를 템플릿화하면 다음 인수의 100일 계획과 기존 포트폴리오 진단에 재사용할 수 있다. PwC가 공개한 AI 기반 경영 인텔리전스 협업은 KPI 해석과 데이터 정합성·BI·에이전트를 묶는 실행 방향을 보여주지만, 상용 매출은 아직 공개되지 않았다.",
+        "셋째, 보유기간의 데이터 자산을 Exit evidence room으로 연결하는 것이다. 월별 KPI와 예산·실적 차이, 조정 EBITDA, 고객·제품 cohort와 개선과제 효과를 원천까지 추적하게 하면 Vendor DD와 buyer 질의를 빠르게 대응할 수 있다. AI는 서술 초안과 이상치 탐색을 돕되, 숫자 계산·대사와 승인 이력은 결정론적 규칙으로 남겨야 한다."
+      ],
+      "bullets": [
+        "1년: 10~20개 핵심 KPI의 사전·계보·대사 테스트와 단일 파일럿",
+        "2년: 산업별 ontology·IFRS 18 bridge·ERP 이관 규칙을 하우스 표준화",
+        "3년: 투자검토→100일→VCP→Valuation→Exit 데이터룸을 하나의 증거 체계로 연결",
+        "성장 게이트: 대시보드 수가 아니라 재사용률, 정확도, 의사결정시간과 수임 확장"
+      ]
+    },
+    {
+      "heading": "5. [사실과 해석] 주요 리스크",
+      "paragraphs": [
+        "[사실] SAP Business Suite 7 핵심 애플리케이션의 일반 유지보수는 2027년 말 끝나지만, 추가 비용을 내는 선택적 연장은 2030년 말까지 가능하다. IFRS 18과 K-IFRS 제1118호는 2027년부터 적용되며 영업손익·재무손익 분류와 경영진 정의 성과측정치(MPM) 공시가 달라진다. [해석] 따라서 모든 회사가 즉시 전면 ERP 전환을 해야 한다거나 기존 EBITDA가 자동으로 바뀐다고 단정하지 말고, 시스템 버전·상장 여부·회계정책·Exit 시점을 개별 진단해야 한다.",
+        "데이터 레이어도 잘못 만들면 기술부채가 된다. KPI 정의가 투자논리에 맞춰 사후 조작되거나 원천보다 수동 조정을 우선하면 buyer가 신뢰하지 않는다. 여러 포트폴리오의 데이터가 섞이면 기밀·개인정보·독립성 문제가 생기고, 벤더 종속·권한 과다·삭제 실패도 발생한다. BCG의 10% 초과 할인은 응답자의 예상이지 실제 거래에서 보장된 할인 또는 방어 효과가 아니다."
+      ],
+      "bullets": [
+        "과잉투자: 짧은 보유기간에 전면 ERP를 추진해 Exit 때 미완성 프로젝트만 남음",
+        "정의 리스크: 조정 EBITDA·고객·매출 기준이 부서별로 달라 단일 숫자를 가장함",
+        "품질 리스크: 누락·중복·기준일·통화 오류가 Forecast와 Valuation으로 전파",
+        "거버넌스: KPI 변경권한, 승인·버전·예외 로그와 데이터 owner 부재",
+        "보안·독립성: 고객 간 데이터 혼합, 개인정보·영업비밀과 이해상충",
+        "가치 과장: 설문상 할인 예상과 익명 성공사례를 확정적 Exit premium으로 표현"
+      ]
+    },
+    {
+      "heading": "6. [사실과 해석] 목표 직무가 해결할 문제",
+      "paragraphs": [
+        "[사실] 9월 11일 현재 공식 수시채용 목록에는 '가치평가 서비스 업무혁신 신입인력'이 진행 중이며 마감은 '채용 시'다. 공고는 재무자문 절차의 효율화 지점 식별, Claude Code·Codex를 활용한 내부 앱 개발, 승인 클라우드 배포·운영, 재무모델·계량분석·시뮬레이션과 대량 자료처리를 요구한다. Python·JavaScript/TypeScript·SQL, API/DB, GitHub·CI/CD, 인증·권한·로그 경험도 우대한다.",
+        "[해석] 이 주제에서 직무의 첫 제품은 거대한 ERP가 아니라 'Valuation Evidence Bridge'가 적합하다. ERP·CRM·Excel 입력을 표준 스키마로 변환하고, KPI 산식과 조정을 버전 관리하며, 월 실적과 Forecast를 DCF·Multiple 및 Exit pack에 연결하는 내부 앱이다. 숫자마다 원천·기준일·통화·단위·조정자·승인자를 보여주고 대사 실패는 생성형 AI가 숨기지 못하게 막아야 한다."
+      ],
+      "bullets": [
+        "Discover: 최근 딜의 KPI·조정 EBITDA·DD 질의에서 반복 충돌을 계량",
+        "Model: 고객·제품·주문·계정과 가치동인의 canonical schema 정의",
+        "Control: 대사 규칙, 변경 승인, 역할별 권한·로그·보존정책 설계",
+        "Build: ETL·산식은 코드와 테스트, 문서 매핑·설명 초안은 AI로 분리",
+        "Integrate: Actual→Forecast→Valuation→Exit pack의 숫자와 근거를 연결",
+        "Measure: 시간·정확도·재작업·채택·프로젝트 마진으로 확산 결정"
+      ]
+    },
+    {
+      "heading": "7. 지원자 경험과의 연결점",
+      "paragraphs": [
+        "EY한영 Deal3 SAT M&A에서 현업 인터뷰와 업무 관찰로 DCF Model, EV/EBITDA Multiple, Report Footing, DM Deck의 병목을 찾아 에이전트를 만든 경험은 Valuation Evidence Bridge의 문제 발견·구현·검증과 직접 연결된다. 면접에서는 'AI를 만들었다'보다 원천 숫자와 산출물의 불일치를 어떤 규칙으로 찾고, 계산과 판단을 어떻게 나눴으며, 리뷰어가 무엇을 승인하게 했는지를 보여주는 편이 강하다.",
+        "개인 Valuation Agent에서 SEC·DART 데이터를 한 스키마로 정규화하고 WACC·DCF·Multiple을 테스트 가능한 함수로 분리한 경험은 서로 다른 포트폴리오 데이터를 공통 정의로 묶는 기반이다. 보험 리스크 플랫폼에서 6만 건 이상 데이터를 8개 이상 위험 차원으로 구조화하고 분석 시간을 70% 줄인 경험은 데이터 모델과 의사결정 리드타임을 함께 설명할 사례다. 보완점은 실제 사용자 수·오류율·재작업률, 접근통제와 변경로그를 증빙하는 것이다."
+      ],
+      "bullets": [
+        "딜 도메인: DCF·Multiple·Footing·DM Deck의 입력과 리뷰 흐름 이해",
+        "데이터 모델: 미국·한국 공시의 공통 스키마와 단위·기간 정규화",
+        "결정론적 검증: 재무 산식과 대사를 코드·테스트로 분리",
+        "제품 실행: Python·TypeScript, API/DB와 웹 배포 경험",
+        "정량 사례: 6만 건+, 8개+ 차원, 70% 단축의 산식·기준선 설명",
+        "보완 과제: KPI owner·권한·감사로그와 현업 도입 전후 품질지표"
+      ]
+    }
+  ],
+  "interviewNotes": [
+    "지원 동기: 삼일PwC가 9월 PE Portfolio Letter에서 ERP와 AI 사이의 공통 자산으로 데이터 레이어를 제시한 점이 인상적이었습니다. 저는 Valuation 자동화와 공시 정규화 경험을 보유기간의 KPI와 Exit 근거를 잇는 내부 제품으로 확장하고 싶습니다.",
+    "핵심 문장: PE 포트폴리오에서 데이터는 대시보드의 재료가 아니라 Actual→Forecast→Valuation→Exit의 모든 숫자를 원천까지 재현하는 증거 자산이어야 합니다.",
+    "직무 이해: 이 역할은 AI 코딩만 하는 개발자가 아니라 재무자문 병목을 정의하고, 데이터·산식·판단을 분리해 승인 클라우드에서 운영하는 Valuation product builder라고 이해했습니다.",
+    "시장 해석: SAP의 일반 유지보수는 2027년 말 종료되지만 선택적 연장은 2030년까지 가능합니다. 그래서 획일적 전환보다 보유기간·시스템 복잡성·Exit 시점에 따라 데이터 레이어와 ERP 범위를 선택해야 합니다.",
+    "수치 해석: 투자자의 56%가 노후 ERP에 10% 초과 할인을 예상했다는 BCG 수치는 실제 거래 할인율이 아닙니다. 저는 이를 공포 마케팅이 아니라 IT DD 리스크를 계량할 질문 리스트의 출발점으로 쓰겠습니다.",
+    "사례 해석: 15영업일에서 4영업일로의 단축은 유의미하지만 익명 단일 사례입니다. 다음 프로젝트에서는 같은 속도와 함께 대사율, 수정 건수, 사용자 재작업과 DD 질의시간을 공개 가능한 범위에서 측정하겠습니다.",
+    "첫 제품: ERP·CRM·Excel을 canonical KPI schema로 변환하고, 조정 EBITDA와 Forecast를 DCF·Multiple·Exit pack까지 추적하는 Valuation Evidence Bridge를 제안하겠습니다.",
+    "AI 역할: 필드 매핑 후보, 문서 분류와 변동 설명 초안에는 AI를 쓰되, 합계·단위·환율·기간 대사와 Valuation 계산은 결정론적 코드와 테스트가 수행하게 하겠습니다.",
+    "거버넌스: KPI마다 owner, 정의, 원천, 기준일, 통화, 조정 사유, 코드 버전과 승인자를 연결하고 고객·프로젝트별 저장소와 접근권한을 분리하겠습니다.",
+    "90일 제안: 30일간 최근 프로젝트의 KPI 충돌과 재작업 기준선을 측정하고, 60일까지 10개 핵심 KPI의 schema·대사 테스트·권한을 구현한 뒤, 90일까지 한 모델과 Exit pack에 연결해 시간·정확도·채택으로 확대를 판단하겠습니다.",
+    "경험 연결: EY한영에서 딜 산출물의 병목을 4개 에이전트로 구현했고, 개인 프로젝트에서 SEC·DART 데이터를 한 구조와 결정론적 재무함수로 묶었습니다. 서로 다른 현업 언어를 검증 가능한 제품 사양으로 번역할 수 있습니다.",
+    "면접 질문: 현재 Valuation 프로젝트에서 Actual·Forecast·조정 EBITDA의 정의 충돌이 가장 많이 발생하는 데이터 원천과 리뷰 단계는 어디입니까?",
+    "면접 질문: PE 포트폴리오 데이터 레이어와 가치평가 내부도구가 연결될 때 Deals·AX Node·사내 IT의 제품 소유권과 데이터 품질 책임은 어떻게 나뉩니까?",
+    "면접 질문: 업무혁신 파일럿의 출시 게이트에서 계산 정확도, 데이터 계보, 리뷰 절감시간, 사용자 채택과 프로젝트 경제성 중 어떤 지표를 필수로 보십니까?",
+    "면접 질문: IFRS 18 대응으로 MPM과 조정 EBITDA bridge를 표준화할 때 고객별 판단을 남기면서도 재사용할 수 있는 공통 모듈은 무엇입니까?",
+    "주의할 표현: 2027년은 SAP 시스템 사용 자체의 강제 종료가 아니라 일반 유지보수 종료이며 선택적 연장은 2030년까지 가능하다. 56%와 10%는 설문상 예상, 15→4일은 익명 자사 사례다. 데이터 정비가 Exit premium을 보장한다고 말하지 않는다."
+  ],
+  "sources": [
+    {
+      "title": "PE Portfolio Letter Vol.8: ERP vs. AI, 잘못된 이분법을 넘어",
+      "publisher": "삼일PwC",
+      "publishedAt": "2026-09·2026-09-11 확인",
+      "url": "https://www.pwc.com/kr/ko/assurance/pe-portfolio-letter/202609.html"
+    },
+    {
+      "title": "PE Portfolio Letter Vol.7: 그 핫하다는 온톨로지, 우리는 어떻게?",
+      "publisher": "삼일PwC",
+      "publishedAt": "2026-05",
+      "url": "https://www.pwc.com/kr/ko/assurance/pe-portfolio-letter/202605.html"
+    },
+    {
+      "title": "PE Portfolio Letter Vol.6: IFRS 18",
+      "publisher": "삼일PwC",
+      "publishedAt": "2026-04",
+      "url": "https://www.pwc.com/kr/ko/assurance/pe-portfolio-letter/202604.html"
+    },
+    {
+      "title": "PE 포트폴리오 기업의 AI 도입에 대한 제언",
+      "publisher": "삼일PwC",
+      "publishedAt": "2025-11",
+      "url": "https://www.pwc.com/kr/ko/assurance/pe-portfolio-letter/202511.html"
+    },
+    {
+      "title": "How PE survives AI: Three areas where firms are being transformed today",
+      "publisher": "PwC US",
+      "publishedAt": "2025-11-03",
+      "url": "https://www.pwc.com/us/en/industries/financial-services/library/private-equity-ai-transformation.html"
+    },
+    {
+      "title": "Learning to Love ERP Migrations in Private Equity",
+      "publisher": "Boston Consulting Group",
+      "publishedAt": "2024-12-03",
+      "url": "https://www.bcg.com/publications/2024/learning-love-erp-migrations-private-equity"
+    },
+    {
+      "title": "Innovation Commitment for SAP S/4HANA until 2040: Business Suite 7 Maintenance",
+      "publisher": "SAP Support",
+      "publishedAt": "2020-02-04·2026-09-11 확인",
+      "url": "https://support.sap.com/en/release-upgrade-maintenance/maintenance-information/maintenance-strategy/s4hana-business-suite7.html"
+    },
+    {
+      "title": "IFRS 18 Presentation and Disclosure in Financial Statements",
+      "publisher": "IFRS Foundation",
+      "publishedAt": "2024-04·2026-09-11 확인",
+      "url": "https://www.ifrs.org/issued-standards/list-of-standards/ifrs-18-presentation-and-disclosure-in-financial-statements/"
+    },
+    {
+      "title": "한국채택국제회계기준 제·개정 공표: 제1118호 재무제표 표시와 공시",
+      "publisher": "한국회계기준원",
+      "publishedAt": "2025-12-26",
+      "url": "https://kasb.or.kr/front/board/comm010View.do?seq=2101"
+    },
+    {
+      "title": "삼일PwC-빅스데이터, AI 기반 경영 인텔리전스 에이전트 공동개발 협약",
+      "publisher": "삼일PwC",
+      "publishedAt": "2026-01-21",
+      "url": "https://www.pwc.com/kr/ko/press-room/2026/20260121.html"
+    },
+    {
+      "title": "Private Equity advisory",
+      "publisher": "삼일PwC",
+      "publishedAt": "발행일 미표기·2026-09-11 확인",
+      "url": "https://www.pwc.com/kr/ko/assurance/private-equity-advisory.html"
+    },
+    {
+      "title": "Deal Analytics",
+      "publisher": "삼일PwC",
+      "publishedAt": "발행일 미표기·2026-09-11 확인",
+      "url": "https://www.pwc.com/kr/en/deal/deal-analytics.html"
+    },
+    {
+      "title": "Deals 서비스와 2026년 2분기 운영 지표",
+      "publisher": "삼일PwC",
+      "publishedAt": "상시 갱신·2026-09-11 확인",
+      "url": "https://www.pwc.com/kr/ko/deal.html"
+    },
+    {
+      "title": "가치평가 서비스 업무혁신 신입인력 채용",
+      "publisher": "삼일PwC Careers",
+      "publishedAt": "발행일 미표기·2026-09-11 확인",
+      "url": "https://www.pwc.com/kr/ko/career/experienced/r260812-3.html"
+    },
+    {
+      "title": "수시채용: 진행 중인 채용 목록",
+      "publisher": "삼일PwC Careers",
+      "publishedAt": "상시 갱신·2026-09-11 확인",
+      "url": "https://www.pwc.com/kr/ko/career/experienced.html"
+    },
+    {
+      "title": "삼일PwC, 2026년 하반기 M&A 시장 전망 발표",
+      "publisher": "삼일PwC",
+      "publishedAt": "2026-08-06",
+      "url": "https://www.pwc.com/kr/ko/press-room/2026/20260806.html"
+    },
+    {
+      "title": "2025 PwC Korea Sustainability Report",
+      "publisher": "PwC Korea",
+      "publishedAt": "2025-10",
+      "url": "https://www.pwc.com/kr/ko/aboutus/pwckorea_sustainability-report2025_kr.pdf"
+    },
+    {
+      "title": "2024사업연도 회계법인 사업보고서 분석결과",
+      "publisher": "아시아투데이·금융감독원 인용",
+      "publishedAt": "2025-11-24",
+      "url": "https://www.asiatoday.co.kr/kn/view.php?key=20251124010012480"
+    }
+  ]
+}
