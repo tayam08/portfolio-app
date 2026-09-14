@@ -1,0 +1,282 @@
+{
+  "slug": "2026-09-14-furiosa-ai-workload-adoption-playbook",
+  "date": "2026-09-14",
+  "company": "퓨리오사AI",
+  "industry": "AI 반도체 · 추론 인프라 · NPUaaS · 글로벌 엔터프라이즈 AI",
+  "tier": "A Tier",
+  "targetRole": "Product - Business Engagement Intern (Segment Strategy & Partnerships)",
+  "title": "퓨리오사AI의 APAC 확장은 칩이 아니라 워크로드 증거의 복제력에서 갈린다",
+  "summary": "퓨리오사AI는 RNGD 양산, 삼성SDS NPUaaS, 실제 검색 서비스 운영에 이어 2026년 9월 10일 싱가포르 허브를 세웠다. 지금 필요한 것은 모든 GPU를 대체한다는 주장이 아니라 어느 고객·모델·트래픽에서 RNGD가 같은 품질과 SLO를 더 낮은 전력·비용으로 반복 달성하는지 표준화해 APAC 파트너가 재사용할 수 있는 채택 패키지로 만드는 일이다.",
+  "thesis": "AI 가속기 시장에서 피크 연산량은 구매 이유가 아니라 후보 자격이다. 퓨리오사AI가 양산 물량과 파트너 발표를 반복 매출로 바꾸려면 워크로드 적합성, 전환 비용, 운영 안정성, 토큰당 총비용을 동일 조건에서 검증하고 그 결과를 세그먼트별 영업·제품·파트너 의사결정으로 연결해야 한다. 이 증거 운영체계가 Product–Business Engagement 직무의 핵심 산출물이다.",
+  "tags": [
+    "퓨리오사AI",
+    "RNGD",
+    "AI 반도체",
+    "AI 추론",
+    "제품전략",
+    "Market Intelligence",
+    "Segment Strategy",
+    "Partnerships",
+    "APAC GTM",
+    "A Tier"
+  ],
+  "metrics": [
+    {
+      "label": "RNGD 양산 진입",
+      "value": "초도 4,000개 수령",
+      "context": "2026년 1월 퓨리오사AI 발표 기준 TSMC·ASUS 파트너를 통한 첫 물량. 고객 인도·매출 인식·가동률과 수율은 공개되지 않아 출하 성과와 반복 매출을 동일시하지 않음"
+    },
+    {
+      "label": "전력·배치 형태",
+      "value": "카드 180W · 8카드 서버 약 3kW",
+      "context": "회사 제품 자료와 9월 싱가포르 법인 발표에 기재된 설계치. 실제 시설 전력과 토큰당 비용은 모델·동시성·소프트웨어·PUE를 포함한 고객 환경에서 다시 측정해야 함"
+    },
+    {
+      "label": "파트너 공동 벤치마크",
+      "value": "처리량 95% · 전력 30~44% 절감",
+      "context": "Qwen3-32B FP8, 4 RNGD 대 4 RTX PRO 6000, 동시 요청 256 조건. Backend.AI도 전력당 처리량 1.3~1.5배를 공개했지만 단일 모델·정밀도·비교 환경의 결과이므로 전체 GPU 대비 우위로 일반화하지 않음"
+    },
+    {
+      "label": "상용 채널 근거",
+      "value": "SCP에서 1·2·4·8장 구독",
+      "context": "2026년 7월 삼성SDS와 퓨리오사AI가 각각 확인한 NPUaaS 구성. 하드웨어 선구매 없이 시험할 경로는 열렸지만 유료 고객 수, 사용률, 계약금액과 갱신률은 비공개"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "1. [사실과 판단] 왜 오늘 퓨리오사AI인가",
+      "paragraphs": [
+        "[사실] 퓨리오사AI는 2026년 9월 10일 싱가포르 법인을 설립해 APAC의 사업개발·영업·기술지원을 맡기겠다고 발표했다. 1월 RNGD 양산 진입, 7월 삼성SDS NPUaaS 상용화와 유럽 데이터센터 배치, 7월 말 다음 검색의 실제 추론 운영에 이은 확장이다. 채용 페이지에는 서울 HQ Product 조직의 Segment Strategy & Partnerships를 돕는 Business Engagement 인턴이 열려 있으며 시장·워크로드·고객·생태계 조사, 벤치마크 요약, 출시 준비와 시장 채택 지원을 명시한다.",
+        "[판단] 어제의 NAVER Place와 달리 오늘은 AI 인프라 하드웨어×제품전략×글로벌 파트너 채택을 다룬다. 최근 30건에 퓨리오사AI가 없고 최근 10건의 동일 그룹도 없으며, 최근 5건의 제조 AX·PE 데이터·의료 AX·로컬 CRM과 산업·직무·문제 조합이 겹치지 않는다. 공고가 초기경력에게 열려 있고 지원자의 AI 에이전트 구현, 금융 모델 검증, PoC·해외 GTM을 동시에 쓰게 한다는 점에서 유명도보다 실제 지원 서사가 강하다."
+      ],
+      "bullets": [
+        "오늘의 변화: APAC 영업·기술지원 허브 신설로 지역별 채택 playbook이 시급",
+        "추천 직무: Product - Business Engagement Intern, Segment Strategy & Partnerships",
+        "핵심 과제: 벤치마크→고객 PoC→프로덕션→확장 계약의 증거 체계",
+        "선정 이유: 직무 요건, 최신 사업 변화, 1차 자료, 포트폴리오 확장성이 동시에 충족"
+      ]
+    },
+    {
+      "heading": "2. [사실과 해석] 무엇으로 돈을 버는가",
+      "paragraphs": [
+        "[사실] 공개 제품은 RNGD PCIe 카드와 8카드 NXT 서버, 이를 구동하는 Furiosa SDK·furiosa-llm, 파트너 클라우드의 NPUaaS로 구성된다. 판매 경로는 기업의 카드·서버 구매, 클라우드 사업자의 구독형 인스턴스, 데이터센터·서버·오케스트레이션 파트너를 통한 통합 배치로 나뉜다. 삼성SDS는 고객이 1·2·4·8장 단위로 구독할 수 있다고 밝혔고, 퓨리오사AI는 Equinix Lisbon 환경을 평가 채널로 열었다. 회사는 가격, 매출, 마진, 고객별 계약 규모와 소프트웨어·지원 매출 비중을 공개하지 않았다.",
+        "[해석] 수익 구조의 병목은 칩 한 장의 ASP보다 채택 전환율과 설치 후 사용률이다. 평가 장비가 오래 머물거나 일부 모델만 지원하면 재고·기술지원·컴파일 비용이 늘고 현금 회수가 늦어진다. 반대로 검증된 워크로드를 카드 판매, NXT 서버, NPUaaS 중 고객 제약에 맞는 형태로 표준화하고 파트너가 반복 판매하면 물량, 클라우드 사용량, 유지·지원 수요가 함께 커질 수 있다."
+      ],
+      "bullets": [
+        "Hardware: RNGD PCIe 카드와 8카드 NXT 서버 판매",
+        "Cloud channel: 삼성SDS NPUaaS 등 사용량·구독형 접근",
+        "Ecosystem: CSP·데이터센터·서버·오케스트레이션·모델 파트너의 공동 판매",
+        "경제성 KPI: PoC→유료 전환, 설치 리드타임, 카드 가동률, 고객당 지원시간, 갱신·증설",
+        "확인 한계: 가격·매출·총마진·수주잔고·고객 집중도는 비공개"
+      ]
+    },
+    {
+      "heading": "3. [사실과 해석] 산업·경쟁 구도",
+      "paragraphs": [
+        "[사실] NVIDIA는 범용 학습·추론과 CUDA 생태계, 고속 인터커넥트의 기준을 만들었고 AMD는 MI350X에 288GB HBM3E, 8TB/s 대역폭과 1000W TBP를 제시한다. 국내 리벨리온도 2026년 REBEL-Quad의 칩렛·HBM3E·대규모 추론을 전면에 내세워 양산과 글로벌 PoC를 추진 중이다. IEA는 2025년 데이터센터 전력 소비가 17%, AI 중심 데이터센터는 50% 늘었고 데이터센터 전력 소비가 2025년 485TWh에서 2030년 950TWh로 증가할 것으로 전망했다.",
+        "[해석] 퓨리오사AI는 모든 학습·추론에서 범용 GPU를 이기려 하기보다 기존 공랭 랙, 반복 추론, 지원 모델, 전력 제약이 맞는 구간을 선점해야 한다. 경쟁축은 칩 사양만이 아니라 모델 출시 후 지원까지의 시간, vLLM·PyTorch·Kubernetes 호환, 장애 관측성, 고객 데이터 반출 제약, 공급 안정성, 전환 엔지니어링 비용이다. 삼성SDS도 NPU는 지원 모델과 연산에서 효율적이지만 새 구조 대응은 GPU보다 느릴 수 있으므로 동일 워크로드 검증이 선행돼야 한다고 설명한다."
+      ],
+      "bullets": [
+        "NVIDIA: 가장 넓은 개발자·소프트웨어·시스템 생태계와 범용성",
+        "AMD: 대용량 HBM과 개방형 ROCm, 학습·추론 통합 포트폴리오",
+        "국내 NPU: 리벨리온 등 소버린 AI·전력 효율·현지 파트너 경쟁",
+        "클라우드 자체칩: 고객을 하드웨어 구매가 아닌 클라우드 사용량 안에 묶는 경쟁",
+        "퓨리오사AI의 wedge: 기존 공랭 시설에서 반복되는 대규모 LLM·RAG·에이전트 추론"
+      ]
+    },
+    {
+      "heading": "4. [사실과 해석] 최신 운영 지표가 말하는 것",
+      "paragraphs": [
+        "[사실] 회사는 초도 4,000개 양산 물량을 받았고, 다음 검색에서 하루 약 5억 토큰을 생성한다고 밝혔다. Lablup과의 공동 실험에서는 Qwen3-32B FP8 기준 4 RNGD가 동시 요청 256에서 비교 GPU 처리량의 약 95%, 30~44% 낮은 가속기 전력, 전 구간 1.3~1.5배 전력당 처리량을 기록했다. SDK 2026.3은 Qwen3-VL, gpt-oss, Solar-Open, K-EXAONE 등 지원과 재컴파일 없는 FXB 배포 범위를 넓혔다. 삼성SDS는 RNGD NPUaaS의 실제 출시와 구독 단위를 별도 발표해 채널 실재를 교차 확인했다.",
+        "[해석] 양산, 벤치마크, 한 개 대규모 서비스, 클라우드 채널은 각각 중요한 증거지만 아직 반복 판매를 증명하지 않는다. Product 조직은 고객마다 모델·정밀도·입출력 길이·동시성·품질·P95/P99 지연·장애율·전력·엔지니어 시간을 같은 템플릿으로 기록해야 한다. 성공 사례는 ‘H200급’이라는 문구보다 어떤 조건에서 얼마의 마이그레이션 비용으로 목표 SLO와 품질을 달성했는지를 공개해야 다음 고객의 평가 기간이 짧아진다."
+      ],
+      "bullets": [
+        "공급 KPI: 수령 물량보다 고객 인도율, 설치 리드타임, 가동 카드 수",
+        "제품 KPI: 새 모델 지원 리드타임, 컴파일 성공률, 정확도 회귀, 장애 복구시간",
+        "고객 KPI: PoC→프로덕션 전환율, 첫 유료 토큰까지의 기간, 90일 사용량 유지",
+        "경제성 KPI: 동일 품질·SLO의 백만 토큰당 전력·인프라·지원 포함 총비용",
+        "채널 KPI: 파트너 독립 제안 비중, 공동 파이프라인, 지역별 증설·갱신"
+      ]
+    },
+    {
+      "heading": "5. [해석] 향후 3년의 성장동력",
+      "paragraphs": [
+        "첫째, 검색·RAG·문서분석·에이전트·멀티모달을 워크로드 archetype으로 나누고 재현 가능한 benchmark kit를 만드는 것이다. 모델 품질과 SLO를 고정한 뒤 GPU와 RNGD의 처리량, TTFT, TPOT, 전력, 운영 인력을 비교하면 ‘어떤 고객에게 팔지’가 선명해진다.",
+        "둘째, 삼성SDS·Backend.AI·Equinix·지역 CSP가 자체적으로 평가와 운영을 반복할 수 있는 파트너 패키지를 만드는 것이다. 샘플 모델, 데이터 수집 스키마, TCO 계산기, 보안·장애 체크리스트, 성공·중단 기준을 묶으면 본사 엔지니어가 모든 PoC에 붙지 않아도 된다.",
+        "셋째, SDK의 모델 지원 속도를 상업 우선순위와 연결하는 것이다. 고객 파이프라인의 예상 토큰량·마진·배포 시점으로 모델 지원 backlog를 정하고, Broadcom과의 3세대 제품은 대규모 에이전트 추론에서 데이터 이동·scale-up이 실제 고객 비용을 얼마나 줄이는지 단계별 증거를 쌓아야 한다."
+      ],
+      "bullets": [
+        "1년: 상위 3개 워크로드의 동일조건 benchmark kit와 PoC 종료 기준 표준화",
+        "2년: APAC·유럽 파트너가 독립 실행하는 평가→구독→증설 playbook 정착",
+        "3년: 3세대 가속기의 hyperscale 고객 설계 참여와 반복 공급 계약 확보",
+        "핵심 게이트: 모델 호환성, 배포시간, 프로덕션 SLO, 토큰당 총비용, 증설 의향"
+      ]
+    },
+    {
+      "heading": "6. [사실과 해석] 주요 리스크",
+      "paragraphs": [
+        "[사실] RNGD 벤치마크는 특정 모델·정밀도·동시성의 공동 실험이고, 회사가 밝힌 다음의 일일 토큰과 비용 절감은 고객사의 별도 수치 공개가 제한적이다. IEA는 HBM 부족이 적어도 2027년 말까지 이어질 수 있다고 지적한다. 경쟁사는 더 큰 메모리와 빠른 제품 주기, 넓은 소프트웨어 생태계로 대응하고 있으며 최신 MoE·멀티모달·추론 기법도 계속 바뀐다.",
+        "[해석] 가장 큰 위험은 홍보용 최고 수치를 고객의 실제 TCO로 오인하는 것이다. 모델 품질 저하, 지원되지 않는 연산, 트래픽 급증, 컴파일·운영 인력, 유휴 용량, 데이터센터 PUE를 포함하면 결과가 달라질 수 있다. 또한 TSMC·HBM·서버 제조 파트너에 대한 공급 의존, 소수 대형 고객 집중, 글로벌 기술지원 비용, 3세대 개발 자본 부담을 함께 봐야 한다."
+      ],
+      "bullets": [
+        "Benchmark risk: 조건이 다른 수치를 직접 비교하거나 전체 워크로드로 일반화",
+        "Software risk: 새 모델·연산자 지원 지연과 정확도·안정성 회귀",
+        "Supply risk: 파운드리·HBM·패키징·서버 파트너 병목과 재고 부담",
+        "Commercial risk: PoC는 많지만 유료 사용량·갱신·증설이 따라오지 않는 경우",
+        "Execution risk: APAC 확장 속도가 현지 기술지원·파트너 enablement를 앞지르는 경우"
+      ]
+    },
+    {
+      "heading": "7. [사실과 해석] 목표 직무가 해결할 문제",
+      "paragraphs": [
+        "[사실] 공고는 세그먼트·생태계·고객·워크로드 조사, 고객·파트너 피드백 구조화, 벤치마크 요약·FAQ·백서, launch readiness·market adoption 지원을 한 역할에 묶는다. [해석] 좋은 인턴의 산출물은 시장 규모 슬라이드가 아니라 영업이 ‘이 고객에게 이 워크로드부터 검증하자’고 결정하고 제품팀이 ‘이 모델 지원을 먼저 하자’고 우선순위를 바꾸게 하는 운영 문서다.",
+        "첫 과제로는 APAC의 금융 문서 RAG를 선택해도 좋다. 보안·데이터 반출 제약이 강하고 반복 추론량이 크며 지원자의 금융·규제·RAG 경험이 있다. 동일 문서 세트와 품질 기준에서 GPU와 RNGD의 답변 정확도, TTFT·TPOT, 동시성, 전력, 배포시간, 장애 복구, 백만 토큰당 총비용을 측정하고 2주 PoC의 go/no-go 기준을 제안할 수 있다."
+      ],
+      "bullets": [
+        "Segment: 반복 추론량·전력 제약·보안 요구·전환 난이도로 ICP 점수화",
+        "Evidence: 동일 모델·데이터·품질·SLO의 benchmark card 표준화",
+        "Feedback: 고객 이슈를 모델·컴파일러·서빙·인프라·운영으로 분류",
+        "Enablement: FAQ, TCO 계산기, objection handling, PoC·중단 기준 제공",
+        "Decision: 제품 backlog와 파트너 공동 GTM을 예상 토큰·마진·시급성으로 연결"
+      ]
+    },
+    {
+      "heading": "8. 지원자 경험과의 구체적 연결점",
+      "paragraphs": [
+        "EY Deal3 SAT M&A에서 DCF·EV/EBITDA·Report Footing·DM Deck 업무를 관찰하고 네 개의 AI 에이전트로 구현한 경험은 실제 금융 워크로드를 모델, 입력 길이, 검증 규칙, 오류 비용으로 분해할 수 있다는 증거다. 단순 LLM 데모가 아니라 사람이 검토하던 정확도와 시간 기준을 아는 점은 금융 RAG·문서분석용 RNGD benchmark를 설계할 때 유효하다.",
+        "인톡의 신한 PoC는 기관 요구를 제품 범위와 KPI로 바꾸고, 베트남·미국 GTM을 검토한 경험이다. 보험 리스크 플랫폼과 규제 문서 분석, AI Agent·RAG·웹앱 구현은 고객과 엔지니어 사이에서 질문을 번역할 기반을 준다. 경제학·수학은 TCO·민감도·투자 회수기간을 구조화하는 강점이다. 다만 반도체·분산시스템 전문성을 과장하지 말고 ‘고객 워크로드와 사업 증거를 구조화하는 제품전략 지원자’로 포지셔닝해야 한다."
+      ],
+      "bullets": [
+        "현업 발견: 인터뷰로 반복 병목을 찾고 AI 에이전트 요구사항으로 번역",
+        "검증 설계: DCF·Multiple·문서 정합성에서 정확도와 예외를 다룬 경험",
+        "규제 산업: 금융·보험의 설명가능성, 데이터 보안, 오류 비용 이해",
+        "PoC·GTM: 신한 요구 구조화와 베트남·미국 시장 진입 가설",
+        "직접 구현: Python·RAG·Agent·웹앱으로 작은 benchmark 도구를 만들 수 있음"
+      ]
+    },
+    {
+      "heading": "9. 강점 3개, 보완 역량 2개와 지원 판단",
+      "paragraphs": [
+        "[강점] 첫째, 금융·보험의 실제 AI 워크로드와 오류 비용을 이해한다. 둘째, 리서치와 재무 논리를 PoC의 KPI·중단 기준으로 바꿔본 경험이 있다. 셋째, 전략 문서에 그치지 않고 Python·LLM·RAG로 검증 도구를 구현할 수 있어 제품·엔지니어링 언어에 접근할 수 있다.",
+        "[보완] 첫째, CUDA·가속기 메모리·배치·KV cache·TTFT/TPOT·분산 서빙을 실제로 비교한 증거가 없다. 지원 전 공개 모델 하나로 GPU와 비용 가정이 포함된 1페이지 benchmark spec을 만들고 용어를 정확히 익혀야 한다. 둘째, 영어가 OPIc IH이며 APAC 파트너용 영문 기술 문서·회의 증거가 약하다. 같은 자료를 영문 executive memo와 3분 구두 설명으로 준비해야 한다.",
+        "[판단] 지원 우선순위는 A다. 공고가 신입·인턴 수준의 리서치·문서·제품전략 역량을 직접 요구하고, 최신 APAC 확장 때문에 역할의 실재 과제가 선명하다. 다만 채용 페이지에는 마감일과 전환 여부가 명시되지 않았으므로 빠르게 지원하고, 하드웨어 전문가인 척하기보다 금융 RAG 워크로드를 끝까지 측정할 수 있는 사업-기술 번역자로 승부해야 한다."
+      ],
+      "bullets": [
+        "강점 1: 금융·보험·규제 문서의 고객 문제와 오류 비용 이해",
+        "강점 2: 시장·재무·PoC KPI를 잇는 구조적 사고",
+        "강점 3: AI Agent·RAG·Python 기반의 실행형 프로토타이핑",
+        "보완 1: AI 추론 인프라·서빙 지표의 직접 측정 경험",
+        "보완 2: APAC 파트너 대상 영문 기술 커뮤니케이션 증거",
+        "즉시 행동: 48시간 안에 금융 RAG benchmark brief 한·영문 작성 후 지원"
+      ]
+    }
+  ],
+  "interviewNotes": [
+    "지원 동기: 퓨리오사AI는 RNGD를 양산하고 삼성SDS NPUaaS와 실제 검색 서비스까지 만들었습니다. 이제 APAC에서 중요한 것은 기술 발표를 반복 가능한 고객 채택으로 바꾸는 일입니다. 저는 금융 워크로드를 직접 관찰해 AI 에이전트로 구현하고 신한 PoC·해외 GTM을 구조화한 경험으로 그 증거 체계를 만들고 싶습니다.",
+    "핵심 문장: AI 가속기의 경쟁력은 최고 사양이 아니라 동일한 품질과 SLO에서 고객의 반복 추론 비용을 얼마나 예측 가능하게 줄이는지에 있습니다.",
+    "오늘의 문제 정의: 양산·파트너·벤치마크 증거는 생겼지만 공개 자료만으로 고객별 PoC 전환율, 유료 사용량, 갱신·증설은 알 수 없습니다. 그래서 세그먼트별 benchmark card와 채택 퍼널을 먼저 표준화해야 합니다.",
+    "EY 연결: DCF·EV/EBITDA·문서 정합성 업무를 관찰하고 에이전트로 바꾸면서 정확도, 검토 규칙, 예외 비용을 정의했습니다. 같은 방식으로 고객 워크로드의 품질·지연·비용 기준을 먼저 묻겠습니다.",
+    "인톡 연결: 신한 PoC에서 기관 요구를 제품 범위와 KPI로 번역했고 베트남·미국 진출 가설을 검토했습니다. APAC 파트너도 국가 나열보다 고객 제약, 현지 채널, 지원 책임과 go/no-go 기준으로 구조화하겠습니다.",
+    "보험·금융 연결: 보안과 설명가능성, 규제 문서의 최신성, 오류 비용이 큰 영역을 이해합니다. 금융 문서 RAG를 RNGD의 첫 세그먼트 가설로 제안하되 실제 데이터로 기각 가능하게 설계하겠습니다.",
+    "벤치마크 답변: 모델·정밀도·입출력 길이·동시성·품질·SLO를 고정하고 TTFT, TPOT, P95/P99, 처리량, 전력, 배포시간, 장애 복구, 지원 인력을 측정하겠습니다. 결과는 백만 토큰당 총비용과 전환 리스크로 요약하겠습니다.",
+    "우선순위 답변: 예상 토큰량×전력 절감×전환 가능성에서 모델 지원·엔지니어링 비용과 영업 리드타임을 빼 세그먼트와 제품 backlog를 함께 점수화하겠습니다.",
+    "실패 기준 답변: 품질 회귀, 목표 P99 미달, 지원되지 않는 핵심 연산, 과도한 컴파일·운영 인력 중 하나가 허용 범위를 넘으면 확장을 멈추고 GPU·혼합 구성을 권하겠습니다.",
+    "한계 답변: 가속기와 분산 서빙의 실무 깊이는 부족합니다. 이를 숨기지 않고 공개 모델 기준 benchmark spec을 직접 만들며 TTFT·TPOT·KV cache·배치의 관계를 검증해 보완하고 있습니다.",
+    "면접 질문 1: Segment Strategy & Partnerships 팀은 현재 시장 규모, 기술 적합성, 파트너 준비도 중 무엇을 첫 ICP 게이트로 사용하나요?",
+    "면접 질문 2: RNGD PoC가 프로덕션으로 넘어가지 못할 때 가장 자주 발생하는 병목은 모델 지원, 고객 인프라, TCO 증명, 구매 프로세스 중 무엇인가요?",
+    "면접 질문 3: 싱가포르 허브가 본사 도움 없이 반복해야 할 첫 세그먼트·워크로드와, 90일 안에 성공을 판단할 지표는 무엇인가요?",
+    "면접 질문 4: 제품팀은 고객 파이프라인의 예상 사용량과 새 모델 지원 backlog를 어떤 기준으로 연결하고 있나요?"
+  ],
+  "sources": [
+    {
+      "title": "Product - Business Engagement Intern",
+      "publisher": "FuriosaAI Careers (Ashby)",
+      "publishedAt": "2026-09-14 확인",
+      "url": "https://jobs.ashbyhq.com/furiosa-ai/4db32840-8aec-4649-b4b0-248b64edb899"
+    },
+    {
+      "title": "FuriosaAI establishes Singapore hub to drive APAC expansion and accelerate global RNGD deployment",
+      "publisher": "FuriosaAI",
+      "publishedAt": "2026-09-10",
+      "url": "https://furiosa.ai/blog/furiosaai-establishes-singapore-hub-apac-expansion"
+    },
+    {
+      "title": "RNGD Enters Mass Production: 4,000 High-Performance AI Accelerators Shipped by TSMC",
+      "publisher": "FuriosaAI",
+      "publishedAt": "2026-01-27",
+      "url": "https://furiosa.ai/blog/rngd-enters-mass-production-the-high-performance-ai-accelerator-for-any-data-center"
+    },
+    {
+      "title": "FuriosaAI and Samsung SDS Launch Korea’s First Domestic NPUaaS to Expand Enterprise AI Access",
+      "publisher": "FuriosaAI",
+      "publishedAt": "2026-07-20",
+      "url": "https://furiosa.ai/blog/furiosaai-and-samsung-sds"
+    },
+    {
+      "title": "Samsung SDS Officially Launches Korean NPU-Based NPUaaS",
+      "publisher": "Samsung SDS",
+      "publishedAt": "2026-07-20",
+      "url": "https://www.samsungsds.com/en/news/1295097_5252.html"
+    },
+    {
+      "title": "기업 AI 인프라, GPU 사양보다 워크로드 정합성이 먼저다",
+      "publisher": "Samsung SDS",
+      "publishedAt": "2026-08-18",
+      "url": "https://www.samsungsds.com/kr/insights/ai-infrastructure-workload-fit.html"
+    },
+    {
+      "title": "Furiosa RNGD powers AI-generated overviews for millions of users on Daum",
+      "publisher": "FuriosaAI",
+      "publishedAt": "2026-07-31",
+      "url": "https://furiosa.ai/blog/furiosa-rngd-powers-ai-generated-overviews-for-millions-of-users-on-daum"
+    },
+    {
+      "title": "RNGD meets Backend.AI: AI Inference Infrastructure for the Era of Sovereign AI",
+      "publisher": "Backend.AI · Lablup",
+      "publishedAt": "2026-08-06",
+      "url": "https://www.backend.ai/resources/backend-ai-furiosa-rngd-whitepaper"
+    },
+    {
+      "title": "White Paper: Benchmarking RNGD on Backend.AI for 1.3–1.5x greater efficiency in enterprise AI inference",
+      "publisher": "FuriosaAI",
+      "publishedAt": "2026-08-06",
+      "url": "https://furiosa.ai/blog/white-paper-benchmarking-rngd-on-backend-ai"
+    },
+    {
+      "title": "Furiosa SDK 2026.3: A new kernel framework, and the models it unlocks",
+      "publisher": "FuriosaAI",
+      "publishedAt": "2026-06-30",
+      "url": "https://furiosa.ai/blog/furiosa-sdk-2026-3-a-new-kernel-framework-and-the-models-it-unlocks"
+    },
+    {
+      "title": "FuriosaAI Expands European AI Infrastructure with RNGD Deployment at Equinix’s Lisbon Data Center",
+      "publisher": "FuriosaAI",
+      "publishedAt": "2026-07-07",
+      "url": "https://furiosa.ai/blog/furiosaai-equinixs-lisbon-data-center-press-release"
+    },
+    {
+      "title": "FuriosaAI partners with Broadcom to build next-generation inference platform for the Agentic Era",
+      "publisher": "FuriosaAI",
+      "publishedAt": "2026-05-27",
+      "url": "https://furiosa.ai/blog/furiosaai-partners-with-broadcom-to-build-next-generation-inference-platform-for-the-agentic-era"
+    },
+    {
+      "title": "리벨리온, ISSCC 2026서 칩렛 기반 REBEL-Quad 논문과 데모 발표",
+      "publisher": "Rebellions",
+      "publishedAt": "2026-02-19",
+      "url": "https://kr.rebellions.ai/newsroom/%EB%A6%AC%EB%B2%A8%EB%A6%AC%EC%98%A8-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%98%AC%EB%A6%BC%ED%94%BD-isscc-2026%EC%84%9C-%EC%B9%A9%EB%A0%9B-%EA%B8%B0%EB%B0%98-%EB%A6%AC%EB%B2%A8%EC%BF%BC%EB%93%9C/"
+    },
+    {
+      "title": "AMD Instinct MI350X GPU Specifications",
+      "publisher": "AMD",
+      "publishedAt": "2025-06-12",
+      "url": "https://www.amd.com/en/products/accelerators/instinct/mi350/mi350x.html"
+    },
+    {
+      "title": "Key Questions on Energy and AI",
+      "publisher": "International Energy Agency",
+      "publishedAt": "2026-04-16",
+      "url": "https://www.iea.org/reports/key-questions-on-energy-and-ai"
+    }
+  ]
+}
