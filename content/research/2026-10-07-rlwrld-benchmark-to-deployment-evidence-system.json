@@ -1,0 +1,280 @@
+{
+  "slug": "2026-10-07-rlwrld-benchmark-to-deployment-evidence-system",
+  "date": "2026-10-07",
+  "company": "리얼월드 (RLWRLD)",
+  "industry": "Physical AI · 로보틱스 파운데이션 모델 · 산업 자동화 · 제조·물류",
+  "tier": "A- (조건부 적극 지원)",
+  "targetRole": "[Intern] Technical Strategist",
+  "title": "RLWRLD Technical Strategist: 로봇 벤치마크를 현장 배포 경제성으로 바꾸는 Evidence System",
+  "summary": "RLDX-1의 연구 성능, DexBench의 작업 기준, 제조·물류 현장의 PoC를 하나의 검증 체계로 연결한다. 모델 평균 점수가 아니라 고객 작업별 성공률·사이클타임·개입률·안전·현금효과를 함께 추적해 기술·파트너십·투자 의사결정의 근거를 만드는 Technical Strategy 과제다.",
+  "thesis": "RLWRLD의 다음 3년 승부는 더 큰 모델을 발표하는 것보다 RLDX-1의 손 조작 우위를 반복 가능한 산업 성과로 증명하는 데 있다. 경제학·수학, EY 가치평가와 검토 자동화, AI Agent·RAG 제품 구현, 신한금융 PoC와 해외 GTM 경험은 기술 증거를 의사결정·제안·파트너 확장으로 번역하는 역할에 연결된다. 다만 로보틱스 논문과 제조 자동화 현장 경험은 확인되지 않으므로, 지원 전 기술 브리프와 작업 단위 ROI 모델을 만들어야 A- 적합도가 성립한다.",
+  "tags": [
+    "Technical Strategy",
+    "Physical AI",
+    "Robotics Foundation Model",
+    "벤치마크",
+    "PoC",
+    "산업 자동화",
+    "단위경제성",
+    "AI Transformation"
+  ],
+  "metrics": [
+    {
+      "label": "RLDX-1 ALLEX 평균 성공률",
+      "value": "86.8%",
+      "context": "회사 기술보고서의 4개 기능 과제 평균. 비교 모델 π₀.₅는 39.1%, GR00T N1.6은 44.8%였지만 동일 연구진이 설계한 제한된 평가이므로 독립 고객 성과로 해석하면 안 된다."
+    },
+    {
+      "label": "RoboCasa365 평균 점수",
+      "value": "32.1%",
+      "context": "RLDX-1 기술보고서 기준. 비교군 최고 26.9%보다 높지만 절대 수준은 복합 장기 작업의 미해결 난도를 보여준다."
+    },
+    {
+      "label": "사람 손 데이터 수집 속도",
+      "value": "시간당 200+ demonstrations",
+      "context": "회사 공개 파이프라인 주장. 실제 고객 작업의 데이터 품질·커버리지·재현성은 별도로 검증해야 한다."
+    },
+    {
+      "label": "누적 Seed 투자",
+      "value": "약 US$41M",
+      "context": "2026년 2월 회사 발표 기준 Seed 1 US$15M과 Seed 2 US$26M. 공식 채용 페이지는 이를 누적 약 600억원으로 소개한다."
+    },
+    {
+      "label": "한국 제조업 로봇 밀도",
+      "value": "근로자 1만명당 1,220대",
+      "context": "IFR가 2026년 4월 공개한 2024년 기준 수치로 세계 최고다. 높은 설치 밀도가 곧 범용 손 조작 자동화의 완성을 뜻하지는 않는다."
+    },
+    {
+      "label": "채용 상태",
+      "value": "신입 인턴 · 상시 지원",
+      "context": "2026년 10월 7일 공식 채용 목록에서 Technical Strategist 인턴이 노출됐다. 인턴 전형은 통상 과제와 온라인 면접 2회를 포함한다."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "1. 왜 오늘 RLWRLD인가: 공개 기술과 현장 사업 사이를 잇는 신입 전략석이 실제로 열려 있다",
+      "paragraphs": [
+        "[사실] RLWRLD 공식 채용 목록에는 신입 대상 Technical Strategist 인턴이 현재 노출돼 있다. 공고는 로보틱스·AI 기술 동향과 논문 리서치, 경쟁 환경 분석, 전략 문서 작성, AI 도구를 활용한 리서치·문서 생산성 향상을 주요 업무로 제시한다.",
+        "[사실] 회사는 2026년 5월 RLDX-1 기술보고서와 코드·체크포인트를 공개했고, 8월에는 DexBench를 위한 국내 로보틱스·시뮬레이션 스타트업 3곳과의 MOU를 발표했다. 2월 회사 발표에는 한국·일본 투자자와 진행 중인 PoC 및 일부 공동 배포 단계 프로젝트가 언급됐다.",
+        "[해석] 지금 필요한 전략 역할은 ‘Physical AI가 유망하다’는 서술이 아니라 연구 성능, 산업 작업, 데이터 권리, 고객 ROI를 같은 증거 사슬로 연결하는 일이다. 이는 지원자의 가치평가·문서 대사·AI 제품·PoC·GTM 경험을 한 직무 서사로 묶으면서 최근 게임·식품·정유·바이오 물류 보고서와 다른 산업 문제를 보여준다."
+      ],
+      "bullets": [
+        "추천 직무: RLWRLD Technical Strategist 인턴.",
+        "지원 서사: 기술 주장을 출처·벤치마크·현장 KPI·현금효과로 연결하는 실행형 전략가.",
+        "채용 실재 근거: 회사 Careers가 연결하는 공식 채용 목록에 신입 인턴 공고가 현재 노출된다.",
+        "적합도: A- 조건부. 전략·AI·재무 연결은 강하지만 로보틱스 도메인 증명이 선행돼야 한다."
+      ]
+    },
+    {
+      "heading": "2. 수익 구조: 공개 매출 대신 RX→PoC→공동 구축의 전환 구조를 검증해야 한다",
+      "paragraphs": [
+        "[사실] RLWRLD는 비상장 초기기업으로 매출·고객별 계약금액·마진을 공개하지 않았다. 공식 Business 페이지는 고객 운영을 진단하는 Robotics Transformation(RX) 로드맵, 현장 PoC, 산업 모델 공동 구축의 세 진입 경로와 장기 파트너십을 제시한다.",
+        "[해석] 공개 정보로 확인 가능한 상업 구조는 ① 공정 진단·로드맵, ② 현장 데이터 수집과 PoC, ③ 특정 작업·하드웨어에 맞춘 모델 공동 개발·배포, ④ 장기 업데이트·지원 또는 지능 레이어 사용권으로 확장되는 형태다. 실제 과금 단위와 계약 구조는 확인되지 않았으므로 확정 사실처럼 말하면 안 된다.",
+        "[해석] 전략팀의 핵심은 기술 지표를 계약 단계와 연결하는 것이다. 고객 작업 하나마다 현재 인건비·불량·정지시간·안전비용을 기준선으로 잡고, 성공률·사이클타임·사람 개입률·배포비용이 어느 수준일 때 PoC가 유료 확장으로 넘어가는지 gate를 정의해야 한다."
+      ],
+      "bullets": [
+        "RX: 자동화 후보 작업을 발견하고 기술 가능성·경제성·데이터 접근성을 우선순위화한다.",
+        "PoC: 제한된 라인과 작업에서 성공률, 속도, 개입, 안전, 데이터 수집비를 검증한다.",
+        "공동 구축: 고객 데이터와 RLWRLD 모델, 로봇·센서·컴퓨트 파트너를 하나의 배포안으로 묶는다.",
+        "확장: 동일 작업의 다른 라인·사이트·하드웨어로 전이될 때 추가 데이터와 재학습 비용을 추적한다.",
+        "북극성 지표(제안): 안전 기준을 충족한 고객 작업의 12개월 위험조정 순현금효과."
+      ]
+    },
+    {
+      "heading": "3. 산업·경쟁 구도: 높은 로봇 보급률 다음 병목은 손 조작과 현장 전이 증거다",
+      "paragraphs": [
+        "[사실] IFR에 따르면 2024년 전 세계 산업용 로봇 신규 설치는 54.2만대였고, 한국은 제조업 근로자 1만명당 1,220대로 세계 최고 로봇 밀도를 기록했다. 기존 자동화 시장이 크다는 뜻이지만, 고정적 반복 동작 밖의 세밀한 작업이 자동화됐다는 뜻은 아니다.",
+        "[사실] 경쟁축은 Google DeepMind의 Gemini Robotics 2처럼 전체 몸 제어·손 조작·다중 로봇 협업을 넓히는 대형 모델, NVIDIA GR00T와 Isaac처럼 개방형 모델·시뮬레이션·컴퓨트 생태계를 묶는 플랫폼, 그리고 특정 하드웨어·공정에 깊게 들어가는 로봇 기업으로 나뉜다.",
+        "[해석] RLWRLD의 차별화 가설은 고자유도 손, 촉각·토크·기억·동작 인지, 한국·일본 산업 파트너의 실제 데이터다. 그러나 논문 벤치마크 우위만으로 고객 전환비용과 대형 플랫폼의 배포 생태계를 이길 수 없다. 비교 단위는 ‘모델 평균점수’가 아니라 고객 작업의 안정적 처리비용과 재배포 속도여야 한다."
+      ],
+      "bullets": [
+        "모델 경쟁: 일반화·추론·손 조작·장기 작업·온디바이스 지연시간.",
+        "데이터 경쟁: 실제 작업 다양성, 실패·교정 데이터, 데이터 권리, 산업별 희소 작업 커버리지.",
+        "생태계 경쟁: 로봇 손·센서·시뮬레이터·GPU·시스템 통합 파트너와의 호환성.",
+        "상업 경쟁: PoC 기간, 설치·통합비, 작업자 개입, 라인 정지 위험, 사이트 간 복제 비용.",
+        "신뢰 경쟁: 독립 재현, 안전 사례, 실패 분류, 고객 기준선 대비 개선의 투명성."
+      ]
+    },
+    {
+      "heading": "4. 최신 운영 지표와 3년 성장동력",
+      "paragraphs": [
+        "[사실] RLDX-1 보고서는 ALLEX 기능 과제 평균 성공률 86.8%, RoboCasa365 평균 32.1%, 최적화 후 all-modality 추론 지연 71.22ms에서 43.70ms로의 개선을 보고했다. 코드와 체크포인트가 공개돼 기술 검토 가능성도 높였다. 다만 회사 연구진의 평가이며 독립 고객 배포 성과는 아니다.",
+        "[사실] 회사는 DexBench를 18개 Key Atomic Tasks와 80개 대표 use cases로 구성하고, NVIDIA Isaac 환경과 연결해 개발 중이라고 밝혔다. 2026년 World Economic Forum Technology Pioneer에도 선정됐다. 이는 인지도와 파트너 접근의 신호이지 매출 증명은 아니다.",
+        "[해석] 첫 성장동력은 기술보고서의 과제를 제조·물류·리테일·항공 고객의 실제 작업으로 매핑해 재현 가능한 증거를 만드는 것이다. 둘째는 한국·일본 파트너 현장의 데이터가 실패 수정과 모델 개선으로 돌아오는 학습 플라이휠이다. 셋째는 하드웨어 중립 모델과 DexBench를 기반으로 작업·사이트 확장 비용을 낮추는 것이다."
+      ],
+      "bullets": [
+        "2026~2027: 각 PoC에 작업 기준선·실패 taxonomy·안전 gate·경제성 가설을 의무화한다.",
+        "2027~2028: 동일 작업을 다른 로봇 손·라인·국가에 옮길 때 필요한 추가 데이터와 시간을 측정한다.",
+        "2028~2029: 반복 가능한 작업 패키지와 장기 모델 업데이트·지원 계약으로 수익의 예측가능성을 높인다.",
+        "기술 자산: RLDX-1, 실제·합성 데이터 파이프라인, 촉각·토크·기억 모듈, DexBench.",
+        "상업 자산: 전략 투자자와 제조·물류·서비스 현장의 데이터·PoC·공동 배포 관계."
+      ]
+    },
+    {
+      "heading": "5. 주요 리스크: 연구 점수, 현장 성과, 반복 매출 사이의 간극",
+      "paragraphs": [
+        "첫째는 외부 타당성 리스크다. 회사가 설계한 과제와 통제 환경의 성능이 다른 고객의 조명·물체·속도·오염·작업자 동선에서 재현되지 않을 수 있다. 벤치마크 선택과 비교군 설정이 유리했는지도 분리해 봐야 한다.",
+        "둘째는 단위경제성 리스크다. 높은 성공률도 센서·컴퓨트·로봇 손·통합·안전검증·현장 중단 비용이 크면 사람 작업 대비 경제성이 없다. PoC가 늘어도 고객별 커스텀이 누적되면 제품 회사가 아니라 프로젝트 회사가 될 수 있다.",
+        "셋째는 집중·생태계 리스크다. 초기기업이 대형 모델 기업의 연구 속도와 하드웨어 파트너 의존을 동시에 감당해야 한다. 고객 데이터 권리, 모델 개선분의 귀속, 안전 책임, 사이버보안, 국가 간 데이터 이전도 계약 단계에서 병목이 될 수 있다."
+      ],
+      "bullets": [
+        "성능 리스크: 평균 성공률이 희귀하지만 치명적인 실패와 연속 가동 안정성을 숨길 수 있다.",
+        "운영 리스크: 사람 개입, 재학습, 장비 유지보수, 라인 정지와 안전 인증 비용.",
+        "상업 리스크: 무료·저가 PoC의 장기화, 고객별 과도한 커스텀, 긴 예산·구매 주기.",
+        "데이터 리스크: 산업 데이터의 소유권·반출 제한·라벨 품질·공정 편향.",
+        "자본 리스크: 매출 공개 없이 큰 연구·컴퓨트·현장 배포 비용을 지속해야 하는 부담."
+      ]
+    },
+    {
+      "heading": "6. 목표 직무가 풀 문제: Benchmark-to-Deployment Evidence System",
+      "paragraphs": [
+        "제안 과제는 논문·DexBench·고객 PoC·경제성·대외 커뮤니케이션을 하나로 잇는 Benchmark-to-Deployment Evidence System이다. 공개자료 기반 지원용 가설이며 RLWRLD의 내부 고객·비용·모델 로그에 접근했다는 뜻은 아니다.",
+        "0~30일에는 18개 Atomic Task를 고객 공정의 작업·환경·하드웨어·실패 유형·안전 요구와 매핑하고, 모든 기술 주장에 출처·평가 조건·한계를 붙인다. 31~60일에는 한 개 PoC를 성공률·사이클타임·개입률·재시도·불량·에너지·통합비·현장 중단시간으로 계측한다. 61~90일에는 기준선 대비 12개월 현금효과와 하방 시나리오를 만들고, 확장·재설계·중단 gate를 경영진·R&D·고객이 함께 승인하게 한다.",
+        "AI Agent는 논문·실험 로그·회의록·고객 요구를 근거 링크와 함께 검색하고 반복 브리프의 초안을 만드는 데 쓴다. 성능 계산, 안전 판정, 고객 ROI, 투자자용 주장 승인은 검증된 코드와 담당자가 맡아야 한다."
+      ],
+      "bullets": [
+        "기술 KPI: 작업별 성공률 분포, 연속 성공, 실패 유형, 지연시간, 미관측 환경 성능.",
+        "운영 KPI: 사이클타임, 처리량, 사람 개입·재시도, 가동률, 평균 복구시간, 라인 중단.",
+        "경제 KPI: 작업당 총비용, 통합·재학습비, 불량·안전비 절감, 회수기간, 12개월 NPV.",
+        "전이 KPI: 새 물체·손·라인·사이트별 추가 demonstrations, 학습시간, 성능 회복 기간.",
+        "확장 gate: 안전·품질 하한, 고객 기준선 대비 현금효과, 재현성, 데이터 권리가 모두 충족될 것."
+      ]
+    },
+    {
+      "heading": "7. 지원자 경험 연결, 강점 3개와 보완할 역량 2개",
+      "paragraphs": [
+        "EY한영 Deal3 SAT M&A의 DCF·EV/EBITDA와 Report Footing 자동화는 기술 가정을 현금흐름으로 바꾸고 수치·근거 일관성을 검토하는 기반이다. 신한금융 PoC와 베트남·미국 GTM은 여러 이해관계자의 요구를 성공 기준과 확장 gate로 구조화한 경험으로 연결할 수 있다.",
+        "AI Agent·RAG·데이터 제품 구현은 논문, 실험, 고객 요구를 검색 가능한 근거 체계로 만드는 데 맞고, 경제학·수학은 평균 성공률보다 분포·하방·증분효과를 보게 한다. 다만 금융 AI의 소프트웨어 워크플로를 로봇 현장 배포 경험으로 표현해서는 안 된다.",
+        "강점 1은 기술·사업·재무 언어를 한 의사결정 문서로 번역하는 능력이다. 강점 2는 근거 추적이 가능한 AI 워크플로를 직접 구현하는 능력이다. 강점 3은 PoC와 해외 GTM 경험으로 시험을 확장 조건과 고객 서사로 연결하는 능력이다.",
+        "보완 역량 1은 로보틱스 기술 독해다. VLA, imitation learning, DAgger, sim-to-real, DoF, torque·tactile sensing을 RLDX-1 논문의 평가 설계와 함께 설명해야 한다. 보완 역량 2는 산업 자동화 경제성이다. OEE, takt/cycle time, 가동률, MTBF·MTTR, 안전·통합비를 포함한 작업 단위 모델을 직접 만들어야 한다."
+      ],
+      "bullets": [
+        "EY 가치평가·대사 자동화 → 기술 주장, 비용 가정, 현금효과, 출처의 일관성 검토.",
+        "AI Agent·RAG → 논문·실험·고객 요구의 근거 검색과 전략 브리프 자동화.",
+        "신한 PoC·해외 GTM → 이해관계자 요구, 성공 기준, 국가·사이트 확장 gate.",
+        "경제학·수학 → 평균이 아닌 분포, 대조군, 민감도, 하방 시나리오.",
+        "과장 금지: 로봇 제어, 공장 라인, 실제 Physical AI PoC를 수행했다고 말하지 않는다."
+      ]
+    },
+    {
+      "heading": "8. 지원 우선순위와 실행 조건",
+      "paragraphs": [
+        "지원 우선순위는 A- Tier, 조건부 적극 지원이다. 신입 인턴이 실제 열려 있고 기술 리서치·경쟁 분석·전략 문서·AI-native 업무 방식이 지원자의 강점과 구체적으로 맞는다. Physical AI라는 새 도메인도 포트폴리오 확장성이 높다.",
+        "단, 공고는 로보틱스·AI 논문을 읽고 R&D와 대화할 수 있는 깊이를 요구한다. 지원 전 RLDX-1 기술 브리프와 한 개 산업 작업의 ROI 모델을 완성하지 못하면 우선순위를 B로 낮춰야 한다. ‘AI Agent를 만들었다’는 범용 서사만으로는 권하지 않는다."
+      ],
+      "bullets": [
+        "지원서 한 문장: ‘가치평가의 하방 검증, AI 근거 시스템 구현, PoC·GTM 경험으로 로봇 성능을 고객 작업의 현금효과와 확장 gate로 번역하겠습니다.’",
+        "필수 산출물 1: RLDX-1 논문의 주장·평가조건·한계·경쟁모델을 정리한 3페이지 기술 브리프.",
+        "필수 산출물 2: 물류 피킹 또는 정밀 조립 한 작업의 기준선·PoC KPI·12개월 NPV 모델.",
+        "필수 산출물 3: 논문·실험표·고객 요구를 근거 링크와 함께 검색하는 소형 RAG 데모.",
+        "중단 조건: 로보틱스 논문 독해와 현장 KPI 학습에 투자할 의지가 없으면 지원하지 않는다."
+      ]
+    },
+    {
+      "heading": "9. 면접용 문장과 질문",
+      "paragraphs": [
+        "면접에서는 RLDX-1의 높은 점수를 반복하지 말고 ‘어떤 작업, 어떤 조건, 어떤 비교군, 어떤 실패가 포함됐는가’를 먼저 묻는 태도를 보인다. 기술을 의심하는 것이 아니라 고객이 구매할 수 있는 증거로 바꾸는 과정이라고 설명한다.",
+        "답변은 본인의 검증 경험→공개자료에서 본 증거 간극→90일 Evidence System→로보틱스 경험 한계와 보완 산출물 순으로 구성한다. 회사의 비공개 매출·고객 계약·배포 규모를 추정 사실처럼 말하지 않는다."
+      ],
+      "bullets": [
+        "면접 문장: ‘벤치마크 승리는 시작점입니다. 저는 작업별 성공률·사이클타임·개입률·안전·12개월 현금효과를 연결해 PoC의 확장·재설계·중단 기준을 만들겠습니다.’",
+        "면접 문장: ‘LLM은 논문과 실험 근거를 구조화하되, 성능 계산·안전 판정·고객 ROI는 코드와 담당자의 승인으로 통제하겠습니다.’",
+        "질문 1: Technical Strategy가 RLDX-1 연구 성능을 고객 현장의 통과 기준으로 바꿀 때 가장 먼저 고정하는 평가 조건은 무엇입니까?",
+        "질문 2: RX 진단, PoC, 공동 구축 사이에서 유료 확장을 결정하는 공통 KPI와 중단 기준이 있습니까?",
+        "질문 3: DexBench의 18개 Atomic Task와 80개 use case가 실제 고객 작업 및 제품 로드맵 우선순위에 어떻게 연결됩니까?",
+        "질문 4: 고객 데이터와 실패 교정 데이터에서 모델 개선분의 권리·재사용·보안을 어떤 원칙으로 설계합니까?",
+        "질문 5: 인턴이 첫 3개월에 소유할 수 있는 기술 브리프, 경쟁 분석, 벤치마크 프레임워크의 범위와 성공 기준은 무엇입니까?"
+      ]
+    }
+  ],
+  "interviewNotes": [
+    "RLDX-1의 86.8%는 회사 연구진이 구성한 ALLEX 4개 기능 과제 평균이며 고객 현장 가동률이 아니라고 구분한다.",
+    "RoboCasa365 32.1%는 비교군보다 높지만 복합 장기 작업의 절대 난도가 여전히 높다는 근거로 사용한다.",
+    "누적 투자 US$41M은 2026년 2월 회사 발표이며, 공식 채용 페이지의 약 600억원 표현과 범위가 대체로 일치한다고만 말한다.",
+    "회사는 매출·가격·고객별 계약을 공개하지 않았다. RX·PoC·공동 구축 이후의 과금 방식은 검증 질문으로 남긴다.",
+    "Google Gemini Robotics 2와 NVIDIA GR00T는 경쟁·플랫폼 기준점이며, 서로 다른 비공개 데이터와 평가를 단순 순위로 비교하지 않는다.",
+    "EY 자동화 경험을 로봇 자동화 경험으로 바꾸어 말하지 않고 증거 설계·수치 검토·현금흐름 모델링 역량으로 연결한다.",
+    "공식 채용 목록은 2026년 10월 7일 기준 live였고 마감일은 상시로 표시돼 있으므로 지원 직전 상태를 다시 확인한다.",
+    "면접 전 RLDX-1 기술 브리프, 작업 단위 ROI 모델, 근거 검색 RAG 데모를 실제 산출물로 준비한다."
+  ],
+  "sources": [
+    {
+      "title": "[Intern] Technical Strategist",
+      "publisher": "RLWRLD 공식 채용",
+      "publishedAt": "상시 채용 · 2026-10-07 접속",
+      "url": "https://realworld.career.greetinghr.com/ko/o/206491"
+    },
+    {
+      "title": "Careers",
+      "publisher": "RLWRLD",
+      "publishedAt": "2026-10-07 접속",
+      "url": "https://www.rlwrld.ai/en/careers"
+    },
+    {
+      "title": "RLDX-1: A Dexterity-First Foundation Model for Robot Hands",
+      "publisher": "RLWRLD",
+      "publishedAt": "2026-05-07",
+      "url": "https://www.rlwrld.ai/en/rldx-1"
+    },
+    {
+      "title": "RLDX-1 Technical Report",
+      "publisher": "arXiv · RLWRLD research team",
+      "publishedAt": "2026-05-05",
+      "url": "https://arxiv.org/abs/2605.03269"
+    },
+    {
+      "title": "RLWRLD Business — RX, PoC and Industry Model Partnership",
+      "publisher": "RLWRLD",
+      "publishedAt": "2026-10-07 접속",
+      "url": "https://www.rlwrld.ai/en/business"
+    },
+    {
+      "title": "RLWRLD Raises $26M Seed 2, Bringing Total Funding to $41M",
+      "publisher": "RLWRLD · GlobeNewswire",
+      "publishedAt": "2026-02-25",
+      "url": "https://www.globenewswire.com/news-release/2026/02/26/3245146/0/en/RLWRLD-Raises-26M-Seed-2-Bringing-Total-Funding-to-41M-to-Scale-Industrial-Robotics-AI.html"
+    },
+    {
+      "title": "RLWRLD Signs MOUs with Three Korean Robotics and Simulation Startups",
+      "publisher": "RLWRLD",
+      "publishedAt": "2026-08-14",
+      "url": "https://www.rlwrld.ai/en/news/94"
+    },
+    {
+      "title": "Robot Density Surges in Europe, Asia, and Americas",
+      "publisher": "International Federation of Robotics",
+      "publishedAt": "2026-04-08",
+      "url": "https://ifr.org/ifr-press-releases/news/robot-density-surges-in-europe-asia-and-americas"
+    },
+    {
+      "title": "Global Robot Demand in Factories Doubles Over 10 Years",
+      "publisher": "International Federation of Robotics",
+      "publishedAt": "2025-09-25",
+      "url": "https://ifr.org/ifr-press-releases/global-robot-demand-in-factories-doubles-over-10-years"
+    },
+    {
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "publisher": "Google DeepMind",
+      "publishedAt": "2026-07-30",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/"
+    },
+    {
+      "title": "NVIDIA Releases New Physical AI Models as Global Partners Unveil Next-Generation Robots",
+      "publisher": "NVIDIA Newsroom",
+      "publishedAt": "2026-01-05",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-releases-new-physical-ai-models-as-global-partners-unveil-next-generation-robots"
+    },
+    {
+      "title": "Meet the 2026 Technology Pioneers shaping AI, energy, space and the next frontier",
+      "publisher": "World Economic Forum",
+      "publishedAt": "2026-06-10",
+      "url": "https://www.weforum.org/stories/emerging-technologies/meet-the-2026-technology-pioneers/"
+    },
+    {
+      "title": "ANA Future Creation Fund invests in Korea-based physical AI startup RLWRLD",
+      "publisher": "ANA Holdings",
+      "publishedAt": "2025-04-15",
+      "url": "https://www.anahd.co.jp/group/pr/202504/20250415-4.html"
+    }
+  ]
+}
