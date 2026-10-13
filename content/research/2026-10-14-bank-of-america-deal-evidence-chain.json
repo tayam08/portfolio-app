@@ -1,0 +1,266 @@
+{
+  "slug": "2026-10-14-bank-of-america-deal-evidence-chain",
+  "date": "2026-10-14",
+  "company": "Bank of America",
+  "industry": "글로벌 투자은행 · M&A 자문 · 자본시장 · 기업금융",
+  "tier": "A- (우선 지원 · 2026-11-01 마감, 영어·실전 모델링 검증 필요)",
+  "targetRole": "Global Investment Banking Off-Cycle Analyst 2027 — Seoul",
+  "title": "Bank of America 서울 GIB: AI로 빨라진 딜을 검증 가능한 Deal Evidence Chain으로 바꾸는 Analyst",
+  "summary": "2027년 정규직 전환 기회가 있는 서울 6개월 Off-Cycle Analyst 공고를 겨냥해, 데이터룸 원문부터 밸류에이션·합병효과·고객자료까지 수치와 가정의 계보를 잇는 Source-to-Model Deal Evidence Chain을 제안한다.",
+  "thesis": "[사실] Bank of America는 2026년 2분기 전사 투자은행 수수료 21억달러로 전년 대비 50% 성장했고, 약 4천명의 Corporate & Investment Banking 인력이 AI를 리서치와 프레젠테이션 준비에 쓰고 있다. 서울 Off-Cycle Analyst는 복잡한 재무모델, 가치평가·합병효과, 산업 리서치, 고객자료와 실사를 직접 수행하며 2027년 정규직 전환 기회가 있다. [해석] 속도가 빨라질수록 주니어의 차별점은 슬라이드 생산량이 아니라 원문·가정·계산·검토가 다시 재현되는 딜 증거를 만드는 능력이다. 경제학·수학, EY한영 Deal3 SAT M&A의 DCF·EV/EBITDA와 Report Footing·DM Deck 자동화, 금융 규제 문서 분석과 AI Agent 구현은 이 문제에 직접 연결된다. 다만 영어 유창성, 국제 IB 수준의 모델링 속도, 장시간 다중 딜 실행과 거래 종결 경험은 아직 증명되지 않아 A-로 평가한다.",
+  "tags": [
+    "Investment Banking",
+    "M&A",
+    "Valuation",
+    "Deal Execution",
+    "Financial Modeling",
+    "Due Diligence",
+    "AI Governance",
+    "Cross-border"
+  ],
+  "metrics": [
+    {
+      "label": "채용 상태",
+      "value": "2026-11-01 마감 · 2027년 1/2월 시작",
+      "context": "서울 6개월 Off-Cycle Internship이며 최종학년 또는 최근 학부·석사 졸업자가 대상이다. 2027년 정규직 전환 기회가 명시돼 있다."
+    },
+    {
+      "label": "2Q26 전사 실적",
+      "value": "매출 317억달러 · 순이익 91억달러",
+      "context": "2026년 7월 14일 SEC 제출 보도자료와 실적자료에서 교차 확인했다. 3분기 실적 발표는 미국 동부시간 10월 14일 예정이므로 한국시간 오전 기준 2분기가 최신 공표 실적이다."
+    },
+    {
+      "label": "2Q26 Global Banking",
+      "value": "매출 62억달러 · 순이익 20억달러",
+      "context": "매출은 전년 대비 10%, 순이익은 20% 늘었다. 전사 투자은행 수수료, 순이자이익과 트랜잭션 서비스가 함께 수익을 만든다."
+    },
+    {
+      "label": "2Q26 투자은행 수수료",
+      "value": "21억달러 · +50% YoY",
+      "context": "Self-led 거래를 제외한 전사 기준이다. Global Banking 손익의 수수료 항목과 전사 IB fee 정의가 다르므로 동일 숫자로 혼용하지 않는다."
+    },
+    {
+      "label": "2025 Global Banking 매출",
+      "value": "241억달러",
+      "context": "2025년 연간 세그먼트 매출이며 전사 1,137억달러 가운데 기업대출·예금, Global Transaction Services와 투자은행 수수료가 결합된 사업이다."
+    },
+    {
+      "label": "CIB AI 활용 규모",
+      "value": "약 4천명",
+      "context": "2Q26 공식 실적자료는 약 4천명의 Corporate & Investment Banking 인력이 리서치와 프레젠테이션 준비에 AI를 사용한다고 밝혔다. 전사 기준 승인된 AI·ML 사례는 300건 이상이다."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "1. 왜 오늘 Bank of America인가: 실제 지원 가능한 M&A 직무와 새로운 규제 변화가 만났다",
+      "paragraphs": [
+        "[사실] 공식 채용 페이지는 서울 Global Investment Banking Off-Cycle Analyst 지원을 2026년 11월 1일까지 받는다. 최종학년 또는 최근 졸업자에게 열려 있고, 2027년 1월 또는 2월부터 6개월간 근무하며 정규직 전환 기회가 있다. 업무는 재무모델, 가치평가와 합병효과 분석, 회사·산업 리서치, 고객자료, 실사와 글로벌 딜팀 협업이다.",
+        "[사실] 한국 금융위원회는 2026년 12월 9일부터 상장회사 합병 등의 가액을 시가 중심 공식이 아니라 시가·자산가치·DCF 등 수익가치를 종합한 공정가액으로 산정하고, 이사회 의견과 외부평가를 강화하는 제도의 시행을 예고했다. 평가방법, 주요 가정과 평가상 어려움까지 공시 범위가 넓어진다.",
+        "[해석] 오늘 이 기업을 고른 이유는 '언젠가 가고 싶은 글로벌 IB'가 아니라 지금 지원 가능한 공고와 즉시 설명할 수 있는 실무 문제가 동시에 있기 때문이다. EY M&A에서 만든 DCF·EV/EBITDA·수치검증·DM Deck 경험을 서울의 크로스보더 딜 실행으로 확장하면서, 최근 포트폴리오의 보증 리스크·B2B SaaS·컨설팅 세일즈와 다른 글로벌 자본시장 역량을 보여준다."
+      ],
+      "bullets": [
+        "직무 실재성: 공식 공고에 업무, 대상, 6개월 기간, 서울 근무, 마감일과 전환 기회가 모두 명시됐다.",
+        "지원 서사: 'AI를 쓰는 지원자'보다 '모델과 고객자료의 숫자가 원문까지 추적되게 만드는 M&A Analyst'가 설득력 있다.",
+        "시의성: 2Q26 IB 수수료가 50% 늘고 한국 합병 공정가치 규정이 바뀌어 딜 속도와 검증 부담이 동시에 커졌다.",
+        "포트폴리오 확장: 국내 자문 인턴 경험을 글로벌 커버리지·자본시장·영어 협업·합병효과 분석으로 넓힌다.",
+        "과장 금지: EY 인턴 경험은 거래 종결, 고객 오너십 또는 글로벌 IB 풀타임 성과와 같지 않다."
+      ]
+    },
+    {
+      "heading": "2. 지원 적합도: 업무 증거는 강하지만 영어·속도·지구력을 별도로 증명해야 한다",
+      "paragraphs": [
+        "[사실] 공고는 강한 정량·분석 능력, 세부사항 집중, 고객 중심, 전략적·창의적 사고, 변화 대응, 영어 유창성과 한국어 숙련을 요구한다. 여러 프로젝트를 동시에 관리하고 압박과 마감 속에서 일하는 직무다.",
+        "[해석] 경제학·수학 복수전공과 EY한영 Deal3 SAT M&A는 학문·실무 적합도가 높다. DCF·EV/EBITDA Agent와 Report Footing Agent는 모델 작성뿐 아니라 가정과 수치의 오류를 찾는 습관을 보여준다. DM Deck Agent는 분석을 고객 문서로 번역하는 연결 증거다.",
+        "[해석] 그러나 포트폴리오에 적힌 OPIc IH만으로 공고의 영어 유창성을 충분히 입증했다고 보기 어렵다. 실제 거래 모델을 제한시간 내 처음부터 완성한 사례, 크로스보더 고객 커뮤니케이션, 장시간 병렬 딜 수행과 종결 책임도 확인되지 않는다. 이 세 가지를 준비하지 않으면 높은 도메인 적합도가 면접 전환으로 이어지지 않는다."
+      ],
+      "bullets": [
+        "적합도 강점: 가치평가, M&A 문서, 수치 대사, 경제·수학, AI 자동화가 공고의 핵심 업무와 직접 겹친다.",
+        "차별화 강점: LLM 판단과 결정론적 계산을 분리하고 출처·버전·예외를 남기는 Financial AI 설계 경험이 있다.",
+        "게이트 1: 영문 3-statement·DCF·merger model과 10장 영문 pitch를 시간 제한 안에 완성한다.",
+        "게이트 2: OPIc 점수보다 영문 stock pitch, fit interview와 deal discussion의 실제 유창성을 녹화해 점검한다.",
+        "게이트 3: 왜 EY 내부 업무혁신이 아니라 고객 딜 실행을 장기 경력으로 택하는지 분명히 답한다."
+      ]
+    },
+    {
+      "heading": "3. 수익 구조: 자문 수수료만이 아니라 대출·예금·결제·시장 기능을 함께 판다",
+      "paragraphs": [
+        "[사실] Bank of America의 2025년 세그먼트 매출은 Consumer Banking 437억달러, Global Wealth and Investment Management 249억달러, Global Banking 241억달러, Global Markets 241억달러였다. 연결 매출은 All Other 조정을 반영해 1,137억달러였다.",
+        "[사실] Global Banking은 기업·상업·중소기업 대출과 예금, Global Transaction Services, M&A·주식·채권 발행 자문 수수료를 결합한다. 공고는 3천개 이상의 대기업·금융기관·재무적 투자자와의 관계, M&A·기업금융·트레저리·주식·채권을 아우르는 통합 솔루션을 강조한다.",
+        "[해석] 서울 Analyst가 만드는 모델과 자료는 단일 M&A fee뿐 아니라 인수금융, 채권·주식 발행, 외환·헤지, 현금관리로 이어지는 관계 수익의 출발점이다. 그래서 가장 높은 매각가보다 거래 실행 가능성, 자본구조, 고객의 장기 관계와 은행의 위험조정수익을 함께 보는 능력이 중요하다."
+      ],
+      "bullets": [
+        "핵심 수익원: M&A 자문, ECM·DCM 인수·주선, 대출 순이자와 수수료, 트랜잭션 서비스, 예금·결제 관계.",
+        "연결 수익: Global Banking과 Global Markets는 일부 투자은행·대출주선·세일즈앤트레이딩 경제성을 내부 공유한다.",
+        "비용 구조: 인력 보상, 기술·데이터, 규제·컴플라이언스, 신용손실, 자본과 유동성 비용.",
+        "Analyst 산출물의 경제성: 정확한 모델과 빠른 실사는 수임 가능성, 가격·조건, 리스크 승인과 종결 확률을 높인다.",
+        "공개 한계: 서울 오피스의 고객별 매출·딜 파이프라인·리그테이블은 공개되지 않아 점유율을 추정하지 않는다."
+      ]
+    },
+    {
+      "heading": "4. 산업·경쟁 구도: 관계·배분능력·대차대조표·실행 신뢰의 복합 경쟁",
+      "paragraphs": [
+        "[사실] 글로벌 투자은행은 M&A 조언만 제공하는 독립 자문사와 달리 대출, 인수금융, 주식·채권 발행, 트레저리와 시장 솔루션을 한 고객 관계에서 연결한다. Bank of America는 35개 이상 국가·관할에서 사업하고 Global Fortune 500의 78%와 관계가 있다고 공개한다.",
+        "[사실] 2Q26 전사 투자은행 수수료는 21억달러로 50% 증가했고 Global Banking 매출은 10% 늘었다. 동시에 회사는 약 4천명의 CIB 인력이 AI를 리서치와 프레젠테이션 준비에 쓰도록 확장했다.",
+        "[해석] 경쟁축은 선임 은행가의 관계, 산업 인사이트, 투자자 배분망, 인수·대출 여력, 상품 통합, 규제 실행과 주니어 산출물의 신뢰다. AI는 자료 준비 속도를 평준화하지만 비공개 원문과 공개자료를 구분하고 숫자·가정·이해상충을 검증하는 책임까지 대신하지 않는다."
+      ],
+      "bullets": [
+        "글로벌 풀서비스 IB: 관계와 대차대조표, M&A·ECM·DCM·대출·시장 상품을 결합한다.",
+        "독립 자문사: 자본 제공 이해상충을 줄이고 고난도 전략 자문에 집중한다.",
+        "국내 증권사·은행: 현지 기업 관계, 규제 이해, 원화 자금조달과 리테일·기관 배분에서 강점이 있다.",
+        "부티크·회계법인: 중견·사모시장, 실사·세무·가치평가와 특정 산업 전문성으로 경쟁한다.",
+        "AI 이후 방어력: 모델을 빨리 만드는 능력보다 판단 근거, 승인 이력과 고객별 맥락을 안전하게 재사용하는 능력이다."
+      ]
+    },
+    {
+      "heading": "5. 최신 실적과 3년 성장동력: 회복된 IB 수수료를 반복 가능한 고객관계로 전환한다",
+      "paragraphs": [
+        "[사실] 2Q26 Bank of America는 전사 매출 317억달러, 순이익 91억달러를 기록했다. Global Banking은 매출 62억달러, 순이익 20억달러였고 전사 투자은행 수수료는 50% 늘었다. 2026년 3분기 실적은 미국 동부시간 10월 14일 발표 예정이라 한국시간 오전 작성 시점에는 포함하지 않았다.",
+        "[사실] 회사는 연간 기술비 140억달러 중 40억달러 이상을 AI를 포함한 신규 이니셔티브에 쓴다고 밝혔다. 2Q26에는 300건 넘는 AI·ML 사례가 승인됐고, 114건의 생성형 AI 사례가 운영 중이며 34건은 완전 배포 상태였다.",
+        "[해석] 향후 3년 성장축은 첫째 M&A·ECM·DCM 회복을 대출·트레저리·시장 상품의 관계수익으로 연결하는 것, 둘째 한국 기업의 해외 투자·자금조달과 글로벌 투자자의 한국 진입을 잇는 것, 셋째 AI로 리서치·문서 작업을 줄이되 검증과 승인 품질을 높이는 것이다."
+      ],
+      "bullets": [
+        "2026~2027: 강한 수수료 회복기에 파이프라인을 종결과 교차상품 수익으로 전환하고 주니어 품질 병목을 줄인다.",
+        "2027~2028: 한국 합병 공정가치·이사회·외부평가 요구를 크로스보더 고객의 딜 구조와 일정에 내재화한다.",
+        "2028~2029: 산업별 거래 데이터, 공개·비공개 근거와 AI 지원을 재사용 가능한 커버리지 지식으로 만든다.",
+        "성장 KPI: 수임→발표→종결 전환, fee wallet, 고객별 상품 침투, 수정·재작업 시간, 모델 예외와 검토시간.",
+        "중단 신호: 수수료 파이프라인은 늘지만 종결률·위험조정수익·고객 재수임이 개선되지 않거나 품질 사고가 증가하는 경우."
+      ]
+    },
+    {
+      "heading": "6. 주요 리스크: 딜 사이클, 공정성, AI 모델 위험과 크로스보더 실행",
+      "paragraphs": [
+        "첫째는 사이클 위험이다. 금리·주가·신용스프레드·정책 불확실성이 커지면 발표된 거래가 지연·철회되고 M&A·발행 수수료가 빠르게 흔들린다. 2Q26의 50% 성장을 직선으로 연장하면 안 된다.",
+        "둘째는 가치평가·이해상충 위험이다. 한국의 새 합병 규정은 공정가액, 주요 가정, 이사회 판단과 외부평가의 설명 책임을 높인다. 같은 DCF라도 사업계획, WACC, 영구성장률, 시너지와 주식매수청구권 가정이 달라지면 결과가 크게 달라진다.",
+        "셋째는 AI·정보보호 위험이다. 비공개 중요정보, 고객 데이터와 벽을 지켜야 하며 AI가 생성한 비교기업·수치·문구를 원문 확인 없이 모델이나 자료에 넣을 수 없다. 넷째는 크로스보더 실행 위험으로 환율, 세금, 외국인 투자심사, 경쟁법, 회계기준과 시차가 일정과 거래가치를 동시에 바꾼다."
+      ],
+      "bullets": [
+        "시장 위험: 금리·스프레드·주가 변동이 자금조달 비용, 가격과 종결 가능성을 바꾼다.",
+        "모델 위험: 단위·통화·회계기준, 순부채, 희석주식, 시너지·통합비용과 circularity 오류.",
+        "행위 위험: 이해상충, MNPI, 정보장벽, 고객 적합성, 공정성 의견과 공시의 불완전성.",
+        "실행 위험: 여러 국가의 승인·세금·노무·경쟁법·외환 규제가 critical path를 바꾼다.",
+        "인력 위험: 빠른 수수료 회복기에 주니어 업무량과 재작업이 늘면 번아웃과 품질 오류가 동시에 커진다."
+      ]
+    },
+    {
+      "heading": "7. 목표 직무가 풀 문제: Source-to-Model Deal Evidence Chain",
+      "paragraphs": [
+        "제안 과제는 데이터룸 원문과 공개자료에서 뽑은 숫자·문장을 재무모델의 셀, 핵심 가정, 고객자료의 주장과 연결하는 Source-to-Model Deal Evidence Chain이다. 이는 공개자료 기반 면접 제안이며 Bank of America의 내부 시스템이나 고객 데이터에 접근했다는 뜻이 아니다.",
+        "0~30일에는 최근 종결된 공개 거래 하나로 source register를 만들고 기업가치, 순부채, EBITDA 조정, 주식수, WACC와 시너지의 원문·날짜·통화·단위를 기록한다. 31~60일에는 DCF·comps·merger consequences의 주요 입력과 고객자료 표·문장을 연결하고 변경 전후 영향과 reviewer를 남긴다. 61~90일에는 footing·단위·통화·기간·공개/비공개 구분을 자동 검사하는 작은 파일럿을 제안한다.",
+        "AI는 문서 검색, 초안, 표 추출과 변경 비교를 돕는다. 결정론적 코드는 산식·합계·단위·일관성을 검사하고, Analyst와 senior banker가 비교기업, 조정 EBITDA, WACC, 시너지와 고객 메시지를 승인한다. 속도·근거·책임을 분리하는 것이 핵심이다."
+      ],
+      "bullets": [
+        "품질 KPI: source coverage, model-to-deck 일치율, 중요 오류·재작업 건수, reviewer exception closure.",
+        "속도 KPI: 데이터룸 수신→모델 반영, 업데이트→deck 반영, comments→clean version 소요시간.",
+        "판단 KPI: 주요 가정의 범위·민감도, downside·financing case 완결성, valuation bridge 설명 가능성.",
+        "통제 KPI: MNPI 등급, 권한, 버전, 출처, 사람 승인, AI 사용 표시와 삭제·보존 정책 준수.",
+        "고객 KPI: 자료 수정 횟수, 질문 응답시간, management alignment, 다음 단계와 종결 확률."
+      ]
+    },
+    {
+      "heading": "8. 경험 연결, 강점 3개와 보완할 역량 2개",
+      "paragraphs": [
+        "EY한영 Deal3 SAT M&A의 DCF·EV/EBITDA Agent는 가치평가의 반복 계산과 판단을 분리한 직접 증거다. Report Footing Agent는 문서 간 숫자 불일치를 찾고 DM Deck Agent는 분석을 거래 마케팅 자료로 옮긴 경험이다. 이는 공고의 complex models, valuations, merger consequences, presentations와 가장 가까운 포트폴리오 조합이다.",
+        "경제학·수학은 기업가치·자본비용·민감도·통계적 검증의 기반이고, 금융·보험 규제 문서와 RAG 경험은 새 합병 규정·고객 문서의 근거를 빠르게 구조화하는 데 연결된다. 신한금융 PoC와 해외 GTM은 금융기관 요구와 다국가 이해관계자를 다룬 보조 증거지만 실제 IB 고객 협상이나 거래 종결로 과장하지 않는다.",
+        "강점 1은 가치평가 산식과 사업 가정을 함께 읽는 정량 기반이다. 강점 2는 모델·보고서·deck의 숫자를 검증하고 반복 업무를 직접 자동화하는 실행력이다. 강점 3은 AI를 의사결정 대체가 아니라 출처·예외·사람 승인을 강화하는 도구로 설계하는 통제 감각이다.",
+        "보완 역량 1은 영문 국제 IB 표준의 3-statement, merger model, accretion/dilution, LBO와 자본시장 문서를 제한시간에 만드는 속도다. 보완 역량 2는 영어로 senior·client와 쟁점을 좁히고 여러 딜의 우선순위를 지키는 커뮤니케이션과 체력이다. 지원 전 두 공백을 모의 과제로 수치화해야 한다."
+      ],
+      "bullets": [
+        "경제학·수학 → 기업가치, 자본비용, 민감도와 거래구조를 수치로 설명하는 기반.",
+        "EY DCF·EV/EBITDA → 공고의 valuation·financial analysis와 직접 연결되는 실무 증거.",
+        "Footing·DM Deck Agent → source-model-deck 숫자 일치와 고객자료 생산의 차별화 증거.",
+        "금융 규제·RAG → 공정가치·공시 변화와 긴 거래문서에서 근거를 추적하는 능력.",
+        "신한 PoC·해외 GTM → 금융기관 요구 번역과 글로벌 협업의 보조 증거, 거래 종결 실적은 아님."
+      ]
+    },
+    {
+      "heading": "9. 지원 우선순위, 면접용 문장과 질문",
+      "paragraphs": [
+        "지원 우선순위는 A-의 우선 지원이다. 공고가 열려 있고 2026년 졸업자가 최근 졸업자 요건에 들어가며, 가치평가·M&A 자동화 경험이 업무와 직접 맞는다. 단, 지원서 제출 전 영어 fit/deal interview와 3시간 모델링 테스트를 자체 통과하지 못하면 경쟁력을 과장하지 말고 보완 후 11월 1일 전에 제출한다.",
+        "지원 산출물은 영문 1페이지 deal sheet, 공개 거래 하나의 DCF·comps·merger consequences 요약, Source-to-Model Evidence Chain 한 장이다. AI Agent 자체보다 어떤 오류를 줄였고 senior review가 어떻게 빨라지는지를 먼저 보여준다."
+      ],
+      "bullets": [
+        "지원서 한 문장: 'EY M&A에서 DCF·EV/EBITDA와 보고서 검증을 자동화한 경험을 바탕으로, 서울 커버리지의 원문·모델·고객자료가 같은 숫자와 가정을 말하도록 만들겠습니다.'",
+        "면접 문장: 'AI가 비교기업이나 WACC를 결정하게 하지 않고, 출처와 변경을 추적한 뒤 계산은 코드로 검증하고 판단은 deal team이 승인하게 하겠습니다.'",
+        "면접 문장: '투자은행 수수료 50% 성장기에는 더 많은 pitch보다 수임에서 종결까지의 전환, 재작업과 위험조정 관계수익을 함께 보겠습니다.'",
+        "질문 1: 서울 Off-Cycle Analyst가 첫 8주 안에 독립적으로 소유해야 하는 모델·자료와 quality bar는 무엇입니까?",
+        "질문 2: 서울 country coverage와 홍콩·싱가포르 product team 사이에서 모델·deck의 최종 source of truth는 어떻게 관리합니까?",
+        "질문 3: 약 4천명의 CIB AI 활용에서 Analyst가 사용할 수 있는 범위와 반드시 수작업 검증해야 하는 범위는 무엇입니까?",
+        "질문 4: 한국 합병 공정가치·이사회·외부평가 강화가 고객의 valuation workstream과 일정에 어떤 변화를 만들고 있습니까?",
+        "질문 5: 6개월 프로그램의 정규직 전환을 결정하는 핵심은 모델 정확성, 실행 속도, 고객 대응, 팀 기여 중 무엇이며 어떻게 측정합니까?"
+      ]
+    }
+  ],
+  "interviewNotes": [
+    "공식 공고는 2026년 11월 1일 마감이다. 2027년 1/2월부터 6개월 근무하고 정규직 전환 기회가 있지만 전환이 보장된다고 말하지 않는다.",
+    "지원자는 2026년 졸업 예정·최근 졸업자 범주에 부합할 가능성이 높다. 실제 학위수여일과 풀타임 근무 가능일은 지원 전에 확인한다.",
+    "공고는 영어 유창성을 요구한다. OPIc IH는 준비의 출발점이지 글로벌 IB 고객·딜팀 커뮤니케이션을 자동으로 증명하지 않는다.",
+    "21억달러는 2Q26 전사 투자은행 수수료에서 self-led 거래를 제외한 수치다. 서울 오피스 수수료나 Global Banking 단독 fee로 바꾸어 말하지 않는다.",
+    "2Q26가 작성 시점 최신 공표 실적이다. 3Q26 발표는 미국 동부시간 10월 14일 예정이므로 발표 전 숫자를 추정하거나 현재 사실처럼 쓰지 않는다.",
+    "약 4천명은 Corporate & Investment Banking의 AI 활용 인원이다. 생성형 AI가 거래 판단·모델 승인 또는 고객책임을 대체한다는 뜻이 아니다.",
+    "한국 합병 제도 변경은 상장회사 합병 등의 공정가액·이사회 의견·외부평가와 공시를 강화한다. 모든 비상장 M&A에 동일하게 적용된다고 일반화하지 않는다.",
+    "EY의 DCF·EV/EBITDA·Footing·DM Deck 경험은 강한 관련 증거지만 실제 거래 종결, client ownership, financing execution과 동일하지 않다.",
+    "면접에서는 Source-to-Model Evidence Chain을 내부 도입 제안으로 과장하지 말고 공개 거래에 적용한 개인 작업 예시로 제시한다."
+  ],
+  "sources": [
+    {
+      "title": "Global Investment Banking Off-Cycle Analyst - 2027 - Seoul",
+      "publisher": "Bank of America Careers",
+      "publishedAt": "2026-10-14 확인 · 2026-11-01 지원 마감",
+      "url": "https://careers.bankofamerica.com/en-us/students/job-detail/15134/global-investment-banking-off-cycle-analyst-2027-seoul-seoul-republic-of-korea"
+    },
+    {
+      "title": "Bank of America Reports Second Quarter 2026 Financial Results",
+      "publisher": "Bank of America / SEC",
+      "publishedAt": "2026-07-14",
+      "url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000353/bac06302026ex991.htm"
+    },
+    {
+      "title": "Second Quarter 2026 Supplemental Information",
+      "publisher": "Bank of America Investor Relations",
+      "publishedAt": "2026-07-14",
+      "url": "https://investor.bankofamerica.com/regulatory-and-other-filings/select-sec-filings/content/0000070858-26-000353/bac-06302026ex993.htm"
+    },
+    {
+      "title": "Second Quarter 2026 Earnings Presentation — Enhancing Work Through AI at Scale",
+      "publisher": "Bank of America Investor Relations",
+      "publishedAt": "2026-07-14",
+      "url": "https://investor.bankofamerica.com/regulatory-and-other-filings/select-sec-filings/content/0000070858-26-000353/bac06302026ex992.htm"
+    },
+    {
+      "title": "2025 Annual Results by Business Segment and All Other",
+      "publisher": "Bank of America Investor Relations",
+      "publishedAt": "2026-01-14",
+      "url": "https://investor.bankofamerica.com/regulatory-and-other-filings/select-sec-filings/content/0000070858-26-000020/bac-12312025ex993.htm"
+    },
+    {
+      "title": "A letter to shareholders from Chair and CEO Brian Moynihan",
+      "publisher": "Bank of America Newsroom",
+      "publishedAt": "2026-03",
+      "url": "https://newsroom.bankofamerica.com/content/newsroom/stories/2026/03/a-letter-to-shareholders-from-chair-and-ceo--brian-moynihan.html"
+    },
+    {
+      "title": "Bank of America Enhances EricaAssist with Generative AI",
+      "publisher": "Bank of America Newsroom",
+      "publishedAt": "2026-07-21",
+      "url": "https://newsroom.bankofamerica.com/content/newsroom/press-releases/2026/07/bank-of-america-enhances-ericaassist-with-generative-ai-to-help-.html"
+    },
+    {
+      "title": "Bank of America to Convene 500+ Innovators and Capital Providers at 15th Annual Technology Innovation Summit",
+      "publisher": "Bank of America Newsroom",
+      "publishedAt": "2026-09-30",
+      "url": "https://newsroom.bankofamerica.com/content/newsroom/press-releases/2026/09/bank-of-america-to-convene-500--innovators-and-capital-providers.html"
+    },
+    {
+      "title": "합병가액 산정방식 변경 등 자본시장법 개정에 따른 하위법규 개정예고",
+      "publisher": "금융위원회",
+      "publishedAt": "2026-09-15",
+      "url": "https://fsc.go.kr/po010101/87715"
+    },
+    {
+      "title": "Economic Outlook (August 2026)",
+      "publisher": "Bank of Korea",
+      "publishedAt": "2026-08-27",
+      "url": "https://www.bok.or.kr/eng/bbs/E0000634/view.do?depth=400423&menuNo=400423&nttId=11064205&programType=newsDataEng&relate=Y"
+    }
+  ]
+}
