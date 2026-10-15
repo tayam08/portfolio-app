@@ -1,0 +1,283 @@
+{
+  "slug": "2026-10-15-strategy-semantic-proof-to-expansion",
+  "date": "2026-10-15",
+  "company": "Strategy (구 MicroStrategy)",
+  "industry": "엔터프라이즈 AI·BI · 유니버설 시맨틱 레이어 · 클라우드 분석 소프트웨어",
+  "tier": "A- (우선 지원 · 현재 공고 확인, 기술 데모·비즈니스 영어 검증 필요)",
+  "targetRole": "Associate Sales Engineer Intern — Seoul",
+  "title": "Strategy Korea Sales Engineering: AI 데모를 확장 가능한 Semantic Proof로 바꾸는 인턴",
+  "summary": "서울의 초기경력 Sales Engineering 인턴 공고를 겨냥해, 고객의 핵심 의사결정 하나를 신뢰 가능한 지표 정의·Mosaic 데모·사용 증거·확장 조건으로 잇는 Semantic Proof-to-Expansion System을 제안한다.",
+  "thesis": "[사실] Strategy는 2026년 10월 15일 기준 서울 Associate Sales Engineer Intern을 공식 채용 목록에 게시하고 있다. 역할은 고객 요구를 기술 솔루션으로 번역하고, 제품 발표·데모·PoC, RFP·RFI, 경쟁·산업 리서치와 Salesforce 기록을 지원한다. 2Q26 소프트웨어 매출은 1억2,240만달러로 전년 동기 대비 6.9%, 구독서비스 매출은 6,290만달러로 54.0% 늘었다. [해석] 이 직무의 핵심은 기능을 많이 보여주는 것이 아니라 고객마다 다른 KPI 정의와 권한을 신뢰 가능한 의미 계층에 고정하고, 작은 데모가 실제 사용·갱신·확장으로 이어질 증거를 만드는 것이다. 경제학·수학, AI Agent·RAG·데이터 제품 구현, 신한금융 PoC, 해외 GTM과 CRM 경험은 이 문제에 잘 맞는다. 다만 엔터프라이즈 BI 아키텍처를 직접 설계·시연한 경험, SQL·데이터모델링 깊이와 비즈니스 영어는 아직 충분히 입증되지 않아 A-로 평가한다.",
+  "tags": [
+    "Sales Engineering",
+    "Enterprise AI",
+    "Business Intelligence",
+    "Semantic Layer",
+    "Proof of Concept",
+    "B2B SaaS",
+    "Data Governance",
+    "Korea GTM"
+  ],
+  "metrics": [
+    {
+      "label": "채용 상태",
+      "value": "서울 인턴 · 학생·최근 졸업자 우대",
+      "context": "2026년 10월 15일 Strategy 공식 Careers의 Open Positions에 게시돼 있다. 제품 데모·PoC, RFP/RFI, 고객 프로젝트와 Salesforce 기록을 지원하는 Sales Engineering 역할이다."
+    },
+    {
+      "label": "2Q26 소프트웨어 매출",
+      "value": "1억2,240만달러 · +6.9% YoY",
+      "context": "SEC 10-Q의 1억2,236.8만달러를 반올림했다. 2Q25 1억1,448.8만달러 대비 증가했으며 소프트웨어 사업만의 수치다."
+    },
+    {
+      "label": "2Q26 구독서비스 매출",
+      "value": "6,290만달러 · +54.0% YoY",
+      "context": "클라우드 전환, 기존 고객 사용 확대와 신규 고객 계약이 성장 요인이다. 제품 라이선스와 지원 매출 감소를 함께 봐야 한다."
+    },
+    {
+      "label": "1H26 소프트웨어 매출",
+      "value": "2억4,670만달러 · +9.4% YoY",
+      "context": "1H25 2억2,555만달러 대비 2,111만달러 늘었다. 구독서비스 매출은 같은 기간 4,381만달러 증가했다."
+    },
+    {
+      "label": "2025 구독서비스 매출",
+      "value": "1억7,570만달러 · +64.5% YoY",
+      "context": "2025년 전체 소프트웨어 매출은 4억7,720만달러로 3.0% 증가했다. 성장의 대부분이 구독 전환에서 나왔고 제품지원 매출은 16.2% 감소했다."
+    },
+    {
+      "label": "한국 고객 공개 사례",
+      "value": "6개월 9,500+ 분석 · 활용 4배",
+      "context": "Strategy가 공개한 롯데백화점 사례 수치다. 8개 AI Agent와 300개 이상 대시보드를 운용했고, 회사는 생산성 약 90% 개선을 주장한다. 고객사 공동 측정 정의는 공개되지 않아 벤더 보고치로 제한해 해석한다."
+    },
+    {
+      "label": "기업 전체 재무 변동성",
+      "value": "2026-06-30 비트코인 약 84.6만개",
+      "context": "소프트웨어 매출과 별개로 자산·손익·유동성이 비트코인 가격과 자본조달에 크게 노출된다. 2026년 7월 24일 보유량은 약 84만3,775개로 공시됐다."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "1. 왜 오늘 Strategy인가: 열린 초기경력 공고와 한국 AI·BI의 실제 사용 증거가 함께 있다",
+      "paragraphs": [
+        "[사실] Strategy 공식 Careers는 2026년 10월 15일 서울 Associate Sales Engineer Intern을 Open Positions에 게시하고 있다. 채용 설명은 제품 발표·데모·PoC 제작, RFP·RFI 대응, 고객·마케팅 행사, 경쟁·산업 리서치, Salesforce 기록과 고객 요구의 기술 솔루션 번역을 명시한다. 한국 대학의 학생 또는 최근 졸업자를 우대하고 전공은 컴퓨터공학·정보시스템·공학·데이터과학·비즈니스분석을 선호하지만 필수로 한정하지 않는다.",
+        "[사실] Strategy Korea는 2025년 롯데백화점의 생성형 BI 기반 CRM 분석 도입을 발표했고, 후속 고객 사례에서 첫 6개월 9,500건 이상의 AI 분석, 고급 분석 활용 4배, 8개 전용 Agent와 300개 이상의 대시보드를 공개했다. 2026년 서울 행사에서는 Mosaic를 신뢰 가능한 데이터와 AI 사이의 의미 계층으로 제시했다.",
+        "[해석] 오늘 이 기업을 고른 이유는 지원자가 이미 만든 Agent를 다시 설명하는 데 그치지 않고, 고객 요구를 발견하고 데모를 설계해 B2B 구매와 확장으로 연결하는 새 역량을 보여주기 때문이다. 최근 보고서의 투자은행 딜 검증, 건설보증 조기경보, AI 상담 리텐션, 전문가 매칭, 산업자동화 세일즈와 다른 '엔터프라이즈 데이터 의미·거버넌스' 문제를 다룬다."
+      ],
+      "bullets": [
+        "직무 실재성: 공식 Careers와 지원 페이지에서 서울 인턴 공고가 현재 열려 있음을 확인했다.",
+        "지원 서사: 'AI 앱을 만든 사람'에서 '고객 KPI와 데이터 권한을 이해해 검증 가능한 데모를 만드는 Sales Engineer'로 확장된다.",
+        "한국 근거: 추상적 글로벌 사례가 아니라 국내 CRM 분석의 실제 도입·사용 결과가 공개돼 있다.",
+        "사업 시의성: 구독서비스 매출이 54% 성장하는 동시에 2026년 말 온프레미스 지원 종료가 예정돼 전환·채택 품질이 중요하다.",
+        "과장 금지: 롯데 사례 수치는 Strategy가 공개한 벤더 보고치이며 지원자가 Strategy 제품을 직접 구축했다는 뜻이 아니다."
+      ]
+    },
+    {
+      "heading": "2. 지원 적합도: PoC·Agent·CRM은 강하고 BI 아키텍처·영어 데모는 검증 과제다",
+      "paragraphs": [
+        "[사실] 공고는 엔터프라이즈 소프트웨어와 솔루션 컨설팅에 대한 관심, 분석적 문제 해결, 한국어 커뮤니케이션, 영어 협업, Microsoft Office를 요구한다. CRM·데이터베이스·프로그래밍 경험은 우대 요소다. 빠른 환경에서 여러 우선순위를 관리하고 독립적으로 일하면서 팀과 협업해야 한다.",
+        "[해석] 경제학·수학은 고객의 매출·원가·리스크 KPI와 효과 추정식을 구조화하는 기반이다. 신한금융 PoC는 기관 요구를 제품 가설과 구현 범위로 번역한 증거이고, EY의 DCF·EV/EBITDA·Report Footing Agent는 계산·판단·검증을 분리한 증거다. 인톡의 베트남·미국 GTM과 KGC CRM은 고객 세그먼트·여정·채택을 말할 수 있게 한다.",
+        "[해석] 반면 실제 Strategy 환경에서 데이터 소스 연결, 시맨틱 모델, 권한, 성능과 데모를 설계한 경험은 없다. SQL은 포트폴리오상 Basic이고 OPIc IH는 글로벌 고객 데모의 유창성을 보장하지 않는다. 지원 전 공개 데이터로 15분 영문 데모와 기술 질문 대응을 녹화해 이 공백을 증명 가능한 준비로 바꿔야 한다."
+      ],
+      "bullets": [
+        "강한 적합: AI Agent·RAG, 금융·보험 데이터 문맥, B2B PoC, 해외 GTM과 CRM이 공고의 고객 문제 번역과 겹친다.",
+        "차별화: LLM 설명과 결정론적 계산·검증을 분리한 경험은 신뢰 가능한 AI 분석 데모에 직접 연결된다.",
+        "게이트 1: 공개 데이터로 데이터모델→지표 정의→자연어 질의→대시보드까지 15분 데모를 완성한다.",
+        "게이트 2: SQL join·window function, star schema, row-level security, lineage와 refresh 실패를 설명한다.",
+        "게이트 3: 영문 discovery 질문, objection handling과 executive demo를 시간 제한 안에 수행한다."
+      ]
+    },
+    {
+      "heading": "3. 수익 구조: 36개월 클라우드 구독을 중심으로 지원·컨설팅·확장이 붙는다",
+      "paragraphs": [
+        "[사실] 소프트웨어 수익은 제품 라이선스, 클라우드 구독서비스, 제품지원, 컨설팅·교육 등 기타서비스로 구성된다. 2025년 매출은 각각 3,967만달러, 1억7,566만달러, 2억422만달러, 5,768만달러였다. 클라우드 구독은 통상 36개월이고 표준 지원을 포함하며 기간에 걸쳐 매출을 인식한다.",
+        "[사실] 회사는 직접 영업조직으로 신규 고객을 확보하고 별도 Customer Success가 온보딩·교육·갱신·확장을 관리한다. AWS·Microsoft·Google 등 클라우드 사업자, SI·컨설팅사·리셀러·MSP·ISV와 비독점 파트너십을 운영하고 프리세일즈 교육과 공동 마케팅에 투자한다.",
+        "[해석] Sales Engineer의 데모는 단기 라이선스 판매만이 아니라 36개월 구독, 도입 서비스, 실제 사용, 갱신과 부서 확장의 입구다. 따라서 기능 수보다 고객의 핵심 의사결정, 데이터 연결 난이도, 보안·권한, 첫 가치 도달시간과 확장 가능한 사용 패턴을 함께 설계해야 한다."
+      ],
+      "bullets": [
+        "신규 수익: 클라우드 구독, 신규 고객 계약, 기존 고객의 사용자·워크로드 확대.",
+        "전환 수익: 온프레미스 라이선스·지원 고객을 관리형 클라우드 구독으로 이동.",
+        "서비스 수익: 구현 컨설팅, 교육, 프리미엄 지원과 파트너 생태계의 전문서비스.",
+        "경제성 레버: 계약기간, 활성 사용자, 데이터·Agent 사용량, 갱신률, 부서·국가 확장과 클라우드 원가.",
+        "구분 필요: 비트코인 평가손익·자본조달은 기업 전체 손익과 유동성을 크게 움직이지만 소프트웨어 고객 매출은 아니다."
+      ]
+    },
+    {
+      "heading": "4. 산업·경쟁 구도: 번들 BI의 배포력과 독립 시맨틱 레이어의 신뢰가 맞붙는다",
+      "paragraphs": [
+        "[사실] Strategy는 2025 10-K에서 엔터프라이즈 분석 경쟁사로 IBM, Microsoft, Oracle, Salesforce와 SAP를 명시한다. 경쟁 요소는 품질·성능·신뢰성, 서비스·지원, 마케팅·발굴, AI 기능과 제품 차별화다. Strategy One은 대시보드·리포트·AI Agent·임베디드 분석을, Mosaic는 여러 데이터와 도구에 일관된 지표·권한·업무 문맥을 제공하는 유니버설 시맨틱 레이어를 표방한다.",
+        "[사실] 제품은 AWS·Azure·GCP, Databricks·Snowflake 등 다양한 데이터·클라우드 환경과 연결되고 Mosaic는 MCP와 REST API로 외부 AI 도구에 관리된 문맥을 제공한다. Standard는 사용자당 월 13달러부터 최대 300명, Enterprise는 맞춤 Agent와 하이브리드·멀티클라우드를 제공한다고 공개한다.",
+        "[해석] Microsoft·SAP·Salesforce 같은 대형 벤더는 이미 구매된 스택과 번들 가격, 영업망이 강하다. Strategy의 승부는 새 BI 화면 하나가 아니라 기존 도구를 버리지 않고도 KPI 정의·권한·업무 로직을 여러 BI와 Agent에 재사용하게 하는 독립 계층의 가치다. 서울 Sales Engineer는 기술 중립성을 주장하기보다 고객의 기존 스택에서 중복 모델·불일치 답변·권한 위험이 얼마나 줄어드는지 보여줘야 한다."
+      ],
+      "bullets": [
+        "대형 ISV: 기존 ERP·CRM·클라우드·업무도구와 번들해 구매·배포 마찰을 낮춘다.",
+        "클라우드·데이터 플랫폼: 저장·처리·거버넌스와 분석·AI를 같은 스택 안에서 제공한다.",
+        "전문 BI·시맨틱 계층: 개방성, 재사용 가능한 지표와 멀티도구 일관성으로 차별화한다.",
+        "구매 기준: 정확성, 권한·감사, 연결성, 성능, 총소유비용, 도입 속도와 현업 채택률.",
+        "한국 현장 변수: 한글 질의, 레거시·온프레미스, 보안 심사, SI 파트너와 산업별 의사결정 정의."
+      ]
+    },
+    {
+      "heading": "5. 최신 실적과 3년 성장동력: 전환 매출을 사용·갱신·확장으로 증명해야 한다",
+      "paragraphs": [
+        "[사실] 2Q26 소프트웨어 매출은 1억2,236.8만달러, 매출총이익은 8,155만달러였다. 구독서비스 매출은 54.0% 늘었지만 제품 라이선스는 48.9%, 제품지원은 22.7% 줄었다. 회사는 이를 온프레미스 고객의 클라우드 구독 전환으로 설명한다. 클라우드·유지 비용은 2Q26 전년 대비 550만달러 늘어 성장의 품질도 함께 관리해야 한다.",
+        "[사실] 온프레미스 제품은 2025년부터 지원 종료 단계에 들어갔고 전체 지원은 2026년 12월 31일 종료 예정이다. 회사는 전환 기간에 고객 이탈률이 높아질 수 있고 구독의 결제·매출 인식 시점이 라이선스와 다르다고 공시했다.",
+        "[해석] 첫 성장동력은 지원 종료 고객을 단순 이전이 아니라 활성 사용과 갱신으로 바꾸는 클라우드 전환이다. 둘째는 Mosaic·MCP·REST를 통한 관리형 Agent 문맥의 표준화다. 셋째는 롯데 같은 한국 사례를 리테일·금융·제조의 반복 가능한 가치 시나리오로 제품화하고 파트너와 확장하는 것이다. 3년 성패는 구독 매출 성장 자체보다 전환 고객의 잔존, 도입 후 사용, 클라우드 총마진과 확장 매출에서 갈린다."
+      ],
+      "bullets": [
+        "2026~2027: 온프레미스 종료 고객의 데이터·권한·대시보드를 안전하게 이전하고 이탈을 막는다.",
+        "2026~2028: Mosaic의 지표·권한·문맥을 BI뿐 아니라 ChatGPT·Claude·Copilot과 사내 Agent에 재사용한다.",
+        "2027~2029: 산업별 semantic starter와 측정 가능한 PoC를 파트너에게 제공해 한국 수주·확장을 반복한다.",
+        "선행 KPI: time-to-first-trusted-answer, PoC 통과율, 활성 현업 사용자, Agent 답변 검증률.",
+        "후행 KPI: 구독 갱신률, 순매출유지율, 부서 확장, 클라우드 매출총이익과 고객획득 회수기간."
+      ]
+    },
+    {
+      "heading": "6. 주요 리스크: 전환 이탈, AI 신뢰, 번들 경쟁과 비트코인 재무 노출",
+      "paragraphs": [
+        "첫째는 전환 위험이다. 온프레미스 지원 종료는 영업 기회이면서 고객이 다른 플랫폼으로 이동할 비교 시점이기도 하다. 마이그레이션 비용·재구축·교육과 중단 위험을 줄이지 못하면 구독 성장과 지원 매출 감소의 합이 악화될 수 있다.",
+        "둘째는 AI·데이터 위험이다. 잘못 정의된 매출·고객·기간 지표, 권한 상속 실패, 신선도 저하와 환각은 데모 성공 뒤 운영 사고로 이어진다. 셋째는 경쟁·원가 위험으로, 대형 벤더의 번들 가격과 클라우드 호스팅 비용 상승이 독립 플랫폼의 가치와 마진을 압박한다.",
+        "넷째는 기업 전체 재무 위험이다. Strategy는 2026년 6월 말 약 84.6만개의 비트코인을 보유했고 소프트웨어 영업현금흐름만으로 향후 12개월의 전체 재무의무와 유동성 수요를 충족하지 못할 것으로 공시했다. 지원자는 소프트웨어 성장성과 비트코인 가격·자본조달 노출을 혼동하지 말고, 고용 안정성과 사업 우선순위에 미칠 영향을 면접에서 냉정하게 확인해야 한다."
+      ],
+      "bullets": [
+        "고객 위험: 전환 지연, 데이터 품질, 레거시 연동, 보안 심사와 현업 미채택.",
+        "제품 위험: 지표 drift, 권한 누락, 출처 불명, 모델 환각과 성능·비용 예측 실패.",
+        "경쟁 위험: IBM·Microsoft·Oracle·Salesforce·SAP의 번들·조달관계·생태계 우위.",
+        "수익 위험: 구독 증가보다 라이선스·지원 감소와 클라우드 원가 증가가 빠를 가능성.",
+        "기업 위험: 비트코인 가격, 주식·우선주·부채 조달과 배당 의무가 소프트웨어 사업 밖에서 유동성을 지배."
+      ]
+    },
+    {
+      "heading": "7. 목표 직무가 풀 문제: Semantic Proof-to-Expansion System",
+      "paragraphs": [
+        "제안 과제는 고객의 전략 질문 하나를 business definition, source data, access rule, demo action, adoption evidence와 expansion gate로 연결하는 Semantic Proof-to-Expansion System이다. 공개자료를 바탕으로 한 면접 제안이며 Strategy 내부 영업 데이터나 고객 환경에 접근했다는 뜻이 아니다.",
+        "0~30일에는 금융·리테일·제조별 discovery template을 만들고 '누가 어떤 결정을 언제 내리며 현재 답이 왜 불일치하는가'를 수집한다. 31~60일에는 고객별 north-star question 하나를 골라 지표 정의서, 데이터 계보, 권한, refresh·오류 조건과 15분 Mosaic 데모를 묶는다. 61~90일에는 PoC 전후의 답변시간, 수작업 단계, 검증 예외, 활성 사용자와 다음 부서의 재사용 가능성을 기록해 확장 게이트를 만든다.",
+        "Agent는 질의·요약·초안과 반복 분석을 돕고, semantic layer는 지표·관계·권한을 고정한다. Sales Engineer는 고객의 정의와 예외를 확인하고 계산 결과·출처·권한을 검증한다. '빠른 답'보다 '같은 질문에 같은 정의로 답하고 실제 결정이 바뀌었는가'를 증명하는 것이 핵심이다."
+      ],
+      "bullets": [
+        "Discovery: decision owner, current workflow, trusted source, KPI definition, access policy와 failure cost.",
+        "Demo: 하나의 실제 의사결정, 3개 핵심 지표, 2개 예외 상황, 1개 권한 시나리오로 범위를 제한.",
+        "품질 KPI: 정의 승인율, source coverage, 답변 재현성, 권한 위반 0건, reviewer exception closure.",
+        "채택 KPI: 첫 신뢰 답변까지 시간, 주간 활성 사용자, 반복 질의, 수작업 감소와 의사결정 리드타임.",
+        "확장 KPI: PoC→계약, 첫 부서→다음 부서, Agent·데이터소스 재사용, 갱신·업셀 파이프라인."
+      ]
+    },
+    {
+      "heading": "8. 경험 연결, 강점 3개와 보완할 역량 2개",
+      "paragraphs": [
+        "신한금융 PoC 기획은 기관의 모호한 요구를 범위·기능·검증 기준으로 바꾼 직접 증거다. EY한영의 DCF·EV/EBITDA Agent와 Report Footing Agent는 LLM이 설명하더라도 계산·수치 일치·사람 승인을 별도로 통제한 증거다. 이는 Strategy가 강조하는 신뢰 가능한 지표와 Agent 문맥을 말할 때 가장 구체적인 연결점이다.",
+        "인톡의 베트남·미국 GTM은 시장·고객별 메시지를 다르게 설계한 경험이고 KGC CRM은 세그먼트·이탈·재참여 여정을 본 경험이다. 경제학·수학은 고객의 KPI tree, 베이스라인, 민감도와 ROI를 정량화한다. 직접 만든 Next.js·FastAPI·Python 서비스는 영업과 엔지니어 사이에서 구현 난이도를 현실적으로 대화할 수 있게 한다.",
+        "강점 1은 고객의 사업 문제를 계산 가능한 KPI와 제품 요구로 구조화하는 정량성이다. 강점 2는 Agent·RAG·웹서비스를 직접 만들어 데모에서 구현 질문을 피하지 않는 실행력이다. 강점 3은 PoC·GTM·CRM을 연결해 도입 후 사용과 확장까지 보는 사업 감각이다.",
+        "보완 역량 1은 star schema, SQL, semantic modeling, 권한·성능·lineage를 실제 데모 수준으로 다루는 엔터프라이즈 데이터 깊이다. 보완 역량 2는 영어 discovery·demo·RFP 문서와 반대 질문을 이끄는 고객 커뮤니케이션이다. 두 역량 모두 지원 전 공개 데이터 데모와 영문 녹화로 검증해야 한다."
+      ],
+      "bullets": [
+        "경제학·수학 → 고객 KPI, 효과 추정, 민감도와 PoC 성공 기준의 정량 기반.",
+        "신한금융 PoC → 기관 요구를 제품 범위와 검증 가능한 가설로 번역한 증거.",
+        "EY Agent·Footing → AI 답변을 계산·출처·예외·사람 승인으로 통제한 Financial AI 증거.",
+        "해외 GTM·CRM → 세그먼트별 메시지, 고객여정, 채택·리텐션·확장을 보는 시야.",
+        "풀스택 구현 → 고객 질문을 기술팀에 전달하는 데 그치지 않고 작은 작동 데모로 확인하는 능력."
+      ]
+    },
+    {
+      "heading": "9. 지원 우선순위, 면접용 문장과 질문",
+      "paragraphs": [
+        "지원 우선순위는 A-의 우선 지원이다. 서울 초기경력 공고가 현재 열려 있고 최근 졸업자 우대, AI·데이터·PoC·CRM·프로그래밍 우대가 지원자의 경험과 넓게 겹친다. 다만 'Strategy'라는 회사명과 비트코인 서사에 끌려 지원하기보다 소프트웨어 조직, 한국 Sales Engineering 팀의 전환 가능성과 실제 배치·평가 기준을 확인해야 한다.",
+        "지원 산출물은 1페이지 영문 discovery brief, 공개 CRM 데이터의 semantic model, 15분 AI+BI 데모와 PoC scorecard다. 제품 기능 목록보다 지표 정의가 어떻게 고정되고, 어떤 오류·권한 예외를 잡았으며, 고객의 다음 결정과 확장 조건이 무엇인지 먼저 보여준다."
+      ],
+      "bullets": [
+        "지원서 한 문장: '신한금융 PoC와 금융 AI Agent를 설계한 경험을 바탕으로, 고객의 핵심 질문을 신뢰 가능한 지표·권한·데모와 채택 증거로 연결하겠습니다.'",
+        "면접 문장: '좋은 데모는 자연어 답변이 화려한 데모가 아니라, 매출 정의와 접근 권한이 바뀌어도 같은 근거로 재현되고 다음 사용자가 확장할 수 있는 데모라고 생각합니다.'",
+        "면접 문장: 'PoC 성공을 발표 완료로 보지 않고 첫 신뢰 답변 시간, 활성 사용자, 수작업 감소, 검증 예외와 다음 부서 재사용으로 측정하겠습니다.'",
+        "질문 1: 서울 인턴이 첫 8주 안에 독립적으로 소유하는 discovery·demo·PoC 산출물과 quality bar는 무엇입니까?",
+        "질문 2: 한국 고객이 기존 Power BI·SAP·데이터웨어하우스를 유지할 때 Mosaic의 가치를 가장 잘 증명하는 첫 사용 사례는 무엇입니까?",
+        "질문 3: 온프레미스 지원 종료 전환에서 PoC 통과 후 실제 활성 사용·갱신으로 이어지지 않는 가장 큰 이유는 무엇입니까?",
+        "질문 4: Sales Engineering에서 Sales와 Customer Success로 넘어갈 때 KPI 정의·데모 가정·고객 예외는 어떤 시스템에 남깁니까?",
+        "질문 5: 이 인턴십의 정규직 전환 가능성, 평가 기준과 한국·APAC 팀 간 영어 협업 비중은 어떻게 됩니까?",
+        "질문 6: 비트코인 중심의 기업 자본전략이 소프트웨어 조직의 투자 우선순위·채용·고객 신뢰에 미치는 영향은 어떻게 관리합니까?"
+      ]
+    }
+  ],
+  "interviewNotes": [
+    "회사명은 Strategy지만 목표 직무는 전략기획이 아니라 고객 문제를 기술 데모와 PoC로 번역하는 Sales Engineering임을 먼저 분명히 한다.",
+    "롯데백화점의 9,500건·4배·90% 수치는 Strategy 공개 사례이며 독립 감사 지표가 아님을 표시하고, 측정 정의를 질문한다.",
+    "2025 구독서비스 +64.5%, 2Q26 +54.0%와 제품지원 감소를 함께 말해 클라우드 전환의 성장과 이탈 위험을 동시에 본다.",
+    "Mosaic를 단순 RAG나 벡터DB로 설명하지 말고, 지표·관계·권한·업무 문맥을 여러 BI와 Agent에 일관되게 제공하는 의미 계층으로 설명한다.",
+    "공개 CRM 데이터로 15분 영문 데모를 준비하되, 지표 정의서·권한·예외·출처와 PoC scorecard를 화면에 함께 보여준다.",
+    "EY·신한 경험의 고객명·자료·내부 수치를 공개하지 말고 문제 구조, 역할, 검증 방식과 배운 점만 말한다.",
+    "비트코인 보유량을 기업 매출이나 소프트웨어 성과처럼 말하지 않는다. 소프트웨어 사업과 Corporate & Other를 분리한다.",
+    "SQL·star schema·row-level security·lineage 질문에 답하지 못하면 Agent 구현만으로 기술 적합도를 과장하지 않는다."
+  ],
+  "sources": [
+    {
+      "title": "Strategy Careers — Associate Sales Engineer Intern, Seoul",
+      "publisher": "Strategy",
+      "publishedAt": "2026-10-15 확인",
+      "url": "https://software.strategy.com/careers"
+    },
+    {
+      "title": "Associate Sales Engineer Intern — Seoul",
+      "publisher": "Strategy / SmartRecruiters",
+      "publishedAt": "2026-10-15 확인",
+      "url": "https://jobs.smartrecruiters.com/oneclick-ui/company/MicroStrategy1/publication/0a48d2bb-1491-4ae4-a8df-babd4c4b1aa6?dcr_ci=MicroStrategy1"
+    },
+    {
+      "title": "Associate Sales Engineer Intern — Job Description and Qualifications",
+      "publisher": "Strategy on LinkedIn",
+      "publishedAt": "2026-08 · 2026-10-15 확인",
+      "url": "https://kr.linkedin.com/jobs/view/associate-sales-engineer-intern-at-strategy-4436524253"
+    },
+    {
+      "title": "Form 10-Q for the Quarter Ended June 30, 2026",
+      "publisher": "Strategy / U.S. SEC",
+      "publishedAt": "2026-07-30",
+      "url": "https://www.sec.gov/Archives/edgar/data/1050446/000105044626000044/mstr-20260630.htm"
+    },
+    {
+      "title": "Strategy Q2 2026 Financial Results Presentation",
+      "publisher": "Strategy Investor Relations",
+      "publishedAt": "2026-07-30",
+      "url": "https://www.strategy.com/press/strategy-q2-2026-financial-results-presentation"
+    },
+    {
+      "title": "2025 Annual Report on Form 10-K",
+      "publisher": "Strategy / U.S. SEC",
+      "publishedAt": "2026-02-19",
+      "url": "https://www.sec.gov/Archives/edgar/data/1050446/000105044626000020/mstr-20251231.htm"
+    },
+    {
+      "title": "Strategy One is now Strategy BI",
+      "publisher": "Strategy Software",
+      "publishedAt": "2026-06-29",
+      "url": "https://software.strategy.com/blog/strategy-one-is-now-strategy-bi"
+    },
+    {
+      "title": "Strategy Named as a Representative Vendor in the 2026 Gartner Market Guide for Agentic Analytics",
+      "publisher": "Strategy Software",
+      "publishedAt": "2026-05-07",
+      "url": "https://software.strategy.com/blog/strategy-named-as-a-representative-vendor-in-the-2026-gartner-market-guide-for-agentic-analytics"
+    },
+    {
+      "title": "Strategy World Seoul Edition 2026",
+      "publisher": "Strategy Korea",
+      "publishedAt": "2026-07-09",
+      "url": "https://software.strategy.com/ko/events/strategy-world-seoul-edition-2026"
+    },
+    {
+      "title": "Lotte Department Store scales retail analytics with Strategy AI",
+      "publisher": "Strategy Customer Stories",
+      "publishedAt": "2026-10-15 확인",
+      "url": "https://software.strategy.com/customer-stories/lotte-department-store"
+    },
+    {
+      "title": "Lotte Department Store Implements Strategy One for AI-Powered CRM Analytics",
+      "publisher": "Strategy",
+      "publishedAt": "2025-07-03",
+      "url": "https://www.strategy.com/press/lotte-department-store-implements-strategy-one-for-ai-powered-crm-analytics_07-03-2025"
+    },
+    {
+      "title": "Strategy One Plans and Pricing",
+      "publisher": "Strategy Korea",
+      "publishedAt": "2026-10-15 확인",
+      "url": "https://software.strategy.com/ko/pricing"
+    }
+  ]
+}
