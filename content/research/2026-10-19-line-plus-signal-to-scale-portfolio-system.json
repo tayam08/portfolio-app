@@ -1,0 +1,254 @@
+{
+  "slug": "2026-10-19-line-plus-signal-to-scale-portfolio-system",
+  "date": "2026-10-19",
+  "company": "LINE Plus",
+  "industry": "글로벌 메신저 플랫폼 · AI 에이전트 · 핀테크 · 커머스 · B2B 플랫폼",
+  "tier": "B+ (우선 지원 검토 · 영어 협업 역량을 면접 전 증명해야 함)",
+  "targetRole": "Junior Business & Service Growth Specialist — Strategic Service Initiatives",
+  "title": "LINE Plus Growth Strategy: 전략 과제를 국가별 성과로 바꾸는 Signal-to-Scale Portfolio System",
+  "summary": "LINE Plus의 현재 공고는 3년 이하 경력자가 전사 관점의 서비스 성장 과제를 만들고, HQ·해외 법인과 실행하며, 진척과 의사결정을 경영진에게 보고하는 역할이다. 지원자의 경제학·수학, EY한영의 재무모델·수치 검증 자동화, AI Agent·RAG 제품 구현, 신한금융 PoC, 베트남·미국 GTM, CRM·고객여정 경험은 전략 가설을 국가별 KPI와 실행 이력으로 연결하는 데 맞는다. 다만 영어로 자유롭게 협업하라는 필수요건은 OPIc IH만으로 충분히 증명되지 않으므로 영문 케이스 발표와 질의응답을 별도로 준비해야 한다.",
+  "thesis": "[사실] LINE Plus는 2026-10-19 기준 Junior Business & Service Growth Specialist를 수시 채용하며, 전략과제 개발·실행, 핵심 프로젝트 추적, 경영진 보고, HQ·해외 법인 조율, 시장·사용자 분석을 맡길 3년 이하 경력자를 찾는다. 모회사 LY Corporation의 FY2026 1분기 매출은 5,539억엔(+13.1%), 조정 EBITDA는 1,548억엔(+23.1%)이고, Agent i는 25개 영역과 일간 사용자 1,200만 명으로 확대됐다. LINE Plus가 출시한 ActEngine AI는 태국 LINE MAN Wongnai에서 연 36만 건 규모의 판매자 문의를 자동 처리할 수 있도록 설계됐고 처리시간 60% 이상 단축·정확도 16% 개선을 회사 성과로 제시했다. [해석] 지금의 병목은 아이디어 수가 아니라 서로 다른 국가·서비스·조직의 전략과제를 같은 기준으로 비교하고, 사용자 반응을 실제 성장·수익·리스크 판단으로 바꾸는 실행 체계다. 지원자는 Signal-to-Scale Portfolio System으로 가설, 국가별 기준선, 선행·후행 KPI, 의존성, 의사결정 이력을 연결해 경영진이 확대·수정·중단을 빠르게 판단하도록 만들 수 있다.",
+  "tags": [
+    "LINEPlus",
+    "GrowthStrategy",
+    "CorporatePlanning",
+    "GlobalOperations",
+    "PlatformStrategy",
+    "AIAgent",
+    "StrategyExecution"
+  ],
+  "metrics": [
+    {
+      "label": "채용 실재성",
+      "value": "3년 이하 · 정규직 · 수시채용",
+      "context": "2026-10-19 기준 공식 LINE Careers 페이지가 Open 상태다. 전략·컨설팅·리서치 또는 관련 분야 3년 이하 경험과 영어 협업을 필수로 명시한다."
+    },
+    {
+      "label": "FY2026 1Q 그룹 매출",
+      "value": "5,539억엔",
+      "context": "LY Corporation 연결 기준 전년 동기 대비 13.1% 증가했다. LINE Plus 단독 매출이 아니며 그룹 포트폴리오의 규모와 성장 기준선으로만 사용한다."
+    },
+    {
+      "label": "FY2026 1Q 조정 EBITDA",
+      "value": "1,548억엔",
+      "context": "전년 동기 대비 23.1% 증가했고 조정 EBITDA 마진은 28.0%였다. 그룹이 성장과 수익성을 함께 관리하는 환경임을 보여준다."
+    },
+    {
+      "label": "사업별 매출",
+      "value": "Media 1,820억엔 · Commerce 2,428억엔 · Strategic 1,302억엔",
+      "context": "FY2026 1Q 그룹 기준이며 각각 전년 동기 대비 2.6%, 12.5%, 34.9% 증가했다. 포트폴리오별 성장률과 수익모델이 달라 단일 KPI로 관리하기 어렵다."
+    },
+    {
+      "label": "Agent i 채택",
+      "value": "25개 영역 · 1,200만 DAU",
+      "context": "2026-08-03 기준 영역 수와 2026년 6월 기준 일간 사용자다. DAU는 여러 Agent i 접점의 평균 이용자를 합산한 회사 정의이므로 중복 가능성과 산식을 함께 봐야 한다."
+    },
+    {
+      "label": "LINE MINI App",
+      "value": "MAU 2,897만 · +50.6%",
+      "context": "FY2026 1Q 회사 발표치다. 같은 기간 MINI App 수는 3.3만 개로 전년 동기 대비 50.4% 늘었으나, 캠페인과 탭 노출 강화 효과가 포함돼 지속 이용을 별도로 확인해야 한다."
+    },
+    {
+      "label": "ActEngine AI 운영효과",
+      "value": "처리시간 -60%+ · 정확도 +16%",
+      "context": "LINE MAN Wongnai 판매자 포털의 CS Agent에 대한 LINE Plus 회사 발표치다. 연 36만 건 자동 처리 가능 규모도 제시됐으나 독립 검증이나 매출 기여 수치는 공개되지 않았다."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "왜 오늘 LINE Plus인가",
+      "paragraphs": [
+        "[사실] 공식 공고는 전사 관점에서 핵심 서비스 개선·확장 방향을 고민하는 Strategic Service Initiatives 조직의 3년 이하 정규직 역할이다. 전략과제 개발과 실행, 프로젝트 진척 관리, 경영진 의사결정 지원, HQ·해외 법인 조율, 시장·사용자 분석이 한 포지션에 묶여 있다.",
+        "[사실] LINE Plus는 2026년 3월 CS·Sales 실행형 에이전트 ActEngine AI를 공개하며 B2B AI 시장 진출을 공식화했다. LY Corporation은 4월 Agent i를 출시했고, 8월에는 25개 영역과 일간 사용자 1,200만 명을 발표했다. 동시에 LINE MINI App, Official Account, 핀테크·커머스·O2O 서비스를 여러 국가에서 운영한다.",
+        "[판단] 오늘 이 회사를 고른 이유는 지원자의 해외 GTM, CRM, 플랫폼 전략, AI 제품 구현, 재무 검증을 하나의 전략실행 서사로 묶을 수 있기 때문이다. 최근 5개 보고서의 기후 공적금융, O2O 운영, 바이오 출시, BI 프리세일즈, 글로벌 IB와 다른 ‘글로벌 플랫폼 포트폴리오×성장전략×국가별 실행’ 문제를 보여준다."
+      ],
+      "bullets": [
+        "직무 적합성: 매우 높음 — 정량·정성 분석, 전략과제, 프로젝트 추적, 경영진 보고가 지원자의 핵심 경험과 겹친다.",
+        "지원 서사: 매우 높음 — 신한금융 PoC와 베트남·미국 GTM을 해외 법인 실행 조율로, CRM을 사용자 성장으로 연결할 수 있다.",
+        "실제 과제: 매우 높음 — AI·커머스·핀테크·O2O의 서로 다른 성장 신호를 공통 의사결정 기준으로 번역해야 한다.",
+        "채용 가능성: 중상 — 3년 이하·수시채용은 맞지만 영어 자유 소통이 명시적 필수요건이다.",
+        "1차 자료: 매우 높음 — 공식 채용, LINE Plus 서비스·보도자료, LY Corporation 실적·리스크 자료가 충분하다.",
+        "포트폴리오 확장성: 높음 — 분석 보고서를 넘어 다국가 전략 포트폴리오 운영 역량을 보여준다."
+      ]
+    },
+    {
+      "heading": "지원 적합도 판단",
+      "paragraphs": [
+        "[판단] 종합 적합도는 B+다. 경제학·수학 기반의 지표 설계와 시나리오 분석, EY한영 Deal3 SAT M&A에서의 DCF·EV/EBITDA·Report Footing·DM Deck 자동화는 여러 프로젝트의 가정과 수치를 검증해 경영진용 결론으로 압축하는 데 직접 연결된다.",
+        "[판단] 인톡에서 신한금융 PoC를 기획하고 베트남·미국 진출을 추진한 경험은 HQ의 전략을 현지 요구·제품 범위·실행 일정으로 번역하는 근거다. 농구단 CRM과 고객여정 분석, AI Agent·RAG·웹제품 구현은 사용자 신호를 서비스 개선 가설과 측정 가능한 실험으로 바꾸는 강점이다.",
+        "[판단] 가장 큰 약점은 영어다. 공고는 글로벌 LINER와 영어로 자유롭게 소통·협업할 것을 요구하지만 이력서상 OPIc IH만 확인된다. 또한 대규모 소비자 플랫폼의 라이브 KPI, 다국가 P&L, 복수 법인 의사결정권을 직접 운영한 경험은 없다. 이 간극을 숨기지 말고 10분 영문 케이스와 국가별 KPI 템플릿으로 보완해야 한다."
+      ],
+      "bullets": [
+        "강점 1: 재무모델·문서·수치의 출처와 가정을 대사해 경영진 보고의 신뢰도를 높이는 능력.",
+        "강점 2: AI Agent·RAG·데이터 제품을 직접 구현해 전략 제안을 작동하는 워크플로로 만드는 능력.",
+        "강점 3: 금융 PoC, 해외 GTM, CRM·고객여정을 통해 B2B와 B2C의 성장 문제를 함께 본 경험.",
+        "보완 1: 영어 10분 발표, 반론 대응, 회의 요약, 의사결정 요청까지 포함한 모의 글로벌 회의를 준비할 것.",
+        "보완 2: MAU·리텐션·전환·ARPU·공헌이익·국가별 P&L을 연결한 플랫폼 KPI 모델과 실제 SQL 분석 샘플을 만들 것."
+      ]
+    },
+    {
+      "heading": "수익 구조와 산업·경쟁 구도",
+      "paragraphs": [
+        "[사실] LINE Plus 단독 재무는 공개되지 않는다. 모회사 LY Corporation은 Media, Commerce, Strategic의 세 축으로 수익을 공시한다. Media는 검색·디스플레이·계정 광고와 구독, Commerce는 쇼핑·리유스·서비스 거래, Strategic은 PayPay와 기타 핀테크가 중심이다. LINE Plus는 메신저 접점을 기반으로 Official Account, 콘텐츠, O2O, 핀테크, 게임·IP, Web3, B2B AI 서비스를 전개한다.",
+        "[사실] FY2026 1분기 그룹 매출은 5,539억엔이며 Media 1,820억엔, Commerce 2,428억엔, Strategic 1,302억엔이다. Strategic 매출은 34.9% 증가해 가장 빠르게 성장했고 Media는 2.6% 증가했다. LINE Official Account 유료 계정은 분기말 50만 개, 계정 광고 매출은 383억엔(+13.3%)이었다.",
+        "[해석] 경쟁은 메신저 이용자 수만으로 끝나지 않는다. 카카오·Meta 계열 메신저, 각국 슈퍼앱, 광고·CRM SaaS, 핀테크·커머스 플랫폼, 독립 AI 에이전트가 사용자 시간·가맹점 예산·데이터 접점을 동시에 겨룬다. LINE의 방어력은 메시징 관계망을 예약·주문·결제·고객관리까지 이어주는 데 있지만, 각 국가의 규제와 현지 파트너 구조 때문에 성공 패턴을 그대로 복제하기 어렵다."
+      ],
+      "bullets": [
+        "수익 레버: 광고주 수·집행액, Official Account 유료화, 구독자, 커머스 거래액·수수료, 핀테크 고객·대출·결제, B2B AI 계약.",
+        "성장 레버: 메신저 내 유입, MINI App·Official Account 채택, 서비스 간 교차사용, 현지 파트너 유통, 국가별 규제 적합성.",
+        "비용 레버: AI 추론·데이터센터, 판매·마케팅, 보안·컴플라이언스, 현지 운영, 인수·통합 비용.",
+        "전략 원칙: 그룹 수치와 LINE Plus 단독 성과, 사용자 증가와 수익화, 본사 공통 기능과 현지 특화 기능을 분리해 본다."
+      ]
+    },
+    {
+      "heading": "최신 운영 지표와 향후 3년 성장동력",
+      "paragraphs": [
+        "[사실] FY2026 1분기 LY Corporation의 매출은 13.1%, 조정 EBITDA는 23.1% 증가했다. Agent i는 25개 영역·일간 사용자 1,200만 명, LINE MINI App은 MAU 2,897만 명(+50.6%), LYP Premium 직접 구독자는 682만 명(+36.8%)에 도달했다. 회사는 사용자 성장과 AI 서비스 수익화를 함께 추진한다고 밝혔다.",
+        "[사실] LINE Plus의 ActEngine AI는 태국 LINE MAN Wongnai의 70만 개 이상 판매자 기반에서 CS·Sales 에이전트를 운영한다. 회사는 CS 처리시간 60% 이상 단축, 정확도 16% 개선, 연 36만 건 자동 처리 가능 규모를 발표했다. LINE BK는 2026년 상반기 고객 880만 명(+12%), 대출 고객 약 93.1만 명(+15%), 대출잔액 290억바트 이상을 발표했다.",
+        "[해석] 향후 3년 성장동력은 첫째 Agent i와 ActEngine AI를 사용자 행동·기업 매출로 연결하는 실행형 AI, 둘째 Official Account·MINI App을 예약·주문·CRM의 운영체제로 확장하는 매장 DX, 셋째 태국·대만 등에서 검증된 핀테크·O2O 모델을 규제와 현지 P&L에 맞춰 재사용하는 것이다. 공통 플랫폼과 현지화의 경계를 명확히 해야 규모의 경제가 생긴다."
+      ],
+      "bullets": [
+        "1년 차: 핵심 전략과제에 공통 opportunity brief, 기준선, KPI tree, 국가별 dependency map을 적용하고 확대·중단 기준을 명문화.",
+        "2년 차: AI·MINI App·Official Account 과제의 국가별 코호트와 공헌이익을 비교해 재사용 가능한 playbook과 예외 조건을 축적.",
+        "3년 차: 검증된 패턴을 금융·리테일·O2O 파트너에 모듈형으로 배포하고 B2B 라이선스·성과기반 수익을 확대.",
+        "AI 원칙: 리서치·번역·회의 요약·이상징후 탐지는 자동화하되 국가별 투자·출시·중단 판단은 명시된 책임자가 승인."
+      ]
+    },
+    {
+      "heading": "주요 리스크",
+      "paragraphs": [
+        "[사실] LY Corporation은 FY2026 그룹 최상위 리스크로 정보보안, 개인정보, AI, 지정학·경제, 거버넌스 등을 관리한다. 2023년 무단 접근에 따른 정보 유출 이후 시스템·네트워크 분리, 다중인증, 위탁사 관리 등 재발방지 조치의 최종 보고를 2026년 7월 제출했다.",
+        "[판단] 첫째, MAU·DAU가 빠르게 늘어도 캠페인 유입·중복 사용자·무료 기능 사용이 많으면 장기 리텐션과 수익으로 이어지지 않을 수 있다. 둘째, AI 에이전트가 예약·구매·상담 같은 행동을 실행할수록 오답보다 권한·개인정보·취소·보상 책임이 더 큰 위험이 된다.",
+        "[판단] 셋째, HQ와 해외 법인이 같은 지표 이름을 써도 정의·데이터 가용성·규제·수익배분이 다를 수 있다. 넷째, 성장 프로젝트가 많아질수록 경영진 보고가 활동량 중심으로 변하고 실패 과제가 관성적으로 연장될 위험이 있다. 다섯째, 공개 그룹 지표를 LINE Plus 또는 지원 조직의 성과로 오인하면 면접 분석의 신뢰를 잃는다."
+      ],
+      "bullets": [
+        "측정 리스크: DAU·MAU 산식, 중복 사용자, 캠페인 효과, 서비스 간 어트리뷰션을 정의서로 고정.",
+        "AI 리스크: 모델 품질뿐 아니라 권한, 동의, 실행 로그, human override, 보상 책임을 출시 게이트에 포함.",
+        "글로벌 리스크: 국가별 개인정보·금융 규제, 언어, 파트너 계약, 데이터 이전 제한을 dependency로 관리.",
+        "포트폴리오 리스크: 모든 과제에 중단 기준과 재검토일을 두고 sunk-cost에 따른 연장을 막는다."
+      ]
+    },
+    {
+      "heading": "목표 직무가 해결할 문제: Signal-to-Scale Portfolio System",
+      "paragraphs": [
+        "[제안] 전략과제마다 1페이지 opportunity brief를 만든다. 사용자·시장 신호, 대상 국가와 코호트, 해결할 문제, 현재 기준선, 기대 행동, 수익·비용·리스크 가설, 데이터 출처, 책임자를 같은 문서에 둔다. 좋은 아이디어가 아니라 검증 가능한 의사결정 단위를 만드는 것이 목적이다.",
+        "[제안] 실행은 Discover–Pilot–Prove–Scale–Stop의 다섯 게이트로 관리한다. 각 게이트에 선행지표(도달·활성화·처리시간), 후행지표(리텐션·매출·공헌이익), 품질·보안 guardrail, HQ·현지 dependency, 다음 결정일을 붙인다. 국가별 숫자는 공통 정의와 현지 예외를 함께 기록한다.",
+        "[제안] 경영진 보고는 상태 색상 대신 ‘무엇이 달라졌는가, 어떤 가정이 틀렸는가, 지금 필요한 결정은 무엇인가’ 세 문장으로 시작한다. AI는 시장자료·회의록·사용자 피드백을 요약하고 번역하며 지표 이상을 탐지하지만, 우선순위와 투자 결정은 원문·지표·담당자 확인 후 사람이 승인한다."
+      ],
+      "bullets": [
+        "North Star: 검증된 전략과제가 국가별 지속 사용자·수익·공헌이익으로 전환되는 속도와 재현성.",
+        "공통 필드: initiative_id, country, cohort, problem, baseline, hypothesis, KPI definition, owner, dependency, gate, decision, evidence link.",
+        "주간 운영: 위험·의존성·지표 이상 점검, 월간 운영: 확대·수정·중단 결정, 분기 운영: 포트폴리오 자원 재배분.",
+        "성공 기준: 보고서 수가 아니라 의사결정 리드타임, 실패 조기중단, 국가 간 재사용률, 데이터 정의 불일치 감소."
+      ]
+    },
+    {
+      "heading": "지원자 경험과의 구체적 연결",
+      "paragraphs": [
+        "[연결] EY한영의 DCF·EV/EBITDA Agent는 여러 가정과 수치를 비교해 가치평가 결론의 근거를 남긴 경험이다. 이는 국가별 성장과제의 기준선·가정·결과를 대사하고 경영진이 숫자를 재현할 수 있게 만드는 포트폴리오 운영으로 전환할 수 있다.",
+        "[연결] Report Footing과 DM Deck Agent는 반복 검증과 경영진용 산출물 속도를 함께 높인 경험이다. 단순 회의 요약이 아니라 숫자 불일치, 버전 변경, 미해결 의존성을 자동 탐지하는 전략실 운영 도구로 연결한다.",
+        "[연결] 신한금융 PoC는 기관 요구를 제품 범위와 검증 계획으로 번역한 사례, 베트남·미국 GTM은 시장별 가설과 진입경로를 달리 본 사례다. KGC CRM은 세그먼트·리텐션·고객여정을 다룬 경험이고, 모빌리티·플랫폼 프로젝트는 제품 가치와 파트너 인센티브를 구조화한 근거다."
+      ],
+      "bullets": [
+        "이력서 문장: ‘Built decision-traceable AI workflows linking source evidence, KPI assumptions and executive-ready outputs.’",
+        "포트폴리오 보강: LINE MINI App 또는 ActEngine AI 한 과제를 골라 3개 국가의 기준선·KPI·의존성·확대 게이트를 5장으로 작성.",
+        "영어 보강: 위 5장을 영어로 발표하고 ‘왜 이 KPI인가, 언제 중단하는가, 현지 법인이 반대하면 무엇을 하는가’를 답변.",
+        "SQL 보강: activation→4주 retention→유료전환→공헌이익 코호트를 계산하는 쿼리와 정의서를 공개 가능한 샘플 데이터로 구현."
+      ]
+    },
+    {
+      "heading": "지원 우선순위와 실행 계획",
+      "paragraphs": [
+        "[판단] 지원 우선순위는 B+로, 영어 모의 케이스를 통과할 수 있다면 우선 지원한다. 3년 이하 경력, 전략·리서치 경험, IT·시장분석·PPT 우대는 잘 맞고 공고도 현재 열려 있다. 반면 영어 자유 소통을 준비하지 않은 상태에서는 서류 통과 후 전형 리스크가 커진다.",
+        "[실행] 수시채용이므로 72시간 안에 지원서를 제출하되, 먼저 ① 5장 영문 Signal-to-Scale 케이스 ② 국가별 KPI tree ③ EY·신한 경험의 비밀유지 안전 버전 ④ 영어 10분 발표 녹화 ⑤ 사전과제용 90분 분석 템플릿을 완성한다.",
+        "[판단] 지원서의 중심 문장은 ‘AI를 잘 아는 전략가’가 아니라 ‘여러 조직의 가설과 수치를 하나의 의사결정 체계로 연결하고, 필요한 경우 직접 프로토타입까지 만드는 실행형 전략가’여야 한다. LY 그룹 수치를 LINE Plus 단독 성과처럼 쓰지 않는 정확성 자체가 신뢰의 증거다."
+      ],
+      "bullets": [
+        "즉시: 공식 공고 저장, 영문 이력서와 5장 케이스 작성, 지원.",
+        "면접 전: LINE Plus·LY Corporation·LINE MAN·LINE BK의 법인과 서비스 관계를 한 장으로 정리.",
+        "사전과제: 문제 정의→기준선→가설→KPI→실험→리스크→90일 실행 순서로 90분 내 완성 연습.",
+        "지원 보류 조건: 영어 질의응답에서 전략의 trade-off와 반론을 설명하지 못하거나, 플랫폼 KPI 샘플을 준비하지 못한 경우."
+      ]
+    }
+  ],
+  "interviewNotes": [
+    "지원 문장: 저는 EY한영에서 DCF·EV/EBITDA와 보고서 수치를 검증하는 Agent를 만들며, 빠른 실행보다 가정·출처·결론이 다시 추적되는 의사결정 체계가 중요하다는 점을 배웠습니다.",
+    "지원 문장: 신한금융 PoC와 베트남·미국 GTM에서는 같은 제품도 이해관계자와 시장에 따라 검증 질문과 실행 순서가 달라진다는 점을 경험했습니다.",
+    "지원 문장: LINE Plus에서는 사용자 신호, 국가별 기준선, 성장·수익·리스크 KPI, HQ·현지 dependency를 하나의 Signal-to-Scale Portfolio로 연결하겠습니다.",
+    "영문 문장: I turn scattered market signals and project updates into decision-ready growth portfolios, with explicit baselines, owners, stage gates and evidence links.",
+    "질문 1: Strategic Service Initiatives가 현재 직접 소유하는 서비스와 지원하는 서비스의 경계는 어떻게 나뉩니까?",
+    "질문 2: 입사 후 첫 6개월의 성공은 전략과제 발굴, 실행률, 사용자 지표, 수익 기여, 경영진 의사결정 속도 중 무엇으로 평가합니까?",
+    "질문 3: HQ와 해외 법인의 KPI 정의나 우선순위가 충돌할 때 최종 의사결정권과 escalation 방식은 무엇입니까?",
+    "질문 4: 최근 확대된 과제와 중단된 과제는 각각 어떤 증거와 stage gate를 통과하거나 넘지 못했습니까?",
+    "질문 5: Agent i·MINI App·ActEngine AI처럼 서비스 경계가 연결될 때 사용자·매출 기여를 어떻게 어트리뷰션합니까?",
+    "질문 6: 사전과제와 영어 면접에서 가장 중요하게 보는 것은 분석의 정확성, 구조화, 실행 가능성, 이해관계자 설득 중 무엇입니까?"
+  ],
+  "sources": [
+    {
+      "title": "Junior Business & Service Growth Specialist",
+      "publisher": "LINE Careers",
+      "publishedAt": "2026-10-19 기준 Open 확인",
+      "url": "https://careers.linecorp.com/ko/jobs/2380"
+    },
+    {
+      "title": "FY2026 Q1 Earnings Slides",
+      "publisher": "LY Corporation",
+      "publishedAt": "2026-08-03",
+      "url": "https://www.lycorp.co.jp/en/ir/library/presentations/main/017/teaserItems2/00/linkList/04/link/en2026q1_presentation.pdf"
+    },
+    {
+      "title": "Results for the Three Months Ended June 30, 2026 (FY2026-1Q)",
+      "publisher": "LY Corporation",
+      "publishedAt": "2026-08-03",
+      "url": "https://data.swcms.net/file/lycorp-ir/dam/jcr:cb9cdb23-e073-40f7-8c39-af4bd492a6ee/140120260724598951.pdf"
+    },
+    {
+      "title": "FY2026 Q1 Earnings Results Briefing",
+      "publisher": "LY Corporation",
+      "publishedAt": "2026-08-03",
+      "url": "https://www.lycorp.co.jp/en/ir/news/news24166917655079000000.html"
+    },
+    {
+      "title": "LINE Plus Unveils B2B Platform ‘ActEngine AI’ to Drive Enterprise Revenue Growth with Action-Oriented AI",
+      "publisher": "LINE Plus",
+      "publishedAt": "2026-03-12",
+      "url": "https://www.linepluscorp.com/en/pr/news/global/20260312/"
+    },
+    {
+      "title": "LY Corporation Launches New AI Agent Brand ‘Agent i’ Today",
+      "publisher": "LY Corporation",
+      "publishedAt": "2026-04-20",
+      "url": "https://www.lycorp.co.jp/en/news/release/020398/"
+    },
+    {
+      "title": "Services",
+      "publisher": "LINE Plus Corporation",
+      "publishedAt": "2026-10-19 기준일 열람",
+      "url": "https://www.linepluscorp.com/en/business/service/"
+    },
+    {
+      "title": "LINE BK Reports Continued H1 Growth, Reinforcing Its Role as an Everyday Financial Partner",
+      "publisher": "LINE Plus",
+      "publishedAt": "2026-08-03",
+      "url": "https://www.linepluscorp.com/en/pr/news/20260803/"
+    },
+    {
+      "title": "Notice Regarding Completion of Reporting on Recurrence Prevention Measures for the Information Leakage Due to Unauthorized Access",
+      "publisher": "LY Corporation",
+      "publishedAt": "2026-07-21",
+      "url": "https://www.lycorp.co.jp/en/news/announcements/020660/"
+    },
+    {
+      "title": "Enterprise Risk Management — FY2026 Top Risks",
+      "publisher": "LY Corporation",
+      "publishedAt": "2026-06-30",
+      "url": "https://www.lycorp.co.jp/en/sustainability/esg/governance/riskmanagement/"
+    },
+    {
+      "title": "Corporate Information",
+      "publisher": "LY Corporation",
+      "publishedAt": "2026-10-19 기준일 열람",
+      "url": "https://www.lycorp.co.jp/en/company/"
+    }
+  ]
+}
