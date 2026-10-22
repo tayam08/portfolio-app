@@ -1,0 +1,290 @@
+{
+  "slug": "2026-10-22-enhans-funding-to-production-portfolio-loop",
+  "date": "2026-10-22",
+  "company": "인핸스 (Enhans)",
+  "industry": "엔터프라이즈 에이전틱 AI · 온톨로지 · AI 실행 플랫폼 · 산업별 AX",
+  "tier": "A- (우선 지원 · SaaS FP&A와 비즈니스 영어 보완 필요)",
+  "targetRole": "Strategy Analyst (인턴) — FP&A · 기업전략 · IR · 사업개발",
+  "title": "Enhans Strategy: 512억원 Series C를 반복 가능한 프로덕션 성장으로 바꾸는 Funding-to-Production Portfolio Loop",
+  "summary": "인핸스는 2026-10-22 기준 Strategy Analyst 인턴을 채용 중이다. 역할은 재무모델·예측, KPI와 경영진 보고, 시장·경쟁 분석, IR 데이터룸, 사업개발과 전략 실행을 함께 지원한다. 9월 512억원 Series C 이후 금융·제조·국방·공공으로 AgentOS 적용 범위가 빠르게 넓어지는 지금, 핵심 과제는 자금과 인력을 많은 PoC에 분산하는 것이 아니라 고객 가치·반복 가능성·구현 원가·거버넌스를 같은 포트폴리오 기준으로 관리하는 것이다. 지원자의 EY한영 DCF·EV/EBITDA·Report Footing·DM Deck 자동화, 금융 문서 RAG, 신한금융 PoC와 해외 GTM은 이 과제에 직접 연결된다. 다만 SaaS 매출 인식·ARR·gross margin·burn/runway를 운영한 증거와 영어 투자자 커뮤니케이션은 보완해야 한다.",
+  "thesis": "[사실] 인핸스는 2026-09-17 Series C에서 512억원을 조달해 누적 투자금 810억원을 확보했고, 데이터·프로세스·실행 인프라, Industry Pack, 보안·거버넌스와 해외 인재에 투자하겠다고 밝혔다. 10월에는 IBK기업은행의 온톨로지 기반 데이터 분석 검증과 SK텔레콤의 국방 의사결정 지원 사례를 공개했고, 9월에는 GS칼텍스의 제조 암묵지 프로젝트를 발표했다. [해석] 전략팀의 당면 과제는 기술 가능성과 고객 발표 건수를 늘리는 것이 아니라, 각 프로젝트가 유료 프로덕션·재사용 가능한 산업 자산·건전한 구현 경제성·감사 가능한 운영으로 이어지는지를 같은 언어로 비교하는 것이다. [제안] Funding-to-Production Portfolio Loop로 자본배분→고객 문제→검증 지표→프로덕션 전환→단위경제성→재사용 자산→다음 투자 결정을 연결한다.",
+  "tags": [
+    "Enhans",
+    "StrategyAnalyst",
+    "AgenticAI",
+    "FP&A",
+    "CapitalAllocation",
+    "EnterpriseAI",
+    "BusinessDevelopment"
+  ],
+  "metrics": [
+    {
+      "label": "채용 실재성",
+      "value": "졸업자·졸업예정자 지원 가능",
+      "context": "공식 채용 페이지는 2026-10-22에도 Strategy Analyst 인턴을 채용 시 마감 상태로 표시한다. 상세 공고는 FP&A, KPI, 기업전략, IR 데이터룸, 사업개발, 실행 추적과 비즈니스 영어를 요구한다."
+    },
+    {
+      "label": "Series C",
+      "value": "512억원 · $38m",
+      "context": "2026-09-17 회사 발표와 서울경제 보도가 교차 확인한 금액이다. TIMEFOLIO와 Stonebridge가 공동 주도했고 POSCO·LG·롯데 계열 전략적 투자자가 참여했다."
+    },
+    {
+      "label": "누적 투자금",
+      "value": "810억원 · $60m",
+      "context": "회사와 서울경제가 같은 날 확인한 누적 조달액이다. 매출이나 기업가치가 아니며, 공개된 자금 사용 계획을 실제 성과로 전환할 책임이 커졌다는 신호다."
+    },
+    {
+      "label": "2025 유료 고객",
+      "value": "6곳 → 29곳",
+      "context": "2025-12-26 CEO Letter의 비감사 회사 지표다. 같은 자료는 기존 고객의 평균 사용량이 105% 증가했다고 밝혔지만 ARR·유지율·고객별 매출은 공개하지 않았다."
+    },
+    {
+      "label": "글로벌 운영 범위",
+      "value": "50+개국 · 1,000+ 마켓플레이스",
+      "context": "회사 About 및 2026-06-12 Pegasus 발표의 회사 보고치다. 국가 수는 사업 깊이나 반복매출을 뜻하지 않으므로 고객·워크플로·매출 품질과 분리해 본다."
+    },
+    {
+      "label": "IBK 검증 일정",
+      "value": "2026년 11월까지",
+      "context": "은행 내부망에 AgentOS를 배치해 자연어 질의, 근거 제시, 원인 분석을 사전 정의한 golden dataset으로 정량 평가하는 프로젝트다. 계약 규모와 상용 전환 여부는 공개되지 않았다."
+    },
+    {
+      "label": "GS칼텍스 프로젝트 데이터",
+      "value": "설비 832,996개 · 문서 약 2,900건",
+      "context": "제조 현장 암묵지를 온톨로지로 구조화하는 정부 R&D 프로젝트의 회사 발표치다. 데이터 규모가 곧 모델 성능이나 매출을 의미하지 않는다."
+    },
+    {
+      "label": "AI 규제 환경",
+      "value": "AI 기본법 2026-01-22 시행",
+      "context": "과기정통부는 투명성·안전·고영향 AI 책임을 명시하고 최소 1년의 계도기간을 뒀다. 금융·공공·제조 고객 확대에는 성능과 함께 사람의 최종 판단, 증거, 접근권한과 배포 통제가 필요하다."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "왜 오늘 인핸스인가",
+      "paragraphs": [
+        "[사실] 공식 채용 페이지에는 Strategy Analyst 인턴이 채용 시 마감으로 열려 있다. 상세 공고는 사업구조를 반영한 재무모델과 시나리오 분석, KPI·경영진 보고, 시장·경쟁 리서치, 중장기 전략과 분기 우선순위, IR 데이터룸, 사업기회·파트너십·전략적 투자 검토, 부서별 실행 이슈 정리를 한 역할에 명시한다.",
+        "[사실] 회사는 9월 512억원 Series C 이후 한 달 안에 GS칼텍스 제조 암묵지, IBK기업은행 내부 데이터 분석, SK텔레콤 국방 의사결정 지원 사례를 잇달아 공개했다. 2026년 5월에는 CommerceOS를 AgentOS로 바꾸며 커머스에서 제조·금융·공공 등 전사 실행 플랫폼으로 범위를 넓혔다.",
+        "[판단] 전일 J.P. Morgan 보고서가 실시간 FX flow·P&L·risk handoff를 다뤘다면 오늘은 비상장 AI 스케일업의 자본배분·포트폴리오·프로덕션 경제성을 다룬다. 최근 5개 보고서의 금융시장, 인터넷은행 분석, 메신저 성장전략, 기후금융, O2O 운영과 산업×직무×핵심 문제가 겹치지 않는다."
+      ],
+      "bullets": [
+        "직무 적합성 5/5: EY 재무모델·수치 검증, AI Agent 구현, PoC·GTM을 FP&A·IR·사업개발·실행 추적으로 한 번에 연결할 수 있다.",
+        "지원 서사 5/5: ‘AI를 아는 재무·전략 Analyst’가 아니라 ‘모델·문서·현업 워크플로를 직접 대사하고 구현해 본 Analyst’라는 차별점이 있다.",
+        "실제 과제 5/5: 512억원 조달 후 다산업 확장, Industry Pack, 글로벌 GTM, 보안·거버넌스를 어떤 순서와 지표로 투자할지가 선명하다.",
+        "채용 가능성 5/5: 졸업자·졸업예정자 대상 인턴이며 경력연수 조건이 없고 현재 공식 채용 목록에 있다.",
+        "1차 자료 4/5: 공식 채용·제품·투자·고객 프로젝트·정부 규제 자료는 풍부하지만 비상장사라 감사 매출·ARR·손익·현금소진은 비공개다.",
+        "포트폴리오 확장성 5/5: 기존 AI 제품 사례에 startup FP&A·자본배분·IR·포트폴리오 통제라는 새 역량을 더한다.",
+        "차순위 Panmnesia Strategy & Operations: AI 인프라 반도체의 entry-level 역할은 매력적이나 HR·법무 운영 비중이 높고 사업지표 1차 자료가 제한적이다.",
+        "차순위 BNP Paribas Corporate Coverage Graduate: 최근 졸업자 대상이고 신용·KYC·관계관리와 EY 경험이 맞지만 최근 5개 중 금융 보고서가 2건이라 확장성이 낮다.",
+        "검토 후 탈락 Standard Chartered M&A Graduate: DCF·딜 서사는 강하지만 지원자의 2026년 졸업 상태와 ‘final year, graduating by July 2027’ 요건의 정합성이 낮고 최근 IB 보고서와 중복된다.",
+        "검토 후 탈락 Tencent Cloud BD Intern: 클라우드·해외 GTM은 적합하지만 한국어와 중국어의 유창한 고객 커뮤니케이션 요구를 지원자 이력에서 확인할 수 없다.",
+        "검토 후 탈락 Hyperconnect Data Analyst: 글로벌 제품 실험은 매력적이나 SQL 분석 3년, A/B 테스트 전 과정, 로그·BI 운영 경험을 요구해 현재 역량과 간극이 크다.",
+        "검토 후 탈락 Google Cloud Strategy & Operations Manager: 과제 적합성은 높지만 최소 6년 관련 경력과 manager scope가 요구된다.",
+        "검토 후 탈락 Criteo Account Strategist: 데이터 기반 고객 성장과 CRM은 맞지만 7년 이상 AdTech·미디어 경력을 요구한다.",
+        "검토 후 탈락 ServiceNow Seoul 역할군: 공식 사이트에 서울 역할은 있으나 현재 early-career 사업전략 역할을 확인하지 못했다.",
+        "검토 후 탈락 WildBrain Seoul 라이선싱 역할군: 콘텐츠 IP 확장성은 크지만 공개 목록에서 지원자에게 맞는 초기경력 전략 역할의 상세가 부족하다.",
+        "검토 후 탈락 Trip.com Business Support Operator: QA 데이터 분석은 연결되나 한국어·중국어 요구와 고객지원 중심 범위 때문에 전략 소유권이 낮다.",
+        "검토 후 탈락 Daebak Business Development Intern: 글로벌 한류 파트너십은 GTM 경험과 맞지만 무급 3~6개월이고 검증 가능한 재무·운영 자료가 부족하다."
+      ]
+    },
+    {
+      "heading": "지원 적합도 판단",
+      "paragraphs": [
+        "[판단] 종합 적합도는 A-다. 경제학·수학은 고객·산업·투자 대안을 가정과 민감도로 구조화하는 기반이다. EY한영 Deal3 SAT M&A의 DCF·EV/EBITDA Agent는 재무모델과 시장 변수를 연결한 증거이고, Report Footing·DM Deck Agent는 경영진·투자자 자료의 숫자와 원천을 대사한 증거다.",
+        "[판단] 금융·보험 규제 문서 RAG와 신한금융 PoC는 규제 산업에서 고객 용어·근거·승인 흐름을 AI 워크플로로 바꾼 경험이다. 인톡의 베트남·미국 GTM, CRM과 고객여정 경험은 새로운 시장·파트너·사용자 피드백을 제품·사업 우선순위로 번역한 근거다. 직접 Agent를 만든 경험은 연구·제품·영업팀의 주장과 제약을 검증하는 데 유리하다.",
+        "[판단] 그러나 내부 회계 데이터를 월별 forecast로 운영하고 ARR, NRR, backlog, implementation gross margin, burn과 runway를 책임졌다는 증거는 없다. OPIc IH도 글로벌 투자자·파트너 앞에서 재무 가정과 반론을 영어로 방어할 수 있다는 충분한 증거가 아니다."
+      ],
+      "bullets": [
+        "강점 1: DCF·EV/EBITDA와 수치 대사 자동화로 재무모델의 가정→산식→출력→검토 이력을 연결한 경험.",
+        "강점 2: AI Agent·RAG·데이터 제품을 직접 구현해 모델 성능, 데이터 품질, human approval과 배포 제약을 사업 언어로 번역할 수 있는 능력.",
+        "강점 3: 신한금융 PoC·해외 GTM·CRM으로 고객 문제 발견부터 제안, 피드백, 확장 가설까지 다뤄 본 경험.",
+        "보완 1: SaaS·프로젝트 혼합 모델의 ARR/booking/revenue recognition, delivery cost, compute gross margin, CAC/payback, burn/runway를 월별 모델로 만들 것.",
+        "보완 2: 영어 10분 board update와 investor Q&A를 준비해 시장규모·경쟁·현금계획·downside case를 숫자로 방어할 것."
+      ]
+    },
+    {
+      "heading": "수익 구조와 산업·경쟁 구도",
+      "paragraphs": [
+        "[사실] 인핸스는 비상장사이며 제품별 가격, ARR, 매출 인식 방식과 고객 집중도를 공개하지 않는다. 공식 자료상 AgentOS는 기존 DB·API·파일에 ontology와 task-specific agent, workflow, dashboard·natural-language interface, ACT-2 실행 계층을 얹고 on-premise 또는 private cloud 배포를 지원한다.",
+        "[해석] 가능한 수익원은 플랫폼 사용료·구독 또는 사용량, 초기 구축·데이터 통합, 산업별 Industry Pack, 전문서비스·유지보수, 파트너 공동판매다. 그러나 공개 근거만으로 실제 계약 구조나 각 수익원의 비중을 단정할 수 없다. 전략팀은 booking과 현금수취, 회계매출, 반복매출, 일회성 구축매출을 분리해야 한다.",
+        "[해석] 경쟁은 Palantir류 ontology·operating platform, Microsoft·Google·AWS의 agent·cloud stack, UiPath류 automation, Dataiku류 enterprise AI, 국내 SI·AX 사업자와 산업별 AI 스타트업 사이에서 벌어진다. 승부는 모델 점수 하나가 아니라 고객 데이터 연결, 업무 의미의 구조화, 실행권한, 보안·배포, 검증 가능한 ROI와 재사용 가능한 delivery 방식의 결합이다."
+      ],
+      "bullets": [
+        "수익 레버: 신규 logo, 프로덕션 전환, 워크플로·부서 확장, 사용량, Industry Pack 재판매, 파트너 co-sell, 글로벌 고객.",
+        "비용 레버: FDE·ontology 설계 인력, 데이터 통합, 추론·인프라, 보안·온프레미스 지원, 고객별 customization, 글로벌 현지화.",
+        "경쟁 레버: time-to-first-value, task success·reliability, 근거·감사 가능성, 권한 통제, deployment flexibility, reference customer와 partner reach.",
+        "경제성 질문: 고객가치가 커져도 고객별 인력투입이 같은 속도로 늘면 소프트웨어형 확장이 아니라 프로젝트형 매출이 될 수 있다."
+      ]
+    },
+    {
+      "heading": "최신 운영 지표와 향후 3년 성장동력",
+      "paragraphs": [
+        "[사실] 회사는 2025년 유료 고객이 6곳에서 29곳으로 늘고 기존 고객 평균 사용량이 105% 증가했다고 밝혔다. 2026년 6월 발표는 20개 이상 엔터프라이즈 고객, 50개 이상 국가, 1,000개 이상 마켓플레이스 배포를 제시했다. 이 수치는 회사 보고치이며 감사 매출·유지율·마진은 아니다.",
+        "[사실] 2026년 9~10월 발표는 제조·금융·국방·공공으로 적용 범위가 넓어졌음을 보여준다. IBK 프로젝트는 내부망·golden dataset·근거 경로, GS칼텍스 프로젝트는 현장 인터뷰·on-premise·원문 근거, SK텔레콤 협업은 데이터 플랫폼·ontology·digital twin의 결합을 강조한다.",
+        "[해석] 첫 성장동력은 성공한 고객별 설계를 금융·제조·공공 Industry Pack으로 표준화해 delivery 시간을 줄이는 것이다. 둘째는 Microsoft Pegasus와 POSCO·LG·롯데 등 전략 투자자·고객 생태계를 활용한 co-sell과 reference-led expansion이다. 셋째는 AI 기본법과 regulated industry 요구에 맞춘 권한·증거·human approval·on-premise governance를 제품화하는 것이다."
+      ],
+      "bullets": [
+        "1년 차: 모든 고객 프로젝트를 Discover→Validate→Production→Replicate 단계로 통일하고 전환율·기간·구현 인력·compute cost를 측정.",
+        "2년 차: 금융·제조·공공의 재사용 ontology·evaluation·control template를 Industry Pack으로 만들고 반복 배포 gross margin을 개선.",
+        "3년 차: 미국·일본 현지 파트너와 co-sell하되 국가별 데이터·보안·지원비를 반영한 시장별 손익으로 확장 속도를 통제.",
+        "북극성 지표(제안): 12개월 내 검증된 고객가치와 목표 gross margin을 모두 충족한 프로덕션 워크플로의 반복매출."
+      ]
+    },
+    {
+      "heading": "주요 리스크",
+      "paragraphs": [
+        "[사실] 공개된 고객·사용량·효율 수치는 회사가 선택해 발표한 비감사 지표다. 매출, ARR, NRR, customer concentration, 계약기간, gross margin, burn과 runway가 공개되지 않아 외부에서는 성장의 질을 검증할 수 없다.",
+        "[판단] 첫째, 산업 확장이 빠를수록 ontology·보안·배포가 고객별 프로젝트로 남아 인력집약도가 높아질 수 있다. 둘째, 전략적 투자자이자 고객인 대기업 집단의 요구가 제품 roadmap을 분산시킬 수 있다. 셋째, on-premise·private cloud는 규제 고객 진입에 유리하지만 버전·지원·원가 복잡성을 높인다.",
+        "[판단] 넷째, 라이브 웹 벤치마크는 evaluator·task·제출 시점에 따라 순위가 바뀐다. 회사의 ‘2026년 8월 자동평가 2위’는 당시 특정 평가 기준의 결과로만 사용하고 현재 종합 2위처럼 말하지 않아야 한다. 다섯째, 금융·국방·공공에서 agent action이 커질수록 권한 오남용, 잘못된 근거와 책임소재가 사업 리스크가 된다."
+      ],
+      "bullets": [
+        "경제성 리스크: 고객별 delivery hours·compute·support를 계약별 contribution margin으로 추적.",
+        "제품 리스크: customization 요청을 core, configurable pack, one-off service로 분류하고 roadmap gate를 둔다.",
+        "거버넌스 리스크: source, version, access right, action log, reviewer와 rollback을 workflow 단위로 보존.",
+        "포트폴리오 리스크: 산업·고객·파트너 집중도와 hiring plan을 base/downside scenario에 연결.",
+        "신뢰 리스크: 벤치마크·고객 효율 수치에 측정기간, baseline, sample, evaluator와 재현 가능성을 함께 표시."
+      ]
+    },
+    {
+      "heading": "목표 직무가 해결할 문제: Funding-to-Production Portfolio Loop",
+      "paragraphs": [
+        "[제안] Series C 자금 사용 항목을 단순 예산 계정이 아니라 고객·제품 성과와 연결한다. initiative_id를 기준으로 투자 목적, 산업, 고객 문제, owner, 인력·현금, 검증 가설, production gate, 재사용 자산, 매출·마진, 보안·규제 조건과 다음 결정을 한 ledger에 남긴다.",
+        "[제안] 모든 기회를 Discover→Validate→Production→Replicate→Scale/Stop으로 운영한다. Validate 단계에서는 golden dataset·업무 기준선·human approval을 확정하고, Production에서는 실제 사용·SLA·오류·고객가치를 측정한다. Replicate 단계에서는 두 번째 고객에서 ontology·connector·evaluation의 재사용률과 delivery 시간 감소가 증명돼야 한다.",
+        "[제안] 월간 경영진 보고는 발표 건수나 PoC 수 대신 portfolio bridge를 보여준다. 기초 현금과 채용→initiative별 투입→booking·cash collection→프로덕션 전환→gross margin→재사용 자산→runway 변화로 연결하고, base·upside·downside에서 채용과 시장 진입의 stop rule을 명시한다."
+      ],
+      "bullets": [
+        "공통 키: initiative_id, account_id, industry, use_case, stage, owner, start_date, decision_date, evidence_url, reviewer.",
+        "고객가치: 기존 소요시간·오류·리드타임·손익 기준선, 목표, 측정기간, 표본과 고객 승인.",
+        "반복성: 재사용 connector·ontology object·evaluation·workflow 비율, 두 번째 배포까지 걸린 시간.",
+        "경제성: booking, recognized revenue, cash collection, delivery hours, compute·partner cost, contribution margin.",
+        "리스크: data residency, access, human approval, incident·rollback, 법규·계약 의무와 residual risk.",
+        "결정: scale, redesign, pause, stop의 기준·결정자·다음 자본배분을 회의록과 모델에 동시에 반영."
+      ]
+    },
+    {
+      "heading": "지원자 경험과의 구체적 연결",
+      "paragraphs": [
+        "[연결] EY한영 DCF·EV/EBITDA Agent는 사업계획·할인율·배수의 가정이 기업가치에 미치는 영향을 모델링한 경험이다. 인핸스에서는 이를 고객·산업별 매출, 인력, compute, 전환율과 runway의 scenario model로 번역한다. Report Footing·DM Deck Agent는 IR 자료와 데이터룸의 숫자·서술·원천 일치를 검증하는 방식으로 연결한다.",
+        "[연결] 신한금융 PoC와 금융·보험 문서 RAG는 규제 산업에서 고객의 언어, 문서 근거, 평가 기준과 승인 흐름을 설계한 경험이다. IBK의 golden dataset·근거 경로와 GS칼텍스의 현장 지식·원문 증거 문제를 이해하는 데 직접 쓸 수 있다.",
+        "[연결] 베트남·미국 GTM과 CRM은 시장·고객 신호를 한 번의 제안이 아니라 pipeline, feedback, next action으로 관리한 경험이다. AI Agent 구현 경험은 기술팀의 task success와 사업팀의 고객가치를 구분하고 둘을 같은 의사결정 자료로 잇는 데 유리하다."
+      ],
+      "bullets": [
+        "이력서 문장: ‘Built traceable finance and AI workflows that connect source evidence, model assumptions and management-ready decisions across regulated client contexts.’",
+        "포트폴리오 1: 가상 AgentOS 고객 12곳의 stage·ARR·delivery hours·compute cost·reuse rate를 연결한 monthly FP&A model.",
+        "포트폴리오 2: 금융·제조 두 use case의 golden dataset, human approval, customer-value baseline과 production gate 비교.",
+        "면접 원칙: 인핸스의 매출·ARR·고객별 성과를 추정치로 단정하지 않고 공개되지 않은 것은 확인 질문과 scenario range로 처리."
+      ]
+    },
+    {
+      "heading": "지원 우선순위와 실행 계획",
+      "paragraphs": [
+        "[판단] 지원 우선순위는 A-다. 공고의 재무모델·IR 데이터룸·기업전략·사업개발·전략 실행은 지원자의 EY와 AI 제품 경험이 가장 자연스럽게 만나는 초기경력 역할이다. 전환 여부가 공식 상세에 명시된 플랫폼마다 달라 보이므로 고용 형태와 전환 기준은 면접에서 확인한다.",
+        "[실행] 지원 전 3페이지 board pack을 만든다. 1페이지는 Series C 사용처와 세 가지 성장 시나리오, 2페이지는 고객 12곳의 Funding-to-Production portfolio와 unit economics, 3페이지는 금융·제조 workflow의 value·reuse·governance gate다. 수치는 공개 사실과 가상 가정을 색으로 분리한다.",
+        "[판단] 지원서의 중심은 ‘AI 스타트업이 성장할 것 같다’가 아니라 ‘자본, 고객 프로젝트, 재사용 제품 자산과 현금성과를 한 모델에서 검증한다’여야 한다. 영어와 SaaS FP&A 간극을 숨기지 말고 직접 만든 model과 board Q&A로 보완한다."
+      ],
+      "bullets": [
+        "지원 전 gate 1: booking·billings·revenue·cash, ARR·NRR, implementation margin, burn·runway 차이를 설명.",
+        "지원 전 gate 2: base/downside에서 채용 1명, compute 20% 상승, PoC 전환 지연이 runway에 미치는 영향을 모델링.",
+        "지원 전 gate 3: 영문 10분 board update와 ‘왜 지금 미국·일본인가’, ‘어떤 프로젝트를 중단할 것인가’ 반론 대응.",
+        "지원 후 확인: 인턴 기간·전환 기준, monthly close 데이터 접근, KPI owner, FP&A tool, IR 참여 범위, strategy team의 의사결정 권한."
+      ]
+    }
+  ],
+  "interviewNotes": [
+    "왜 인핸스인가: ‘인핸스는 512억원 조달 이후 금융·제조·공공으로 빠르게 넓어지고 있습니다. 저는 EY의 재무모델·수치 대사와 AI Agent·PoC 경험을 바탕으로 자금과 고객 프로젝트를 반복 가능한 프로덕션 성과로 연결하는 일을 하고 싶습니다.’",
+    "왜 Strategy Analyst인가: ‘재무모델, IR 데이터룸, 시장·사업개발과 실행 추적이 한 역할에 있다는 점이 매력적입니다. 저는 숫자를 만든 뒤 끝내지 않고 원천, 가정, 현업 workflow와 다음 결정을 연결해 왔습니다.’",
+    "Series C 답변: ‘조달액 자체보다 자금이 어떤 Industry Pack, deployment capability와 반복매출로 바뀌는지가 중요합니다. initiative별 cash, production conversion, reuse와 contribution margin을 함께 보겠습니다.’",
+    "AI 고객 성과 답변: ‘시간 절감률 하나로 ROI를 말하지 않겠습니다. baseline과 표본, 측정기간, human review cost, 오류·incident, 실제 사용과 재구매·확장을 함께 확인하겠습니다.’",
+    "PoC 전환 답변: ‘golden dataset 통과만으로 production이 되지는 않습니다. 실제 권한·SLA·배포·support·보안·고객 owner와 value measurement가 준비돼야 다음 gate로 이동시키겠습니다.’",
+    "경쟁 답변: ‘모델 점수보다 enterprise context, deployment, evidence와 action control을 함께 제공하는지가 차별점입니다. 다만 고객별 customization이 커지면 소프트웨어 마진이 훼손될 수 있어 재사용률을 반드시 보겠습니다.’",
+    "벤치마크 답변: ‘ACT-2의 2026년 8월 자동평가 2위는 유의미하지만 평가자·task와 시점에 종속됩니다. 현재 전체 순위처럼 확대하지 않고 task-level failure와 실제 고객 workflow의 반복 성공률을 따로 보겠습니다.’",
+    "AI 기본법 답변: ‘금융·공공 고객에서는 사람의 최종 판단, 투명성, 접근권한과 evidence log가 제품 기능이자 영업 조건입니다. compliance를 체크리스트가 아니라 production gate와 원가에 넣겠습니다.’",
+    "정직한 약점: ‘SaaS FP&A를 월별 close와 함께 운영한 경험은 없습니다. 그래서 booking·revenue·cash, delivery cost, burn·runway를 분리한 driver-based model을 직접 준비했고 실제 계정 정의부터 배우겠습니다.’",
+    "영어 약점 답변: ‘OPIc IH가 investor communication을 증명한다고 과장하지 않겠습니다. 10분 영문 board update와 downside Q&A를 반복해 숫자와 전제를 짧게 방어하는 연습을 하겠습니다.’",
+    "역질문 1: ‘Strategy팀이 현재 가장 신뢰하기 어려운 지표는 booking, revenue, customer usage, delivery cost 중 무엇이며 그 이유는 무엇인가요?’",
+    "역질문 2: ‘PoC에서 production으로 넘어갈 때 공통으로 보는 value·security·economic gate와 최종 decision owner는 누구인가요?’",
+    "역질문 3: ‘Industry Pack의 재사용성을 ontology object, connector, evaluation set와 workflow 중 어떤 단위로 측정하시나요?’",
+    "역질문 4: ‘Series C 자금 사용과 채용 계획을 base·downside scenario로 검토하는 월간 경영 cadence는 어떻게 운영되나요?’",
+    "역질문 5: ‘인턴이 첫 90일 안에 독립적으로 맡을 수 있는 model·dashboard·IR workstream과 전환 판단 기준은 무엇인가요?’"
+  ],
+  "sources": [
+    {
+      "title": "Enhans Careers — Strategy Analyst (인턴) 채용 목록",
+      "publisher": "인핸스 공식 채용",
+      "publishedAt": "2026-10-22 확인",
+      "url": "https://enhanscareer.ninehire.site/"
+    },
+    {
+      "title": "[인턴] Strategy Analyst",
+      "publisher": "직행 · 원티드 공고 전재",
+      "publishedAt": "2026-09-22",
+      "url": "https://zighang.com/recruitment/a0222599-7c15-4fc9-83ad-6e01c78c0499"
+    },
+    {
+      "title": "Enhans Raises $38 Million in Series C Funding to Advance Its AI-Native Enterprise Operating System",
+      "publisher": "Enhans",
+      "publishedAt": "2026-09-17",
+      "url": "https://www.enhans.ai/press/enhans-raises-38-million-in-series-c-funding"
+    },
+    {
+      "title": "Enhans Raises 51.2 Billion Won in Series C for Enterprise AI Agents",
+      "publisher": "서울경제",
+      "publishedAt": "2026-09-17",
+      "url": "https://en.sedaily.com/technology/2026/09/17/enhans-raises-512-billion-won-in-series-c-for-enterprise-ai"
+    },
+    {
+      "title": "Enhans Q3 2026 Recap",
+      "publisher": "Enhans",
+      "publishedAt": "2026-09-29",
+      "url": "https://www.enhans.ai/newsroom/enhans-q3-2026-recap"
+    },
+    {
+      "title": "CEO Letter: Enhans 2025 Retrospect",
+      "publisher": "Enhans",
+      "publishedAt": "2025-12-26",
+      "url": "https://www.enhans.ai/newsroom/ceo-letter-enhans-2025-retrospect"
+    },
+    {
+      "title": "Enhans and IBK Industrial Bank of Korea Launch Ontology-Based AI Data Analytics Validation Project",
+      "publisher": "Enhans",
+      "publishedAt": "2026-10-01",
+      "url": "https://www.enhans.ai/press/enhans-and-ibk-industrial-bank-of-korea-launch-ontology-based-ai-data-analytics-validation-project"
+    },
+    {
+      "title": "Enhans and GS Caltex Develop AI to Capture Expert Knowledge in Manufacturing",
+      "publisher": "Enhans",
+      "publishedAt": "2026-09-23",
+      "url": "https://www.enhans.ai/press/enhans-and-gs-caltex-develop-ai-to-capture-expert-knowledge-in-manufacturing"
+    },
+    {
+      "title": "Enhans and SK Telecom Showcase Ontology-Powered AI Decision Support System for Defense Operations",
+      "publisher": "Enhans",
+      "publishedAt": "2026-10-06",
+      "url": "https://www.enhans.ai/press/enhans-and-sk-telecom-showcase-ontology-powered-ai-decision-support-system-for-defense-operations"
+    },
+    {
+      "title": "Enhans Joins the Microsoft for Startups Pegasus to Scale AgentOS Worldwide",
+      "publisher": "Enhans",
+      "publishedAt": "2026-06-12",
+      "url": "https://www.enhans.ai/press/enhans-joins-the-microsoft-for-startups-pegasus-to-scale-agentos-worldwide"
+    },
+    {
+      "title": "AgentOS, The Operating System for AI Agents",
+      "publisher": "Enhans",
+      "publishedAt": "2026-10-22 확인",
+      "url": "https://www.enhans.ai/agent-os"
+    },
+    {
+      "title": "The AI Basic Act Comes into Force to Lay the Foundation for Korea to Become an AI G3",
+      "publisher": "과학기술정보통신부",
+      "publishedAt": "2026-01-22",
+      "url": "https://www.msit.go.kr/eng/bbs/view.do?bbsSeqNo=42&mId=4&nttSeqNo=1214&sCode=eng"
+    },
+    {
+      "title": "Online-Mind2Web Benchmark",
+      "publisher": "OSU NLP Group · UC Berkeley",
+      "publishedAt": "2026-05-23 update",
+      "url": "https://github.com/OSU-NLP-Group/Online-Mind2Web"
+    }
+  ]
+}
