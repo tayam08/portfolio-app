@@ -1,0 +1,248 @@
+{
+  "slug": "2026-10-23-iqvia-evidence-to-commercial-decision-chain",
+  "date": "2026-10-23",
+  "company": "IQVIA Korea",
+  "industry": "헬스케어 데이터 · 제약바이오 경영컨설팅 · 임상개발 · 상업화 AI",
+  "tier": "B (선별 지원 · 헬스케어 도메인과 경력요건 보완 필요)",
+  "targetRole": "Analyst / Associate Consultant, Management Consulting — Bio/Pharma & Healthcare",
+  "title": "IQVIA Korea Consulting: 약가·환자경로·상업 가정을 잇는 Evidence-to-Commercial Decision Chain",
+  "summary": "IQVIA Korea는 2026-10-23 기준 서울의 초급 Management Consulting 역할을 모집하고 있다. 이 역할은 제약·바이오·헬스케어 고객의 비즈니스 질문, 시장·데이터 검토, 이슈 구조화와 고객 산출물을 담당한다. 한국에서는 희귀질환 치료제 급여 기간 단축과 약가 산정체계 개편이 진행되고, IQVIA는 10월 환자경로·시장접근·예측을 연결하는 Explorer를 출시했다. 지원자의 경제학·수학, EY한영 가치평가·숫자 대사, 금융·보험 규제 문서, AI Agent·RAG·신한금융 PoC 경험은 근거와 가정을 추적하는 컨설팅 방식으로 연결된다. 다만 1년 이상 관련 경력과 약학 배경 우대, 임상·급여·의료 데이터 경험 부족을 감안해 즉시 최우선이 아니라 헬스케어 케이스를 완성한 뒤 선별 지원한다.",
+  "thesis": "[사실] 공고는 이 직무를 bio/pharmaceutical·healthcare 고객을 지원하는 entry-level consulting position으로 정의하고, 비즈니스 질문 분석, 시장·데이터 검토, 이슈 구조화와 고객용 발표자료 작성을 명시한다. [사실] IQVIA는 2026년부터 Commercial Solutions와 R&D Solutions의 두 부문으로 조직·공시를 단순화했고, 10월에는 상업 데이터·환자경로·시장접근·forecast를 한 의사결정 흐름으로 연결하는 IQVIA Explorer를 출시했다. [판단] 오늘 IQVIA를 고른 이유는 ‘헬스케어가 성장 산업’이어서가 아니라, 지원자가 해 온 출처·가정·계산·검토의 연결을 약가와 환자 접근성이 얽힌 상업 전략 문제에 적용할 수 있기 때문이다. 가장 설득력 있는 제안은 환자 수를 크게 추정하는 보고서가 아니라 환자경로, 접근성, 경쟁, uptake와 손익 가정을 원천별로 검증하고 의사결정까지 추적하는 Evidence-to-Commercial Decision Chain이다.",
+  "tags": [
+    "Healthcare Consulting",
+    "Commercial Strategy",
+    "Market Access",
+    "Patient Journey",
+    "Forecasting",
+    "Evidence Chain",
+    "AI Governance",
+    "Korea Drug Pricing"
+  ],
+  "metrics": [
+    {
+      "label": "IQVIA 2Q26 revenue",
+      "value": "$4.368bn · +8.7% YoY",
+      "context": "2026-07-28 회사 실적 발표. Q3 실적 발표는 2026-10-27 예정이므로 기준일 현재 Q2가 최신 공표 실적이다."
+    },
+    {
+      "label": "Commercial Solutions",
+      "value": "$1.793bn · +8.6% YoY",
+      "context": "analytics·consulting, patient solutions와 commercial engagement를 포함하는 2026년 재편 부문. 회사는 analytics & consulting의 high-single-digit organic growth를 언급했다."
+    },
+    {
+      "label": "R&D Solutions bookings",
+      "value": "$3.15bn · 1.22x book-to-bill",
+      "context": "2Q26 신규 수주. 2026-06-30 계약 backlog는 $34.2bn이지만 취소·지연·전환 시점 위험이 있어 매출과 동일시하지 않는다."
+    },
+    {
+      "label": "Korea biohealth exports",
+      "value": "$7.30bn · +14.4% YoY",
+      "context": "한국보건산업진흥원 2026년 1분기. 이 중 의약품은 $2.71bn, +11.7%였다."
+    },
+    {
+      "label": "Rare-disease reimbursement target",
+      "value": "최대 240일 → 100일 이내",
+      "context": "보건복지부 2026-03-26 약가제도 개선안의 희귀질환 치료제 등재 기간 목표. 실제 품목별 일정과 결과는 별도 확인해야 한다."
+    },
+    {
+      "label": "Explorer speed claims",
+      "value": "수 주 걸리던 분석 → 평균 15분 미만",
+      "context": "IQVIA가 2026-10-07 출시자료에서 제시한 자사 제품 성능 주장. 독립 검증이나 한국 데이터 적용 성과로 해석하지 않는다."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "왜 오늘 IQVIA인가와 목표 직무",
+      "paragraphs": [
+        "[사실] 서울 공고 R1568062는 Management Consulting의 Analyst / Associate Consultant 초급 역할이다. 프로젝트팀에서 제약·바이오·헬스케어 고객의 질문을 분석하고, 시장·데이터를 검토하며, 이슈를 구조화하고 발표자료·요약·토론자료를 만든다. 1년 이상 관련 경험을 요구하고 PharmD 또는 동등 약학 배경을 우대한다.",
+        "[사실] 직전 후보 검토 때 IQVIA의 확인된 전략 역할은 3년 이상 경력 중심이었다. 이번에는 2026-10-19 전후 새로 노출된 entry-level 역할이 확인돼 채용 가능성 판단이 달라졌다. 최근 30개 보고서에 IQVIA는 없고, 최근 5개의 금융·플랫폼·기후·에이전틱 AI 전략 조합과도 다르다.",
+        "[판단] 목표는 ‘AI를 잘 아는 제약 컨설턴트’가 아니라 근거가 다른 환자·시장·접근·재무 데이터를 하나의 결정 구조로 정리하는 초급 전략 컨설턴트다. 정량 분석과 수치 검증은 강점이지만 약학·임상 전문성을 대신할 수 없으므로 지원 우선순위는 B로 제한한다."
+      ],
+      "bullets": [
+        "직무 적합성: 정량 분석, 리서치, 이슈 구조화, 자료 작성은 높음. 제약·임상·급여 경험은 낮음.",
+        "지원 서사: EY 가치평가·Footing, 보험 리스크, 규제 문서 RAG를 ‘근거가 추적되는 상업 의사결정’으로 통합.",
+        "채용 근거: 서울 정규직·초급 역할과 구체 책임이 확인되나 1년 이상 경력은 경계 조건.",
+        "포트폴리오 확장: 금융·AI 제품 중심 포트폴리오에 헬스케어 전문 컨설팅과 환자 접근성 문제를 추가."
+      ]
+    },
+    {
+      "heading": "수익 구조와 산업·경쟁 구도",
+      "paragraphs": [
+        "[사실] IQVIA는 2026년부터 Commercial Solutions와 R&D Solutions로 공시 부문을 단순화했다. Commercial Solutions는 의료 데이터·분석·컨설팅·기술·환자 및 상업 실행 서비스를, R&D Solutions는 임상시험 설계·운영과 관련 기술·서비스를 제공한다. 수익은 구독·라이선스, 프로젝트형 컨설팅·분석, 임상개발 계약, 상업 실행·환자 지원 서비스의 결합으로 발생한다.",
+        "[사실] 2025 10-K는 Commercial Solutions의 경쟁자로 Accenture, Deloitte, IBM, McKinsey, Clarivate, Veeva, ZS 등 데이터·기술·컨설팅 업체와 고객사의 내부 역량을 함께 든다. R&D Solutions는 ICON, Parexel, Thermo Fisher 산하 PPD와 CRO·병원·대학을 경쟁군으로 제시한다.",
+        "[해석] IQVIA의 차별화는 보고서 한 건이 아니라 데이터, 도메인 방법론, 컨설팅과 실행을 연결하는 데 있다. 반대로 고객이 자체 데이터·AI 역량을 키우거나 더 저렴한 공개·정부 데이터로 전환하면 프리미엄이 약해질 수 있다. 컨설턴트는 proprietary data를 권위로 제시하는 데서 멈추지 않고 정의·coverage·bias·시점과 의사결정 적합성을 설명해야 한다."
+      ],
+      "bullets": [
+        "수익 레버: 데이터 구독·라이선스, analytics·consulting 프로젝트, 임상 수주·backlog 전환, 기술 도입, patient/commercial engagement 확장.",
+        "비용 레버: 데이터 조달, 전문인력·프로젝트 delivery, 클라우드·AI 인프라, privacy·regulatory control, 고객별 통합·현지화.",
+        "경쟁 기준: 데이터 breadth·freshness·quality, 질환·시장 전문성, 실행 속도, 글로벌 coverage, 규제·privacy 신뢰, 실제 고객 의사결정 영향.",
+        "한국 과제: 글로벌 방법론을 HIRA 급여, MFDS 허가, 국내 처방·유통·병원 구조와 연결하되 국가 간 데이터를 단순 비교하지 않는 것."
+      ]
+    },
+    {
+      "heading": "최신 실적·운영 지표와 향후 3년 성장동력",
+      "paragraphs": [
+        "[사실] IQVIA의 2Q26 매출은 $4.368bn으로 전년 대비 8.7% 증가했다. Commercial Solutions는 $1.793bn(+8.6%), R&D Solutions는 $2.575bn(+8.8%)이었다. R&D 신규 수주는 $3.15bn, book-to-bill은 1.22배였고 6월 말 backlog는 $34.2bn이었다. Q3 실적은 기준일 이후인 10월 27일 발표 예정이라 사용하지 않는다.",
+        "[사실] IQVIA는 10월 7일 Explorer와 Life Science Models를 공개했다. Explorer는 환자경로, 시장접근, forecasting, segmentation을 연결해 상업 의사결정을 단축한다고 설명한다. 초기 속도 수치는 회사 측 측정값이며 독립 검증·고객 ROI·한국 적용 성과가 아니다.",
+        "[해석] 첫 성장동력은 일회성 분석을 always-on commercial intelligence로 전환해 구독·워크플로 침투를 높이는 것이다. 둘째는 임상개발과 상업화 데이터를 연결해 protocol·환자선정·access·launch 간 재작업을 줄이는 것이다. 셋째는 한국 제약사의 바이오의약품 수출과 글로벌 진출 확대를 규제·시장·파트너·상업 실행 서비스로 지원하는 것이다."
+      ],
+      "bullets": [
+        "1년 차: 한국 프로젝트에서 patient·HCP·payer·sales 데이터 정의와 source lineage를 표준화하고 분석 재작업률을 측정.",
+        "2년 차: 질환별 evidence module과 market-access scenario를 재사용 가능한 consulting asset로 만들되 전문가 검토 gate를 유지.",
+        "3년 차: 국내 고객의 미국·유럽 진출과 글로벌 고객의 한국 진입에서 임상·급여·commercial 가정을 같은 value story로 연결.",
+        "북극성 지표(제안): 검증된 근거와 명시된 불확실성으로 client decision을 바꾸고, 90일 뒤 실제 결과와 비교해 학습이 남은 프로젝트 비율."
+      ]
+    },
+    {
+      "heading": "한국 시장의 실제 해결 과제",
+      "paragraphs": [
+        "[사실] 보건복지부는 2026년 약가제도 개선에서 희귀질환 치료제 등재기간을 최대 240일에서 100일 이내로 줄이고, 성과를 급여에 반영하는 체계와 약가 유연계약 적용 확대를 추진했다. 하반기에는 제네릭·특허만료 의약품 산정률 조정과 주기적 평가도 시작한다.",
+        "[사실] 2026년 1분기 한국 바이오헬스 수출은 $7.30bn(+14.4%)이고 의약품은 $2.71bn(+11.7%)이었다. 수출 성장은 기회지만 국가별 허가·급여·가격·환자경로와 상업 인프라가 달라 단일 시장규모 수치만으로 진입 우선순위를 정할 수 없다.",
+        "[판단] 고객 과제는 더 많은 데이터가 아니라 빠르게 바뀌는 정책과 불완전한 환자·처방·경쟁 데이터를 일관된 결정으로 바꾸는 것이다. 특히 환자 접근성 개선, payer 재정, 기업 수익성, 임상적 불확실성을 한 모델에 넣되 각 이해관계자의 기준을 섞지 않아야 한다."
+      ],
+      "bullets": [
+        "시장규모: prevalence→diagnosis→eligible→treated→paid 단계별 정의와 중복·누락·기간을 명시.",
+        "접근성: 허가, HIRA 평가, NHIS 협상, 위험분담·유연계약, 병원 채택을 별도 gate로 관리.",
+        "상업성: price, rebate·refund, uptake, persistence, channel cost, field-force capacity를 base/downside로 연결.",
+        "근거 수준: 공식 통계·청구·EMR·조사·전문가 인터뷰·회사 가정을 구분하고 업데이트 날짜와 owner를 지정."
+      ]
+    },
+    {
+      "heading": "주요 리스크",
+      "paragraphs": [
+        "[사실] IQVIA는 제3자 데이터 공급자의 사용 제한·가격 인상·품질 저하가 서비스에 영향을 줄 수 있고, 개인정보·의료정보 규제가 데이터 접근과 활용을 제한할 수 있다고 공시한다. 임상 backlog도 고객 취소·지연·범위 축소 때문에 매출 전환이 보장되지 않는다.",
+        "[판단] 첫째, AI가 분석 시간을 줄여도 ontology·정의·coverage가 틀리면 잘못된 결정을 더 빨리 반복한다. 둘째, proprietary data와 방법론의 불투명성이 고객 검증과 regulatory defensibility를 약화할 수 있다. 셋째, consulting insight가 Explorer 같은 제품 workflow로 표준화될수록 junior의 단순 desk research 가치가 낮아진다.",
+        "[판단] 한국 프로젝트에서는 표본 대표성, 익명화·재식별 위험, 처방과 실제 복용의 차이, 급여와 비급여 경로, 의료진 인터뷰 편향을 관리해야 한다. 제품 출시자료의 속도 수치는 품질·정확도·의사결정 성과와 분리해 검증한다."
+      ],
+      "bullets": [
+        "데이터 리스크: source, coverage, lag, patient linkage, missingness, consent·purpose limitation을 분석표에 동반.",
+        "모델 리스크: 가정 변경 시 환자수·매출·budget impact가 어떻게 움직이는지 sensitivity와 break-even을 공개.",
+        "규제 리스크: AI 초안은 근거 탐색·요약에 한정하고 의료·약가·시장접근 판단은 도메인 전문가가 승인.",
+        "인재 리스크: 약학·임상 지식 없이 숫자만 다룬다는 인상을 피하고 질환별 치료경로와 endpoint를 먼저 학습."
+      ]
+    },
+    {
+      "heading": "목표 직무가 해결할 문제: Evidence-to-Commercial Decision Chain",
+      "paragraphs": [
+        "[제안] 프로젝트를 question_id로 시작한다. 각 질문에 decision owner, 환자·시장 정의, source·version, calculation, regulatory assumption, interview evidence, uncertainty, recommendation과 next test를 연결한다. PowerPoint의 숫자는 이 ledger에서만 생성해 근거와 최신성이 끊기지 않게 한다.",
+        "[제안] 환자경로는 total population→diagnosed→eligible→access-approved→initiated→persistent로, 상업 모델은 price→net price→uptake→revenue→commercial cost→contribution으로 분리한다. 각 전환율에는 공식 통계, IQVIA data, primary research, client assumption 중 출처 유형과 confidence를 표시한다.",
+        "[제안] 정책이나 경쟁 이벤트가 바뀌면 전체 보고서를 다시 만드는 대신 해당 assumption node만 갱신하고 patient·access·forecast·field plan에 미치는 영향을 재계산한다. AI는 문서 비교, 출처 후보, 표준 질문과 QA에 쓰고 최종 정의·추정·권고에는 consultant와 domain expert의 서명을 남긴다."
+      ],
+      "bullets": [
+        "입력: disease·indication, patient cohort, geography, time horizon, comparator, payer, launch/status date.",
+        "근거: source_url, publisher, observation period, sample, inclusion rule, refresh date, owner, confidence.",
+        "분석: patient funnel, competitor share, access scenario, uptake curve, net price, budget impact, sensitivity.",
+        "결정: segment·market priority, evidence gap, access action, field resource, partner, scale/pause/stop.",
+        "QA: 단위·통화·기간·분모·중복 환자·off-label·보험 적용 여부·가정 충돌 자동 검사.",
+        "학습: 30·90일 뒤 예측과 실제 uptake·access·client action을 비교하고 가정의 편향을 업데이트."
+      ]
+    },
+    {
+      "heading": "지원자 경험과의 구체적 연결",
+      "paragraphs": [
+        "[연결] EY한영의 DCF·EV/EBITDA 작업은 사업·시장 가정을 재무 결과로 연결하고 민감도를 보는 경험이다. Report Footing·DM Deck 자동화는 여러 문서의 숫자와 출처를 맞추고 client-ready output으로 정리한 경험이다. IQVIA에서는 patient funnel, uptake, net price와 launch economics의 가정·산식·슬라이드 일치를 검증하는 방식으로 번역한다.",
+        "[연결] 보험 프로젝트의 약 6만 건 데이터와 설명 가능한 위험모델, 금융·보험 규제 문서 RAG는 민감 데이터·규제 텍스트·모델 해석을 함께 다룬 근거다. 신한금융 PoC와 베트남·미국 GTM은 시장·경쟁·고객 요구를 사업모델과 실행안으로 연결한 경험이다.",
+        "[판단] 그러나 신용·보험 데이터가 임상·처방·청구 데이터 경험을 대체하지 않는다. 질환의 자연사, 임상 endpoint, comparator, HIRA 경제성 평가와 위험분담제, 제약 상업화의 compliance를 이해했다는 별도 증거가 필요하다."
+      ],
+      "bullets": [
+        "강점 1: 경제학·수학과 valuation으로 가정을 수치화하고 downside·sensitivity를 설명하는 능력.",
+        "강점 2: 수치 대사·규제 문서 RAG·AI Agent 구현으로 source-to-output traceability를 설계한 경험.",
+        "강점 3: PoC·해외 GTM·CRM으로 분석을 고객 질문, 실행 주체와 다음 행동까지 연결한 경험.",
+        "보완 1: 한 질환을 골라 epidemiology, treatment pathway, endpoint, HIRA access와 competitor evidence를 2주 내 학습.",
+        "보완 2: 영어 case interview와 healthcare market-sizing·launch forecast를 제한시간 안에 슬라이드로 완성하는 훈련."
+      ]
+    },
+    {
+      "heading": "지원 우선순위와 실행 계획",
+      "paragraphs": [
+        "[판단] 지원 우선순위는 B다. 현재 열린 초급 정규직이고 정량·리서치·고객자료 역량은 맞지만, 공고의 1년 이상 관련 경험을 인턴·프로젝트 조합으로 충족한다고 단정할 수 없고 PharmD 우대와 헬스케어 경험 격차가 명확하다. 질환 케이스를 완성하고 채용팀에 관련경력 인정 범위를 확인할 수 있을 때 지원한다.",
+        "[실행] 포트폴리오로 가상의 희귀질환 치료제 한국 진입 케이스를 만든다. 1페이지는 patient funnel과 evidence ledger, 2페이지는 100일 급여 경로·위험분담 scenario, 3페이지는 uptake·net revenue·budget impact의 base/downside, 4페이지는 데이터·AI governance와 90일 검증 계획으로 구성한다.",
+        "[판단] 자기소개서의 핵심은 ‘헬스케어에도 AI를 쓰겠다’가 아니다. ‘서로 다른 근거의 정의와 한계를 밝히고, 숫자·슬라이드·의사결정이 같은 source chain을 공유하게 만든다’는 컨설팅 기여여야 한다."
+      ],
+      "bullets": [
+        "지원 전 gate 1: 한 질환의 환자경로와 표준치료, 임상 endpoint, comparator를 의료진에게 설명 가능한 수준으로 정리.",
+        "지원 전 gate 2: HIRA 등재평가·NHIS 협상·위험분담·약가 유연계약의 역할과 순서를 5분 안에 설명.",
+        "지원 전 gate 3: 45분 market-sizing·forecast case와 10분 영문 발표를 세 차례 반복하고 오류 log를 남김.",
+        "채용 확인: ‘1+ years relevant experience’에 인턴·프로젝트가 포함되는지, Analyst와 Associate Consultant의 level 기준, 케이스 면접 형식.",
+        "입사 후 90일 목표: 질환·시장 module 하나를 독립 소유하고 source QA·분석·client slide까지 검토 가능한 상태."
+      ]
+    }
+  ],
+  "interviewNotes": [
+    "왜 IQVIA인가: ‘환자·임상·시장·접근 데이터가 많아도 정의와 근거가 끊기면 좋은 결정을 만들 수 없습니다. 저는 재무모델과 규제 문서, AI 제품에서 source·assumption·calculation·review를 연결해 왔고 이를 헬스케어 상업 전략에 적용하고 싶습니다.’",
+    "왜 Management Consulting인가: ‘정답을 생성하는 것보다 고객의 질문을 구조화하고 어떤 근거가 결정을 바꿀지 합의한 뒤, 분석과 실행을 연결하는 과정에 강점이 있습니다.’",
+    "약가개편 답변: ‘희귀질환 등재 목표가 100일 이내로 줄어도 접근성이 자동으로 해결되지는 않습니다. 임상 불확실성, 성과평가, 위험분담, 예산영향과 병원 채택을 별도 gate로 보겠습니다.’",
+    "Explorer 답변: ‘몇 주 걸리던 분석을 줄이는 것은 가치가 있지만 속도 수치만으로 ROI를 판단하지 않겠습니다. cohort 정의, source freshness, 정답률, user adoption과 실제 decision outcome을 함께 측정해야 합니다.’",
+    "시장규모 답변: ‘유병률에 인구를 곱하고 끝내지 않겠습니다. 진단, 적응증, 치료 가능, 급여, 실제 시작과 지속 환자를 단계별로 나누고 각 전환율의 출처·기간·불확실성을 표시하겠습니다.’",
+    "AI 활용 답변: ‘AI는 문서 검색·버전 비교·수치 대사·초안에 쓰되, 의료적 해석과 시장접근·고객 권고는 도메인 전문가가 승인하게 하겠습니다.’",
+    "금융 경험 전환: ‘DCF의 핵심은 계산식보다 가정과 민감도입니다. 헬스케어에서도 patient funnel, uptake, net price와 access timing을 driver로 분해해 downside를 보여주겠습니다.’",
+    "정직한 약점: ‘약학이나 임상 전공자는 아니며 1년 이상 헬스케어 컨설팅 경험도 없습니다. 그래서 한 질환의 치료경로·근거·급여·forecast를 끝까지 연결한 case를 준비하고 전문가 검토를 받겠습니다.’",
+    "역질문 1: ‘서울 Management Consulting팀의 프로젝트 중 market access, portfolio, launch, commercial excellence의 비중은 어떻게 되나요?’",
+    "역질문 2: ‘Analyst가 client-ready slide를 독립적으로 맡기 전 가장 먼저 통과해야 하는 quality bar는 무엇인가요?’",
+    "역질문 3: ‘IQVIA proprietary data와 client·public data가 충돌할 때 cohort 정의와 source hierarchy를 어떻게 합의하나요?’",
+    "역질문 4: ‘Explorer 같은 always-on intelligence가 전통적 프로젝트 delivery와 junior consultant의 역할을 어떻게 바꾸고 있나요?’",
+    "역질문 5: ‘PharmD가 아닌 Analyst가 첫 6개월에 가장 빠르게 쌓아야 할 치료영역·급여·임상 역량은 무엇인가요?’"
+  ],
+  "sources": [
+    {
+      "title": "Analyst / Associate Consultant, Management Consulting — R1568062",
+      "publisher": "IQVIA Careers · Workday",
+      "publishedAt": "2026-10-19 확인",
+      "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Seoul-Korea-Republic-of/Analyst---Assoc-Consultant--Management-Consulting_R1568062"
+    },
+    {
+      "title": "Analyst / Associate Consultant, Management Consulting — current listing mirror",
+      "publisher": "Built In",
+      "publishedAt": "2026-10-20 재게시 확인",
+      "url": "https://builtin.com/job/analyst-strategy-consulting/11069288"
+    },
+    {
+      "title": "IQVIA Reports Second-Quarter 2026 Results",
+      "publisher": "IQVIA",
+      "publishedAt": "2026-07-28",
+      "url": "https://www.iqvia.com/newsroom/2026/07/iqvia-reports-second-quarter-2026-results"
+    },
+    {
+      "title": "IQVIA Holdings Inc. 2025 Form 10-K",
+      "publisher": "U.S. Securities and Exchange Commission",
+      "publishedAt": "2026-02-17",
+      "url": "https://www.sec.gov/Archives/edgar/data/1478242/000162828026008322/iqv-20251231.htm"
+    },
+    {
+      "title": "IQVIA launches IQVIA Explorer to Help Life Sciences Companies Make Better Commercial Decisions",
+      "publisher": "IQVIA",
+      "publishedAt": "2026-10-07",
+      "url": "https://www.iqvia.com/newsroom/2026/10/iqvia-launches-iqvia-explorer-to-help-life-sciences-companies-make-better-commercial-decisions"
+    },
+    {
+      "title": "IQVIA launches IQVIA Life Science Models to Help Life Sciences Companies Predict Clinical Trial Outcomes",
+      "publisher": "IQVIA",
+      "publishedAt": "2026-10-07",
+      "url": "https://www.iqvia.com/newsroom/2026/10/iqvia-launches-iqvia-life-science-models-to-help-life-sciences-companies"
+    },
+    {
+      "title": "IQVIA to Announce Third-Quarter 2026 Results on October 27, 2026",
+      "publisher": "IQVIA Investor Relations",
+      "publishedAt": "2026-09-29",
+      "url": "https://ir.iqvia.com/press-releases/"
+    },
+    {
+      "title": "건정심, 국민건강보험 약가 조정 및 제도개선 의결",
+      "publisher": "대한민국 보건복지부",
+      "publishedAt": "2026-03-26",
+      "url": "https://www.mohw.go.kr/gallery.es?act=view&b_list=12&bid=0003&cg_code=&keyField=&list_no=379951&mid=a10505000000&nPage=17&orderby=&vlist_no_npage=41"
+    },
+    {
+      "title": "2026년 1분기 바이오헬스산업 수출 73.0억 달러, 전년 동기 대비 14.4% 증가",
+      "publisher": "한국보건산업진흥원",
+      "publishedAt": "2026-04-27",
+      "url": "https://www.khidi.or.kr/board/view?boardStyle=&categoryId=&continent=&country=&linkId=48943250&maxIndex=00489443379998&menuId=MENU02200&minIndex=00489373459998&no1=3355&pageNum=1&rowCnt=10&schEndDate=&schStartDate=&schText=&schType=0&titleId=526900"
+    },
+    {
+      "title": "2026년 주요업무계획 — AI·디지털 기반 신기술 의료제품 규제지원",
+      "publisher": "대한민국 식품의약품안전처",
+      "publishedAt": "2026-01 업무계획",
+      "url": "https://mfds.go.kr/files/upload/etc/2026_mfds_1.pdf"
+    }
+  ]
+}
