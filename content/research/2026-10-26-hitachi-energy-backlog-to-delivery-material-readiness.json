@@ -1,0 +1,272 @@
+{
+  "slug": "2026-10-26-hitachi-energy-backlog-to-delivery-material-readiness",
+  "date": "2026-10-26",
+  "company": "Hitachi Energy Korea",
+  "industry": "전력망 인프라 · 변압기 · 산업재 제조 · 공급망",
+  "tier": "B+ 조건부 우선 지원",
+  "targetRole": "Intern: Planning & Buyer — Cheonan Transformer Factory",
+  "title": "Hitachi Energy Korea: 수주잔고를 납기 신뢰로 바꾸는 자재 준비도 체계",
+  "summary": "천안 Planning & Buyer 인턴의 생산계획·MRP·구매·재고·납기 업무와 전력기기 공급부족을 연결해, 수주→자재→생산→납품의 예외를 조기에 통제하는 운영체계를 제안한다.",
+  "thesis": "Hitachi Energy는 FY2025 약 200억달러 매출과 약 600억달러 수주잔고를 공개했고, AI 데이터센터·전력망 확충 수요에 대응해 대규모 생산능력 투자를 진행하고 있다. 이때 천안 공장의 핵심은 주문이 많다는 사실보다 BOM·MRP·구매발주·공급업체 약속·재고·생산일정을 일치시켜 납기를 지키는 것이다. 지원자는 EY의 수치 대사와 업무 자동화, AI Agent·데이터 제품 구현을 예외 탐지와 근거 추적에 연결할 수 있다. 다만 제조 SCM·SAP·공급업체 대응 경험이 없고 천안 상주형 인턴이므로, 현장 운영을 커리어의 확장축으로 받아들이고 이를 빠르게 보완할 때만 우선 지원한다.",
+  "tags": [
+    "Hitachi Energy",
+    "Supply Chain",
+    "Production Planning",
+    "Procurement",
+    "MRP",
+    "Power Grid",
+    "Operations"
+  ],
+  "metrics": [
+    {
+      "label": "FY2025 Hitachi Energy 매출",
+      "value": "$20B · +23% YoY",
+      "context": "2026년 6월 Hitachi Energy 전략 자료의 회사 단독 수치이며, 회사 프로필의 약 200억달러 business volume과 교차 확인했다."
+    },
+    {
+      "label": "FY2025 조정 EBITA 마진",
+      "value": "13.4%",
+      "context": "Hitachi Energy 전략 자료 기준. FY2024 11.1%에서 상승했으며 생산능력 확대와 운영 효율의 동시 관리가 필요한 배경이다."
+    },
+    {
+      "label": "FY2025 수주잔고",
+      "value": "약 $60B · 매출의 2.5–3.0배",
+      "context": "회사 전략 자료의 경영진 공표치다. 감사된 별도 재무제표 수치로 보지 않고, 장기 납품 실행 부담을 보여주는 운영지표로 해석한다."
+    },
+    {
+      "label": "데이터센터 수주 성장",
+      "value": ">150% YoY",
+      "context": "FY2025 회사 발표치. AI 데이터센터 전력수요가 변압기·초고압·전력품질 제품의 생산 및 공급망 압력을 높이는 신호다."
+    },
+    {
+      "label": "생산능력 투자",
+      "value": ">$9B · 2020–2027",
+      "context": "회사 전략 자료상 2020–2023 약 30억달러와 2024–2027 60억달러 초과를 합친 프로그램. 40개 이상의 신·증설 공장을 포함한다."
+    },
+    {
+      "label": "FY2026 1Q Energy 부문",
+      "value": "수주 +87% · 매출 ¥911.9B · 마진 14.2%",
+      "context": "모회사 Hitachi의 Energy 부문 수치로 Hitachi Energy 단독이 아니며 원자력 사업도 포함한다. 다만 강한 수주잔고 집행과 송전장비 수요를 확인하는 최신 보조지표다."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "왜 오늘 Hitachi Energy인가: 열린 제조 SCM 인턴",
+      "paragraphs": [
+        "[사실] 공식 채용 페이지는 천안 공장의 풀타임 현장형 Planning & Buyer 인턴을 지원 가능 상태로 게시하고 있다. 생산계획·스케줄링, MRP, 구매요청과 발주 추적, 부족·과잉재고 모니터링, 납기 업데이트, SAP 거래, 공급업체 후속조치와 지속개선을 명시한다. 경영학 등 학사 재학·졸업자를 열어 두고 Excel, 분석력, 정확성, 기본 영어를 요구한다.",
+        "[사실] 최근 30개 보고서에 Hitachi Energy는 없고 최근 10개 기업집단과도 겹치지 않는다. 최근 5개 조합인 클라우드 보안 BDR, 소비자기술 Sales Finance, 헬스케어 컨설팅, 에이전틱 AI 전략, FX Trading과 달리 이번 주제는 전력기기 제조의 자재·생산·납기 운영이다.",
+        "[판단] EY에서 원천자료와 모델·보고서 수치를 대사하고 반복 업무를 Agent로 구조화한 경험은 구매·재고 데이터의 정확성과 예외 추적에 연결된다. 그러나 이 역할은 전략 슬라이드보다 SAP 입력, 발주 추적, 공급업체 연락과 생산현장 조율이 중심이다. 현장형 SCM을 의도적으로 선택할 때만 설득력이 있다."
+      ],
+      "bullets": [
+        "추천 직무: Intern: Planning & Buyer — Cheonan Transformer Factory.",
+        "지원 적합도: B+ 조건부 우선 지원.",
+        "선정 핵심: 현재 열린 공식 인턴, 경영학 배경 허용, 명확한 KPI·SAP·공급업체 업무, 전력망 제조라는 포트폴리오 확장성.",
+        "지원 조건: 천안 주 5일 현장근무와 반복 운영업무를 수용하고, 제조 SCM·MRP·SAP의 학습증거를 지원 전에 제시."
+      ]
+    },
+    {
+      "heading": "수익 구조: 장기 프로젝트와 설치 기반의 결합",
+      "paragraphs": [
+        "[사실] Hitachi Energy는 Grid Integration, Grid Automation, High Voltage Products, Transformers, Service를 통해 유틸리티·산업·데이터센터·운송 고객에게 전력망 장비, 시스템 프로젝트, 소프트웨어와 서비스를 판매한다. 한국 법인은 서울 본사, 천안 몰드변압기 생산공장, 부산 사무소를 운영한다.",
+        "[사실] 수익은 변압기·개폐장치 같은 제품 판매, HVDC·변전소와 전력품질 시스템의 장기 프로젝트, 설치 기반의 유지보수·수명연장·디지털 서비스에서 발생한다. 회사는 FY2025 약 200억달러 매출, 13.4% 조정 EBITA 마진과 약 600억달러 수주잔고를 발표했다.",
+        "[판단] Planning & Buyer는 매출을 직접 파는 역할은 아니지만 수주가 생산·검수·납품으로 전환되는 속도와 원가를 좌우한다. 자재 하나의 지연이 생산 슬롯과 고객 납기, 매출 인식, 긴급운송비와 신뢰를 동시에 흔들 수 있어 운영품질이 경제가치다."
+      ],
+      "bullets": [
+        "제품: 전력·몰드·철도용 변압기, 초고압 개폐장치, 전력전자와 부품.",
+        "프로젝트: HVDC, 변전소, 계통 연계와 전력품질 솔루션.",
+        "소프트웨어·자동화: 변전소·전력망 자동화, 자산관리와 디지털 운영.",
+        "서비스: 점검·예방정비·수명연장·업그레이드·장기 서비스 계약.",
+        "운영 레버: 자재가용성, 공정 병목, 수율, lead time, on-time delivery와 긴급비용."
+      ]
+    },
+    {
+      "heading": "산업·경쟁 구도: 기술력보다 납기 실행이 희소해진 시장",
+      "paragraphs": [
+        "[사실] 전력망 장비 시장은 AI 데이터센터, 산업 전기화, 재생에너지 연계와 노후망 교체로 수요가 늘고 있다. Hitachi Energy는 전 세계 설치 변압기의 6대 중 1대, 초고압 개폐장치의 4대 중 1대를 자사 설치기반으로 제시한다. 이는 회사 내부 추정이므로 시장점유율의 독립 통계처럼 사용하지 않는다.",
+        "[사실] 경쟁은 Siemens Energy, GE Vernova, Schneider Electric·AVEVA, ABB와 함께 HD현대일렉트릭·효성중공업·LS ELECTRIC 등 지역 제조사, EPC·디지털 솔루션 사업자까지 이어진다. 제품 성능뿐 아니라 인증, 현지 생산·서비스, 프로젝트 금융, 공급망 안정성과 납기가 구매 결정에 영향을 준다.",
+        "[판단] 수요가 공급능력을 앞서는 구간에서는 모든 주문을 같은 우선순위로 밀어 넣는 것이 답이 아니다. 고객 중요도, 계약 납기, BOM 준비도, 공정능력, 대체자재 승인과 공급업체 위험을 한 화면에서 보고 약속 가능한 일정을 만들어야 한다."
+      ],
+      "bullets": [
+        "경쟁축 1: HVDC·변압기·초고압 기술과 장기간 운전 신뢰성.",
+        "경쟁축 2: 주문형 설계와 표준화·모듈화 사이의 납기·원가 균형.",
+        "경쟁축 3: 글로벌 공급망 규모와 현지 인증·서비스·고객 대응.",
+        "경쟁축 4: 설치 기반 데이터와 예방정비·디지털 서비스 확장.",
+        "한국 맥락: 전력망 보강·해상풍력·산업단지 수요와 긴 건설기간이 기자재 공급계획의 중요성을 높임."
+      ]
+    },
+    {
+      "heading": "최신 실적과 운영 신호: 기록적 수주 뒤의 실행 부담",
+      "paragraphs": [
+        "[사실] FY2025 Hitachi Energy 매출은 약 200억달러로 23% 늘고 조정 EBITA 마진은 13.4%였다. 수주잔고는 약 600억달러로 회사가 제시한 backlog-to-revenue 비율은 2.5–3.0배다. FY2025 데이터센터 수주는 150% 넘게 증가했다는 회사 발표가 있다.",
+        "[사실] 모회사 FY2026 1분기 Energy 부문은 수주 87%, 매출 37% 증가와 14.2% 조정 EBITA 마진을 기록했다. 이는 Hitachi Energy 단독 수치가 아니며 원자력을 포함한다. 발표는 강한 수주잔고 집행, HVDC 대형 수주와 송전장비 수요를 성장 요인으로 설명한다.",
+        "[사실] 2026년 10월 회사는 캐나다 변압기 절연재 공장에 4억7,900만캐나다달러를 투자한다고 발표했다. 공급제약이 있는 pressboard를 2028년부터 현지 생산하는 계획으로, upstream 소재가 완제품 납기를 제약할 수 있음을 보여준다.",
+        "[판단] 주문 증가가 곧 납기 성공은 아니다. 인턴의 KPI인 lead time·inventory·on-time delivery가 수주잔고의 매출화와 고객 신뢰를 가르는 선행지표다."
+      ],
+      "bullets": [
+        "수요: 데이터센터·HVDC·송전장비 주문 확대.",
+        "공급: 40개 이상 공장 신·증설과 2020–2027 90억달러 초과 투자 프로그램.",
+        "운영: 단일 ERP, 공급망 프로세스 최적화, 공급업체·고객 연결, 리스크 조기탐지.",
+        "현장 KPI: 자재부족 건수, supplier commit 준수, schedule adherence, 재고일수, OTD와 expedite cost."
+      ]
+    },
+    {
+      "heading": "향후 3년 성장동력",
+      "paragraphs": [
+        "[판단] 첫째, AI 데이터센터 전력 인프라다. 부하 규모와 구축속도가 커지면서 변압기·개폐장치·전력품질·서비스를 묶은 반복 가능한 솔루션 수요가 늘어난다. 회사는 FY2027 데이터센터 수주를 FY2024의 5배 수준으로 확대하는 그림을 제시하지만 이는 목표이므로 실적과 구분해야 한다.",
+        "[판단] 둘째, 전력망 확충과 재생에너지·해상풍력 연계다. 한국에서도 장기 송변전설비계획과 국가기간 전력망 확충 정책이 추진되고, Hitachi Energy Korea는 66kV 해상풍력 GIS의 국내 공급·기술지원 협력을 발표했다.",
+        "[판단] 셋째, 설치 기반의 서비스·디지털화다. 회사는 서비스 매출 비중을 2024년 15%에서 2035년 30% 이상으로 높이려 한다. 장비 판매 이후 예방정비와 데이터 기반 자산운영을 붙이면 반복수익과 고객 전환비용이 커진다.",
+        "[판단] 이 성장동력의 공통 제약은 자재·인력·시험·생산능력이다. Planning & Buyer는 확정수요와 불확실한 forecast를 분리하고, 대체자재·두 번째 공급원·안전재고를 품목별 위험에 맞게 설계해야 한다."
+      ],
+      "bullets": [
+        "AI 데이터센터: 빠른 납기와 표준화된 전력 모듈.",
+        "전력망·HVDC: 대형 장기 프로젝트의 수주잔고 집행.",
+        "한국 해상풍력: 66kV 내부망 기자재와 현지 기술지원.",
+        "서비스·HMAX: 설치 기반의 예방정비·수명연장·디지털 매출.",
+        "운영 효율: 단일 ERP·공급망 데이터·AI 예외관리로 처리량과 마진 개선."
+      ]
+    },
+    {
+      "heading": "주요 리스크",
+      "paragraphs": [
+        "[사실] Hitachi는 원자재 가격과 부품 부족, 공급업체 신용, 무역규제·지정학, 장기 프로젝트 비용 추정과 취소를 주요 위험으로 제시한다. 2026년 1분기에는 중동 물류차질과 조달부품 부족이 그룹 매출·이익과 공장 가동률에 영향을 줬다.",
+        "[판단] 대규모 증설은 병목을 없애는 동시에 신규 인력·공정 ramp, 품질과 재고 위험을 만든다. forecast를 확정주문처럼 취급하면 과잉재고가 되고, 부족을 두려워해 모든 품목에 안전재고를 쌓으면 운전자본과 폐기 위험이 커진다.",
+        "[판단] 지원자에게는 직무 미스매치가 가장 큰 위험이다. 사업전략을 기대하고 들어가면 반복 SAP 처리와 공급업체 follow-up에서 동기가 떨어질 수 있다. 반대로 현장 데이터를 통해 제조 경제성과 실행을 배우겠다는 의지가 분명하면 차별화된 커리어 자산이 된다."
+      ],
+      "bullets": [
+        "공급 리스크: 구리·철강·절연재·전자부품 부족, single source와 긴 인증기간.",
+        "실행 리스크: 생산능력 확대 중 품질저하, 공정 병목, 납기 약속의 과도한 낙관.",
+        "재무 리스크: 과잉재고, 긴급운송·재작업 비용, 장기 프로젝트 원가 상승.",
+        "데이터 리스크: BOM·lead time·재고·PO 상태 불일치가 MRP 신호를 왜곡.",
+        "지원자 리스크: SAP·제조 SCM·공급업체 협상 경험 부재와 천안 상주 조건."
+      ]
+    },
+    {
+      "heading": "목표 직무가 해결할 문제: Backlog-to-Delivery Material Readiness Control",
+      "paragraphs": [
+        "[제안] order_id와 production_order_id를 기준으로 고객 납기·우선순위, BOM 버전, 필요일, 재고·검사 상태, PR·PO, supplier commit date, 대체자재 승인, 공정 슬롯과 실제 납품을 연결한다. 각 변경에는 source system·확인시각·owner를 남긴다.",
+        "[제안] 품목별 shortage risk는 필요일 대비 확정입고일, 단일 공급원, lead-time 변동성, 품질보류, 대체 승인시간과 주문영향을 함께 본다. 위험은 red·amber·green으로 보되 색상보다 반증 가능한 원인과 다음 행동·기한을 기록한다.",
+        "[제안] AI는 발주확인 메일·회의노트 요약, ERP와 공급업체 약속의 불일치 후보, 반복 예외 분류와 주간 리포트 초안에 한정한다. PO 변경, 생산 우선순위, 공급업체 평가와 고객 납기 약속은 Planner·Buyer·Quality·Production이 승인한다.",
+        "[제안] 성공은 대시보드 완성도가 아니라 shortage 발견 리드타임, supplier commit adherence, schedule adherence, OTD, inventory days, expedite cost와 계획 변경 후 예측오차로 측정한다."
+      ],
+      "bullets": [
+        "Demand: 확정주문, forecast, 계약 납기와 고객 우선순위를 분리.",
+        "Material: BOM·재고·inspection·PR·PO·supplier commit·대체자재 상태 연결.",
+        "Capacity: 공정별 슬롯·setup·시험·재작업과 자재 도착을 동기화.",
+        "Exception: shortage·late PO·quality hold·forecast jump의 영향 주문과 owner 지정.",
+        "Control: SAP 원장을 기준으로 AI 제안과 수기 수정의 근거·승인 이력 유지.",
+        "Learning: 품목·공급업체·공정별 예외 원인과 회복시간을 다음 계획 파라미터에 반영."
+      ]
+    },
+    {
+      "heading": "지원자 경험과의 연결: 강점 3개와 보완 2개",
+      "paragraphs": [
+        "[강점 1] EY한영 Deal3 SAT M&A에서 DCF·EV/EBITDA와 Report Footing을 수행한 경험은 단위·기간·원천을 맞추고 숫자의 불일치를 끝까지 추적하는 습관을 증명한다. 이를 BOM 수량, 재고, PO, 납기 KPI의 source-to-report 정확성으로 번역할 수 있다.",
+        "[강점 2] DM Deck Agent와 AI Agent·RAG·데이터 제품을 직접 구현한 경험은 반복 보고와 문서 비교를 자동화하되 사람이 승인하는 구조를 설계한 근거다. 구매·생산 의사결정을 AI에 맡기지 않고 예외 후보와 근거를 빠르게 모으는 방식이 적합하다.",
+        "[강점 3] 신한금융 PoC와 베트남·미국 GTM, CRM·고객여정, 모빌리티 전략 경험은 여러 이해관계자의 목표와 다음 행동을 구조화한 경험이다. 생산·물류·창고·공급업체 사이의 정보 handoff와 escalation에 연결할 수 있다.",
+        "[보완 1] MRP·BOM·safety stock·inventory turns·supplier OTIF, 변압기 제조 공정과 품질검사에 대한 직접 경험이 없다. 공개된 가상 BOM으로 8주 주문·자재계획 케이스를 만들어야 한다.",
+        "[보완 2] SAP 구매·생산 모듈과 공급업체 협상·expediting 경험이 없다. SAP S/4HANA의 PR→PO→GR 흐름을 학습하고, 납기지연 통화·메일을 한영으로 연습해야 한다."
+      ],
+      "bullets": [
+        "강점 1: 수치 대사·가정 추적·client-ready 보고.",
+        "강점 2: AI 자동화와 human-in-the-loop 통제 설계.",
+        "강점 3: PoC·GTM·CRM에서 이해관계자와 실행단계 구조화.",
+        "보완 1: 제조 SCM·MRP·BOM·재고·변압기 공정.",
+        "보완 2: SAP 실무·공급업체 expediting·천안 현장 적응."
+      ]
+    },
+    {
+      "heading": "지원 우선순위와 실행 계획",
+      "paragraphs": [
+        "[판단] 지원 우선순위는 B+ 조건부다. 직무의 진입요건과 데이터 정확성·자동화 강점은 잘 맞고, 전력망 제조 SCM은 포트폴리오를 크게 넓힌다. 반면 목표 커리어가 순수 사업전략·컨설팅에만 고정돼 있거나 천안 상주가 불가능하면 지원 우선순위를 낮춰야 한다.",
+        "[제안] 지원서의 중심은 ‘AI로 구매를 자동화하겠다’가 아니라 ‘원천 데이터와 예외를 검증해 Planner가 더 빨리 결정하도록 돕겠다’로 잡는다. EY의 대사 경험, Agent 통제, PoC 조율을 shortage early warning의 세 단계로 연결한다.",
+        "[제안] 지원 전 48시간 내 가상 변압기 주문 20건·자재 50개·공급업체 8곳의 Excel 모델을 만든다. MRP 부족, PO 지연, quality hold가 OTD에 미치는 영향을 보여주고 AI 요약은 별도 시트에 두어 원장과 분리한다."
+      ],
+      "bullets": [
+        "1일차: 변압기 제조 흐름과 MRP·BOM·PR/PO/GR·OTD 용어 정리.",
+        "2일차: order-material-supplier 예외 대시보드와 5분 설명 영상 완성.",
+        "이력서: EY 수치 검증·Agent 자동화·GTM 조율을 accuracy·lead time·handoff 관점으로 재작성.",
+        "면접: shortage 발견→영향 주문→대안→승인→납기 업데이트의 구조로 답변.",
+        "지원 중단 조건: 현장 SCM 의지가 없거나 천안 근무·인턴 조건을 수용할 수 없는 경우."
+      ]
+    }
+  ],
+  "interviewNotes": [
+    "왜 Hitachi Energy인가: ‘AI 데이터센터와 전력망 확충이 수주를 늘릴수록 경쟁력은 장비 성능뿐 아니라 납기 신뢰에서 갈립니다. 원천·수치·결과를 대사해 온 경험을 자재 준비도와 생산계획 정확성으로 확장하고 싶습니다.’",
+    "왜 Planning & Buyer인가: ‘전략을 실제 결과로 바꾸는 제약이 자재·공정·납기라는 점을 배우고 싶습니다. 반복 SAP 처리까지 맡으며 데이터가 현장에서 어떻게 결정으로 이어지는지 확인하겠습니다.’",
+    "MRP 답변: ‘수요·BOM·재고·lead time 입력이 맞아야 신호가 의미 있습니다. 부족 결과만 보지 않고 입력 버전과 품질보류·확정입고일을 대사한 뒤 영향 주문과 다음 행동을 제시하겠습니다.’",
+    "부족자재 답변: ‘모든 shortage를 동일하게 escalation하지 않겠습니다. 고객 납기 영향, 대체 가능성, supplier commit 신뢰도, 검사시간과 생산 슬롯을 기준으로 우선순위를 정하겠습니다.’",
+    "재고 답변: ‘stockout 방지만 최적화하면 과잉재고가 됩니다. 서비스 수준과 lead-time 변동성, 품목 중요도, 대체 가능성을 반영해 안전재고를 다르게 보고 inventory days와 OTD를 함께 보겠습니다.’",
+    "공급업체 지연 답변: ‘약속일과 실제 필요일의 차이, 원인, 부분입고·대체·공정순서 변경 가능성을 확인한 뒤 Buyer·Production·Quality와 선택지를 만들겠습니다. 고객 납기 변경은 승인 없이 단정하지 않겠습니다.’",
+    "AI 활용 답변: ‘AI는 메일·회의노트에서 약속일과 원인 후보를 추출하고 ERP 불일치를 표시하게 하겠습니다. PO 변경과 공급업체 평가는 사람이 승인하고 SAP 원장을 기준으로 남기겠습니다.’",
+    "경험 연결: ‘EY Footing과 valuation에서 단위·기간·원천 하나가 결과를 바꾸는 것을 배웠습니다. 이 습관을 BOM 수량, 재고, PO와 납기 KPI의 traceability에 적용하겠습니다.’",
+    "협업 답변: ‘신한금융 PoC와 해외 GTM에서 이해관계자별 질문과 다음 행동을 정리했습니다. 현장에서도 Production·Logistics·Warehouse·Supplier가 같은 order와 날짜를 보도록 handoff를 명확히 하겠습니다.’",
+    "정직한 약점: ‘제조 SCM과 SAP 실무는 없습니다. 그래서 PR→PO→GR, MRP와 safety stock을 학습하고 가상 주문·자재 데이터로 shortage-to-OTD 모델을 만들어 부족한 경험을 행동으로 보완했습니다.’",
+    "역질문 1: ‘천안 공장에서 Planning & Buyer 인턴이 처음 90일에 가장 먼저 책임지는 품목·공정과 KPI는 무엇인가요?’",
+    "역질문 2: ‘MRP 결과와 현장 판단이 충돌할 때 어떤 source와 승인 절차로 생산 우선순위를 조정하나요?’",
+    "역질문 3: ‘현재 on-time delivery를 가장 많이 흔드는 병목은 supplier lead time, quality hold, BOM 변경, 생산능력 중 무엇인가요?’",
+    "역질문 4: ‘글로벌 단일 ERP와 한국 공장의 로컬 운영 사이에서 Planner가 직접 개선할 수 있는 데이터 품질 문제는 무엇인가요?’",
+    "역질문 5: ‘인턴이 지속개선 과제를 제안할 때 baseline·pilot·승인·확산을 어떤 방식으로 검증하나요?’"
+  ],
+  "sources": [
+    {
+      "title": "Intern: Planning & Buyer — Cheonan Transformer Factory",
+      "publisher": "Hitachi Energy Careers",
+      "publishedAt": "2026-06-23",
+      "url": "https://www.hitachienergy.com/careers/open-jobs/details/JID3-201394"
+    },
+    {
+      "title": "Energy Business Strategy",
+      "publisher": "Hitachi, Ltd. Investor Relations",
+      "publishedAt": "2026-06-10",
+      "url": "https://www.hitachi.com/content/dam/hitachi/global/en/press/files/2026/06/260610/20260610_01_energy_en.pdf"
+    },
+    {
+      "title": "Outline of Consolidated Financial Results for the First Quarter Ended June 30, 2026",
+      "publisher": "Hitachi, Ltd. Investor Relations",
+      "publishedAt": "2026-07-29",
+      "url": "https://www.hitachi.com/content/dam/hitachi/global/en/press/files/2026/07/260729/2026_1Qpre.pdf"
+    },
+    {
+      "title": "Company Profile",
+      "publisher": "Hitachi Energy",
+      "publishedAt": "2026-10-26 확인",
+      "url": "https://www.hitachienergy.com/company/company-profile"
+    },
+    {
+      "title": "히타치에너지코리아 회사·사업장 정보",
+      "publisher": "Hitachi Energy Korea",
+      "publishedAt": "2026-10-26 확인",
+      "url": "https://www.hitachienergy.com/company/company-profile/country-and-regional-information/south-korea"
+    },
+    {
+      "title": "Hitachi Energy invests $479 million CAD to bring critical transformer manufacturing capability to Canada",
+      "publisher": "Hitachi Energy",
+      "publishedAt": "2026-10-16",
+      "url": "https://www.hitachienergy.com/us/en/news-and-events/press-releases/2026/10/hitachi-energy-invests-479-million-cad-to-bring-critical-transformer-manufacturing-capability-to-canada"
+    },
+    {
+      "title": "영인에너지솔루션·히타치에너지, 해상풍력 66kV GIS 국내 공급망 구축 맞손",
+      "publisher": "Hitachi Energy Korea",
+      "publishedAt": "2026-08-27",
+      "url": "https://www.hitachienergy.com/news-and-events/press-releases/2026/08/kr-press-release-mou-with-youngin"
+    },
+    {
+      "title": "송변전설비 건설절차와 표준공기",
+      "publisher": "한국전력공사",
+      "publishedAt": "2025-09-30",
+      "url": "https://www.kepco.co.kr/home/disclosure/transdisclosure/conprocedure/overhaed/conts.do"
+    },
+    {
+      "title": "송배전사업과 디지털변전소",
+      "publisher": "한국전력공사",
+      "publishedAt": "2026-10-26 확인",
+      "url": "https://www.kepco.co.kr/home/business/transbus.do"
+    },
+    {
+      "title": "국가기간 전력망 확충 특별법 제정안 국무회의 의결",
+      "publisher": "산업통상자원부",
+      "publishedAt": "2025-03-18",
+      "url": "https://www.motie.go.kr/kor/article/ATCL3f49a5a8c/170290/view"
+    }
+  ]
+}
