@@ -1,0 +1,239 @@
+{
+  "slug": "2026-10-27-bnp-paribas-client-evidence-to-coverage-ledger",
+  "date": "2026-10-27",
+  "company": "BNP Paribas Korea",
+  "industry": "글로벌 기업금융 · Corporate Coverage · 트랜잭션뱅킹 · 리스크·컴플라이언스",
+  "tier": "B+ 조건부 우선 지원",
+  "targetRole": "2027 APAC Graduate Programme — Global Banking, Corporate Coverage (South Korea)",
+  "title": "BNP Paribas Korea: 고객 기회를 리스크 조정 관계로 바꾸는 Coverage Ledger",
+  "summary": "서울의 Corporate Coverage 신입 공고를 기준으로, 고객의 자금·해외 사업 수요를 상품 기회로 구조화하면서 KYC·신용·평판·AML·제재 리스크를 함께 통제하는 업무를 분석했다. EY한영의 밸류에이션·증빙 자동화와 신한금융 PoC·해외 GTM 경험은 유효하지만, 공고의 서울 표기와 본문 내 Singapore 문구가 충돌하므로 배치 확인을 지원의 선행 조건으로 둔다.",
+  "thesis": "이 직무의 핵심은 ‘좋은 고객을 많이 찾는 것’이 아니라 고객 사건과 재무 신호를 검증 가능한 기회로 바꾸고, 제품·신용·컴플라이언스·법무·오퍼레이션이 같은 최신 근거를 보게 만드는 것이다. 지원자는 거래 분석과 문서 근거 관리, 해외 이해관계자 조율 경험으로 이 연결 비용을 줄일 수 있다. 다만 기업금융 상품과 KYC/AML 실무, 영어 고객 커뮤니케이션을 실제 사례 수준으로 보강해야 하며 서울 배치가 확인될 때만 우선순위를 A-로 올리는 것이 타당하다.",
+  "tags": [
+    "Corporate Coverage",
+    "Global Banking",
+    "Client Strategy",
+    "KYC",
+    "AML",
+    "Cross-border Banking",
+    "Relationship Management",
+    "AI Transformation"
+  ],
+  "metrics": [
+    {
+      "label": "공고 적합 경력",
+      "value": "신입·경력 2년 미만",
+      "context": "2026-10-06 게시된 서울 Corporate Coverage Graduate Analyst 공고의 직접 요건이다. 최종학년 또는 최근 졸업자, 4.0 기준 GPA 3.3 이상, 영어 유창성을 요구한다."
+    },
+    {
+      "label": "프로그램 기간",
+      "value": "24개월",
+      "context": "2027년 1월 또는 7월 시작으로 안내한다. 다만 공고 상단은 KR-Seoul, 본문 공통 프로그램 설명은 Singapore여서 실제 배치와 로테이션 범위를 채용 담당자에게 확인해야 한다."
+    },
+    {
+      "label": "2Q26 그룹 NBI",
+      "value": "€14.091bn · YoY +12.0%",
+      "context": "2026-07-23 공시된 BNP Paribas Group 기준 최신 확정 분기 수치다. 한국 법인 또는 Corporate Coverage 단독 매출이 아니다."
+    },
+    {
+      "label": "2Q26 CIB NBI",
+      "value": "€5.281bn · YoY +12.7%",
+      "context": "Global Banking, Global Markets, Securities Services를 포함한 CIB 전체 수치다. Coverage가 성장하는 플랫폼 위에 있다는 신호이지 직무 KPI로 직접 환산할 수는 없다."
+    },
+    {
+      "label": "2Q26 자본·리스크",
+      "value": "CET1 13.0% · CoR 39bp",
+      "context": "2026-06-30 기준 그룹 CET1과 2Q26 비용위험이다. 고객 성장과 함께 자본 효율·신용 손실 통제가 필요한 이유를 보여준다."
+    },
+    {
+      "label": "한국 기준금리",
+      "value": "3.00%",
+      "context": "한국은행 2026년 9월 통화신용정책보고서는 두 차례 연속 25bp 인상으로 2.50%에서 3.00%가 됐다고 설명한다. 자금조달비용과 고객 신용 모니터링의 중요성이 커진 환경이다."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "왜 오늘 BNP Paribas Korea인가 — 신입 문은 열렸지만 위치부터 검증한다",
+      "paragraphs": [
+        "[사실] BNP Paribas Korea는 2026년 10월 6일 ‘2027 APAC Graduate Programme — Global Banking, Corporate Coverage — South Korea’를 게시했다. 역할은 경력 2년 미만의 신입이 Senior Relationship Manager를 보조해 국내 기업 고객을 담당하며, 고객 마케팅·관계 관리, 신규·기존 관계의 신용·평판·자금세탁·테러자금·제재 리스크 평가, 고객정보 최신화, 고객확인과 문서화를 수행한다.",
+        "[사실] 공고 헤더는 KR-Seoul이고 업무도 local corporate clients를 명시하지만, 프로그램 공통 설명에는 Location: Singapore라고 적혀 있다. 지원자는 중복 지원이 처리되지 않는다는 안내도 있으므로 제출 전 채용 담당자에게 서울 고용주·근무지, 싱가포르 교육 또는 로테이션 여부를 서면 확인해야 한다.",
+        "[판단] 오늘 탐색한 13개 신규 후보 중 BNP Paribas가 가장 설득력 있었다. Hyperconnect의 Data Analyst는 SQL·실험 설계 3년 이상, 2K의 Korea Marketing은 5년 이상, MUFG의 Data/Business Analyst는 5년 경력을 요구했다. BNP는 신입 문턱이 명시돼 있고 EY한영 딜 분석, 규제 문서 근거화, 신한금융 PoC와 해외 GTM을 한 서사로 묶을 수 있다.",
+        "[판단] 지원 우선순위는 B+ 조건부다. 서울 배치가 확인되면 A-로 올리고 즉시 지원한다. 위치가 싱가포르 전용이거나 비자 조건이 맞지 않으면 보류한다. 글로벌 은행이라는 명성만으로 모호한 공고에 지원하지 않는 것이 이번 분석의 첫 번째 결론이다."
+      ]
+    },
+    {
+      "heading": "수익 구조 — Coverage는 상품을 파는 부서보다 고객 지갑을 연결하는 조정자다",
+      "paragraphs": [
+        "[사실] BNP Paribas Korea는 기업 고객에게 전략 자문, 금융조달, transaction banking을 제공하고 Global Markets를 통해 자산군·지역별 투자, 헤지, 자금조달 솔루션을 제공한다고 설명한다. 그룹 CIB는 Global Banking, Global Markets, Securities Services의 결합 구조다.",
+        "[해석] 수익은 대출·기업금융의 순이자수익, 현금관리·무역금융·증권서비스의 수수료, M&A·ECM·DCM 등 자문·주선 수수료, FX·금리·원자재 헤지와 시장 거래 수익으로 나뉜다. Corporate Coverage는 단일 상품 P&L을 직접 소유하기보다 고객 수요를 발굴하고 제품 조직과 신용·컴플라이언스를 연결해 관계 전체의 수익과 위험을 조정한다.",
+        "[판단] 따라서 면접에서 DCF 능력만 전면에 내세우면 직무를 좁게 이해했다는 인상을 줄 수 있다. ‘기업의 재무·산업 사건을 읽고 어느 상품 전문가를 언제 연결할지, 동시에 어떤 리스크를 먼저 확인할지’로 밸류에이션 경험을 재해석해야 한다."
+      ],
+      "bullets": [
+        "대출·브리지·인수금융: 이자와 약정·주선 수수료를 만들지만 신용위험과 자본 사용을 동반한다.",
+        "Transaction banking: 현금관리·결제·무역금융을 통해 반복 수수료와 예금 관계를 만든다.",
+        "자본시장·자문: M&A, ECM, DCM, 구조화 금융의 실행 수수료와 장기 관계를 만든다.",
+        "Global Markets: 고객의 환율·금리·원자재 변동을 헤지하고 시장 접근성을 제공한다.",
+        "Coverage: 고객별 기회, 관계 깊이, 위험, 다음 행동을 통합해 제품 조직의 참여를 조율한다."
+      ]
+    },
+    {
+      "heading": "산업·경쟁 구도 — 네트워크보다 실행 가능한 현지 연결이 승부처다",
+      "paragraphs": [
+        "[사실] BNP Paribas는 한국에서 45년 넘게 금융기관·정부·대기업을 지원했고, 한국 고객이 아시아태평양·미주·유럽·아프리카 시장에 접근하도록 돕는다고 밝힌다. 반대로 글로벌 다국적 고객의 한국 사업도 지원한다.",
+        "[해석] 경쟁자는 JPMorgan, Citi, HSBC, Standard Chartered, Bank of America, Société Générale, Deutsche Bank, MUFG·SMBC·Mizuho와 국내 대형 은행이다. 핵심 비교축은 글로벌 네트워크 자체보다 ① 국내 의사결정자 접근성 ② 지역·본사 제품팀 동원 속도 ③ 신용 한도와 자본 효율 ④ 현금관리·무역금융·헤지·자본시장 제품 폭 ⑤ KYC·제재 검토의 예측 가능성이다.",
+        "[판단] 신입 Coverage가 차별화할 수 있는 지점은 거대한 네트워크를 주장하는 것이 아니라 고객 사건을 빠짐없이 구조화하고, 제품·리스크 조직이 재질문하지 않아도 되는 최신 근거 패키지를 만드는 것이다. 응답 속도와 통제 품질을 동시에 높여야 한다."
+      ]
+    },
+    {
+      "heading": "최신 실적과 운영 신호 — 성장 국면일수록 관계 품질과 자본 규율을 함께 본다",
+      "paragraphs": [
+        "[사실] BNP Paribas Group의 2Q26 NBI는 €14.091bn으로 전년 동기 대비 12.0%, 순이익은 €4.345bn으로 33.4% 증가했다. CIB NBI는 €5.281bn으로 12.7% 늘었고, 그룹 cost-income ratio는 56.7%, CET1은 13.0%, cost of risk는 39bp였다. 이는 2026년 10월 27일 기준 최신 확정 분기 실적이며 3Q26 결과는 10월 28일 발표 예정이다.",
+        "[사실] 그룹은 2026년 10월 7일 사전 안내에서 CET1 13% 목표를 계획보다 18개월 먼저 달성했다고 설명했고, 2030 계획을 준비 중이다. 다만 공개 수치만으로 한국 Coverage 팀의 예산 달성률·고객 수·파이프라인을 추정할 수 없다.",
+        "[해석] 두 자릿수 CIB 성장과 충분한 자본은 고객 기회를 확장할 기반이지만, 금리 상승과 비용위험 39bp는 ‘매출 후보’와 ‘수용 가능한 관계’를 분리해 보라는 신호다. Coverage 분석은 잠재 매출만이 아니라 신용등급 변화, 산업 스트레스, KYC 완결성, 제재·평판 이슈, 자본 사용을 함께 보여줘야 한다."
+      ]
+    },
+    {
+      "heading": "향후 3년 성장동력 — 국경 간 흐름, 통합 CIB, 통제 가능한 AI",
+      "paragraphs": [
+        "[판단] 첫째, 한국 기업의 해외 투자·공급망 재편과 해외 기업의 한국 진입은 조달, FX·금리 헤지, 현금관리, 무역금융, M&A 자문을 함께 묶는 관계를 만든다. BNP Paribas의 지역 네트워크는 고객 사건을 여러 제품으로 번역할 때 가치가 생긴다.",
+        "[판단] 둘째, Global Banking·Global Markets·Securities Services를 연결하는 통합 CIB 모델은 고객별 wallet을 넓힐 여지가 있다. 다만 무리한 cross-sell이 아니라 실제 필요, 위험 허용 범위, 적합성, 실행 가능성을 기준으로 제품팀을 연결해야 한다.",
+        "[사실] 그룹은 2Q26 실적 설명에서 AI를 포함한 transformation 가속을 성장 배경으로 언급했다. 2025 Universal Registration Document는 AI Risk Committee가 프레임워크와 AI Act 대응, 모델 검증, 전체 위험 프로필을 모니터링한다고 설명한다.",
+        "[판단] 셋째, Coverage의 AI 기회는 외부 뉴스·공시·규제 문서의 변화 탐지, 출처 비교, 회의 메모 초안, 오래된 고객정보 알림이다. 승인되지 않은 모델에 고객 비밀정보를 넣거나 AI가 KYC·신용·제재 결론을 자동 승인하게 해서는 안 된다. 생산성보다 데이터 경계·출처·승인 로그가 먼저다."
+      ]
+    },
+    {
+      "heading": "주요 리스크 — 거시 신용, 금융범죄, 국경 간 데이터, 직무 현실",
+      "paragraphs": [
+        "[사실] 한국은행의 2026년 9월 보고서는 기준금리가 3.00%로 올라갔고, 수출과 설비투자가 성장을 이끄는 한편 주택가격과 가계대출, 물가 상방 위험을 계속 점검해야 한다고 설명한다. 별도 금융안정 점검은 기업대출 연체율이 상승한 가운데 특히 중소기업·비은행 부문을 주시했다.",
+        "[사실] 금융정보분석원은 2026년 9월 국가 AML/CFT/CPF 전략을 발표하며 2028년 FATF 제5차 상호평가에 대비한 5대 전략·12개 과제를 제시했다. BNP Paribas의 Compliance 정책은 KYC가 고객 식별·정보·문서·위험평가·수락 절차와 핵심 지표를 관리하고, Financial Security가 자금세탁·부패·테러자금·국제 제재와 엠바고를 다룬다고 설명한다.",
+        "[해석] 첫째 위험은 금리와 산업별 현금흐름 차이가 고객의 신용·자금 수요를 동시에 바꾸는 것이다. 둘째는 신규 관계 속도를 높이려다 실소유자, 자금 원천, 제재·부정 뉴스, 문서 만료를 놓치는 것이다. 셋째는 여러 국가·법인·제품팀을 연결하며 개인정보와 비공개 정보를 필요 이상으로 복제하는 것이다.",
+        "[판단] 직무 자체의 리스크도 있다. 신입 역할은 분석만큼 문서 수집, 고객정보 갱신, 내부 승인, 후속 조율 비중이 높다. 화려한 딜보다 정확한 운영을 견디지 못한다면 지원하지 않는 편이 낫다. 지원자는 Report Footing과 소스 추적 경험을 통해 이 반복 업무를 통제 품질 개선 과제로 받아들인다는 점을 보여줘야 한다."
+      ]
+    },
+    {
+      "heading": "목표 직무가 해결할 문제 — Client Evidence-to-Coverage Ledger",
+      "paragraphs": [
+        "[제안] 고객별로 공개·승인된 정보만 사용하는 Coverage Ledger를 만든다. 고객 프로필·실소유자·KYC 갱신일, 사업 사건, 자금 수요, 제품 가설, 재무·산업 위험, AML·제재·평판 확인 상태, 담당 조직, 다음 행동, 근거 링크와 승인자를 한 레코드에 연결한다.",
+        "[제안] 1단계는 기존 스프레드시트와 CRM에서 필수 필드 누락·중복·만료를 측정하는 것이다. 2단계는 공시·회사 발표·규제 자료의 변화 신호를 읽어 사람이 검토할 큐를 만든다. 3단계는 RM·제품·신용·컴플라이언스가 동의한 정의로 파이프라인과 예외를 집계한다. AI는 초안과 우선순위 제안만 하고, 고객 접촉·신용 판단·KYC 승인·제재 해제는 권한자가 결정한다.",
+        "[제안] 초기 KPI는 매출 추정치보다 KYC 최신성, 필수 데이터 완결률, 내부 질의 왕복 횟수, 제품팀 최초 연결시간, 리스크 예외 해결시간, 기회→제품 검토 전환율, 근거 없는 제안 비율로 둔다. 이후 승인된 파이프라인과 실행 결과를 연결해 고객 관계 품질을 본다.",
+        "[판단] 이 제안은 은행 내부 시스템을 아는 척하지 않는다. 공개 정보로 데모할 수 있는 것은 이벤트 분류, 출처·날짜 표시, stale-data 경고, 권한별 화면까지다. 실제 고객·신용·KYC 데이터 연결은 보안·법무·컴플라이언스 승인 뒤에만 설계한다."
+      ],
+      "bullets": [
+        "레코드 키: client group, 법인, 국가, RM owner, KYC next-review date",
+        "기회 신호: 투자·인수·수출입·차환·현금흐름·환율/금리 노출과 원문 출처",
+        "통제 신호: credit, reputation, AML/CFT, sanctions, document freshness, data-sharing scope",
+        "워크플로: RM 가설 → 제품 전문가 검토 → 신용·컴플라이언스·법무 확인 → 고객 제안 → 결과·실패 이유 기록",
+        "가드레일: 승인 데이터만 사용, 최소권한, PII 마스킹, 모델 입력·출력 로그, 인간 승인, 자동 만료"
+      ]
+    },
+    {
+      "heading": "지원자 연결점과 강점 3개 — 딜 분석, 증빙 운영, 국경 간 고객 맥락",
+      "paragraphs": [
+        "[강점 1] 경제학·수학 전공과 EY한영 Deal3 SAT M&A의 DCF·EV/EBITDA 경험은 고객의 자금조달 여력, 투자 사건, 산업 변수, 거래 논리를 구조화하는 기반이다. ‘모델을 만들었다’보다 가정·민감도·비교기업이 관계 판단에 어떤 질문을 추가하는지 설명한다.",
+        "[강점 2] Report Footing과 DM Deck Agent에서 원문·표·산식·출력의 추적성을 설계한 경험은 고객정보 최신화와 내부 재질의 감소에 연결된다. Coverage Ledger에서도 숫자보다 출처, 기준일, 소유자, 승인 상태를 먼저 설계할 수 있다.",
+        "[강점 3] 신한생명 해외 PoC와 베트남·미국 GTM에서 고객·파트너·규제 맥락을 나눠 본 경험은 서울 RM, 지역 제품팀, 글로벌 조직 간 조율 서사로 전환할 수 있다. CRM·고객 여정 경험은 접점별 다음 행동과 실패 이유를 기록하는 운영 관점도 보완한다.",
+        "[판단] 세 강점은 각각 분석·통제·관계 조율을 담당한다. 단, EY의 자문 경험을 은행의 신용 승인 권한처럼 말하거나 PoC를 실제 상용화·매출 성과로 과장하지 않는다. 본인이 한 일, 팀이 결정한 일, 아직 검증되지 않은 가설을 분리해야 한다."
+      ]
+    },
+    {
+      "heading": "보완해야 할 역량 2개 — 상품·신용 언어와 영어 기반 KYC 판단",
+      "paragraphs": [
+        "[보완 1] 기업대출, 회전한도, 무역금융, cash management, FX·금리 헤지, DCM·ECM, 인수금융이 고객 사건과 어떻게 연결되고 어떤 신용·자본·수익성 제약을 받는지 부족하다. 2주 안에 한국 수출기업 하나를 골라 자금 수요→제품 후보→위험→필요 내부팀을 한 장으로 정리한다.",
+        "[보완 2] OPIc IH는 공고가 요구하는 영어 유창성과 고객 문서 품질의 충분한 증거가 아니다. 영어로 ① client brief ② KYC document request ③ negative-news escalation ④ product-team handoff 메일을 각각 150단어 이내로 작성하고, AML·제재 결론을 단정하지 않는 표현을 연습한다.",
+        "[판단] 지원 전 최소 준비물은 영문 60초 자기소개, 최근 한국 기업의 국경 간 자금 수요 한 건, 기업금융 상품 맵, KYC/AML/제재 역할 분리, Coverage Ledger 데모 화면이다. 이 다섯 가지가 없으면 밸류에이션 인턴 경험만 남아 Coverage 적합성이 약해진다."
+      ]
+    },
+    {
+      "heading": "지원 결론 — 확인되면 빠르게, 확인되지 않으면 멈춘다",
+      "paragraphs": [
+        "[판단] 지원 권고는 ‘B+ 조건부 우선 지원’이다. 신입 요건, 실제 서울 고객 업무, 지원자 경험의 연결은 강하다. 반면 공고 위치 문구 충돌, 기업금융 상품 경험 부족, 영어 고객 커뮤니케이션 검증 부족은 명확한 감점 요인이다.",
+        "[실행] 첫째, 공고 Reference 1234567890100121990을 적어 서울 고용·근무지와 Singapore 문구의 의미를 확인한다. 둘째, 중복 지원 금지 조건 때문에 다른 스트림을 제출하기 전에 Corporate Coverage 우선순위를 확정한다. 셋째, 확인 답변과 마감 상태를 캡처한 뒤 지원하며 종료된 공고를 현재 채용처럼 재사용하지 않는다.",
+        "[실행] 면접에서는 ‘AI로 영업을 자동화하겠다’가 아니라 ‘RM과 통제 조직이 같은 최신 근거를 보도록 반복 확인 비용을 줄이겠다’고 말한다. 데이터 입력·요약은 자동화할 수 있지만 고객 수용, 신용, AML, 제재 판단은 사람이 책임진다는 경계를 먼저 제시한다."
+      ]
+    }
+  ],
+  "interviewNotes": [
+    "한 문장 지원 동기: ‘EY에서 거래 가정과 증빙을 연결하고 해외 금융 PoC에서 고객·파트너 맥락을 조율한 경험을, BNP Paribas Korea의 고객 기회와 KYC·신용·제재 통제를 함께 관리하는 Corporate Coverage로 확장하고 싶습니다.’",
+    "60초 문제 정의: ‘Coverage의 병목은 기회가 없는 것이 아니라 고객 사건, 상품 가설, 리스크 근거, 담당 조직이 흩어져 같은 질문이 반복되는 데 있습니다.’",
+    "60초 제안: ‘공개·승인된 데이터만으로 Client Evidence-to-Coverage Ledger를 만들고 출처·기준일·담당자·승인 상태를 붙여 RM과 제품·신용·컴플라이언스의 handoff를 줄이겠습니다.’",
+    "가드레일: ‘AI는 문서 변화 탐지와 초안을 돕되 고객 접촉, 신용 판단, KYC 승인, 제재 해제는 권한자가 결정하고 입력·출력을 기록해야 합니다.’",
+    "강점 답변 1: ‘DCF를 잘한다’보다 ‘가정과 민감도가 고객의 조달·투자 의사결정에서 어떤 추가 질문을 만드는지 구조화할 수 있다’고 말한다.",
+    "강점 답변 2: Report Footing은 숫자 자동화가 아니라 근거·산식·기준일을 다시 찾을 수 있게 만들어 내부 재검토 시간을 줄인 경험으로 설명한다.",
+    "강점 답변 3: 해외 GTM은 시장조사만이 아니라 고객·파트너·규제 이해관계자를 분리하고 다음 행동을 설계한 경험으로 말한다.",
+    "약점 답변: ‘기업대출·transaction banking·hedging의 실무 언어가 부족해, 한 고객 사건을 상품·신용·컴플라이언스 관점으로 나눈 케이스를 매주 작성하고 있습니다.’",
+    "면접 질문 1: 서울 Corporate Coverage Graduate의 24개월 동안 고정 배치와 지역·제품 로테이션은 어떻게 구성됩니까?",
+    "면접 질문 2: 공고 상단의 KR-Seoul과 본문의 Location: Singapore는 각각 고용지, 교육지, 프로그램 허브 중 무엇을 의미합니까?",
+    "면접 질문 3: 신입이 첫 6개월에 가장 많이 책임지는 고객정보·KYC·파이프라인 업무와 평가 기준은 무엇입니까?",
+    "면접 질문 4: RM, product expert, credit, compliance, legal, operations 사이에서 handoff가 가장 자주 지연되는 단계는 어디입니까?",
+    "면접 질문 5: 한국 고객의 해외 확장 과정에서 최근 수요가 커진 transaction banking·hedging·financing 조합은 무엇입니까?",
+    "면접 질문 6: Coverage가 사용하는 AI 또는 workflow 개선에서 허용 데이터, human approval, audit log 기준은 어떻게 정합니까?",
+    "최종 확인: 서울 배치·비자·중복 지원 규칙을 확인하기 전에는 제출하지 않고, 확인되면 영문 client brief와 Ledger 데모를 첨부 포트폴리오로 준비한다."
+  ],
+  "sources": [
+    {
+      "title": "2027 APAC Graduate Programme – Global Banking, Corporate Coverage – South Korea",
+      "publisher": "BNP Paribas Korea",
+      "publishedAt": "2026-10-06",
+      "url": "https://www.bnpparibas.co.kr/en/jobs/2027-apac-graduate-programme-global-banking-corporate-coverage-south-korea/"
+    },
+    {
+      "title": "Corporates and Institutions",
+      "publisher": "BNP Paribas Korea",
+      "publishedAt": "확인일 2026-10-27",
+      "url": "https://www.bnpparibas.co.kr/en/our-solutions/corporates-and-institutions/"
+    },
+    {
+      "title": "Second quarter 2026 results",
+      "publisher": "BNP Paribas Investors & Shareholders",
+      "publishedAt": "2026-07-23",
+      "url": "https://invest.bnpparibas/en/results"
+    },
+    {
+      "title": "BNP Paribas Group: Results as at 30 June 2026",
+      "publisher": "BNP Paribas Group",
+      "publishedAt": "2026-07-23",
+      "url": "https://group.bnpparibas/en/press-release/bnp-paribas-group-results-as-of-30-june-2026"
+    },
+    {
+      "title": "Pre-3Q26 Results Information Note",
+      "publisher": "BNP Paribas Investors & Shareholders",
+      "publishedAt": "2026-10-07",
+      "url": "https://invest.bnpparibas/en/document/pre-3q26-results-information-note"
+    },
+    {
+      "title": "Compliance: find out more about our policy",
+      "publisher": "BNP Paribas Group",
+      "publishedAt": "확인일 2026-10-27",
+      "url": "https://group.bnpparibas/en/group/our-governance/compliance"
+    },
+    {
+      "title": "2025 Universal Registration Document and Annual Financial Report",
+      "publisher": "BNP Paribas Investors & Shareholders",
+      "publishedAt": "2026-04",
+      "url": "https://invest.bnpparibas/en/document/universal-registration-document-annual-financial-report-2025-pdf"
+    },
+    {
+      "title": "Executive Summary for Monetary Policy Report (September 2026)",
+      "publisher": "Bank of Korea",
+      "publishedAt": "2026-09-10",
+      "url": "https://www.bok.or.kr/eng/bbs/E0000628/view.do?depth=400215&menuNo=400215&nttId=11064614&programType=newsDataEng&relate=Y"
+    },
+    {
+      "title": "Financial Stability Situation (September 2026)",
+      "publisher": "Bank of Korea",
+      "publishedAt": "2026-09-22",
+      "url": "https://www.bok.or.kr/portal/bbs/B0000170/view.do?depth=200060&menuNo=200060&nttId=11064972&oldMenuNo=201151&programType=multiCont&relate=Y"
+    },
+    {
+      "title": "국가 AML 전략과 정책운영방향 발표",
+      "publisher": "금융위원회 금융정보분석원",
+      "publishedAt": "2026-09-16",
+      "url": "https://www.kofiu.go.kr/kor/notification/report_view.do?ntcnYardOrdrNo=416&seCd=0001"
+    },
+    {
+      "title": "The FATF Recommendations — amended June 2026",
+      "publisher": "Financial Action Task Force",
+      "publishedAt": "2026-06",
+      "url": "https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Fatf-recommendations.html"
+    }
+  ]
+}
