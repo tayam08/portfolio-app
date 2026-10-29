@@ -1,0 +1,259 @@
+{
+  "slug": "2026-10-30-tiktok-gbs-business-health-to-verified-value-loop",
+  "date": "2026-10-30",
+  "company": "TikTok",
+  "industry": "숏폼 플랫폼 · 디지털 광고 · AI 마케팅 · 글로벌 커머스",
+  "tier": "A- 우선 지원",
+  "targetRole": "Business Analyst Graduate (GBS) — 2027 Start, Seoul",
+  "title": "TikTok GBS: 광고 성과를 검증 가능한 고객가치로 연결하는 Business Health Loop",
+  "summary": "서울에서 현재 모집 중인 TikTok GBS 신입 Business Analyst를 기준으로, 12개월 데이터·세일즈 로테이션에서 사업 건전성 지표와 영업·제품 목표를 어떻게 연결할지 분석했다. 경제학·수학, EY한영의 밸류에이션·증빙 자동화, B2B PoC·해외 GTM, CRM·고객 여정 경험은 목표 분해와 원인 진단에 직접 연결된다. 다만 고급 SQL·실험설계와 광고 세일즈 운영 경험은 공개 데이터 프로젝트로 보완해야 한다.",
+  "thesis": "TikTok GBS의 과제는 조회수나 광고 집행액을 늘리는 데서 끝나지 않는다. 광고주의 목적, 동의된 전환 신호, 제품 채택, 영업 파이프라인, 증분효과, 재집행·확장을 하나의 검증 가능한 운영 루프로 연결해야 한다. 지원자는 거래 가정과 원문·산식·결과를 추적한 경험, 해외 GTM과 CRM 경험, AI 제품 구현 경험을 결합해 지표 이상을 빠르게 발견하고 다음 행동으로 번역할 수 있다. 단, 플랫폼 내부 매출과 한국 사업 실적은 공개되지 않으므로 공공·회사 자료의 범위를 넘는 숫자는 만들지 않고, 면접에서는 데이터 정의와 인과 검증 방식을 중심으로 말해야 한다.",
+  "tags": [
+    "Strategy & Operations",
+    "Business Analytics",
+    "Global Business Solutions",
+    "Digital Advertising",
+    "Sales Operations",
+    "Marketing Science",
+    "AI Transformation",
+    "Measurement"
+  ],
+  "metrics": [
+    {
+      "label": "공고 상태",
+      "value": "서울 정규직 신입 · 수시 검토",
+      "context": "2026-10-30 확인 기준 TikTok 공식 채용 페이지의 Business Analyst Graduate (GBS) — 2027 Start 공고다. Job Code A96987B이며 지원서는 수시 검토된다고 안내한다."
+    },
+    {
+      "label": "육성 구조",
+      "value": "12개월 데이터·세일즈 로테이션",
+      "context": "데이터와 세일즈 팀을 순환하며 사업 건전성 분석 프레임워크, 목표 분해, 핵심 지표와 이상치 분석, 제품·영업 목표 추적을 맡는다."
+    },
+    {
+      "label": "국내 활성 이용자",
+      "value": "945만 명",
+      "context": "개인정보보호위원회가 2025년 12월 기준 TikTok 국내 활성 이용자로 제시한 수치다. 월간활성이용자 등 다른 정의와 혼용하지 않는다."
+    },
+    {
+      "label": "이벤트 도구 이용 기업",
+      "value": "약 7.1만 곳",
+      "context": "개인정보보호위원회가 TikTok Pixel·Events SDK·API 등을 사용한 국내 사업자 규모로 제시했다. 광고주 수나 유료 고객 수와 동일한 지표는 아니다."
+    },
+    {
+      "label": "2026 국내 광고비 전망",
+      "value": "17.94조원 · YoY +3.8%",
+      "context": "2025 방송통신광고비조사의 2026년 전망치다. 한국거래소 공시의 인용 표와 KOBACO 자료를 함께 확인했으며 TikTok 매출 전망이 아니다."
+    },
+    {
+      "label": "2026 온라인 광고 성장 전망",
+      "value": "YoY +7.2%",
+      "context": "KOBACO 전망을 인용한 2026-07-23 한국거래소 공시 기준이다. 전체 광고시장보다 빠른 성장 전망이지만 플랫폼별 점유율은 공개하지 않는다."
+    },
+    {
+      "label": "TikTok for Business MCP 사용",
+      "value": "광고주 수 +200%",
+      "context": "2026년 7월부터 9월까지의 증가율로 TikTok이 10월 6일 발표한 내부 수치다. 절대 광고주 수와 지속 이용률은 공개되지 않았다."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "왜 오늘 TikTok인가 — 현재 열린 신입 정규직과 문제의 구체성을 골랐다",
+      "paragraphs": [
+        "[사실] TikTok은 2026년 10월 30일 현재 서울에서 Business Analyst Graduate (GBS) — 2027 Start를 모집한다. 경영·경제·통계·데이터과학 관련 학사 졸업예정자와 최근 졸업자가 지원할 수 있고, 영어 업무 능력을 요구한다. 12개월 동안 데이터와 세일즈 팀을 순환하는 정규직 신입 역할이다.",
+        "[판단] 이번 실행에서는 TikTok, ActAI, SF Express, JLL, KISDI, KEITI, Lotte Biologics, Standard Chartered, Deutsche Bank, Knauf Korea, KT Studio Genie, CoinUnited.io, Maersk, LVMH, Red Bull을 비교했다. TikTok은 초기경력 채용의 실재, 지원자의 정량·GTM·CRM·AI 경험과의 연결, 최신 제품·규제 과제, 공식 자료의 충분성, 기존 보고서와 다른 포트폴리오 확장성이 가장 균형적이었다.",
+        "[판단] 최근 5개 보고서의 패션 신사업, 우주·바이오 구조화, 기업금융 Coverage, 전력기기 Planning & Buyer, 보안 SaaS BDR와 달리 오늘은 ‘디지털 광고 플랫폼×신입 Business Analyst×사업 건전성과 검증 가능한 광고주 가치’다. 산업과 핵심 지표가 새롭고, B2B GTM·고객 여정·AI 자동화를 하나의 운영 문제로 묶을 수 있다.",
+        "[결론] A- 우선 지원이다. 역할이 지원자의 학력·졸업 시기와 맞고 실제 분석·목표 추적·협업 범위가 구체적이다. 다만 TikTok 내부 데이터나 디지털 광고 직접 경험이 없으므로, SQL·실험설계와 광고 지표를 담은 작은 포트폴리오를 먼저 만들어야 한다."
+      ]
+    },
+    {
+      "heading": "수익 구조 — 광고주의 반복 성과가 GBS 경제성의 중심이다",
+      "paragraphs": [
+        "[사실] GBS는 지역 영업, 영업운영, 채널관리, 상용화 전략, B2B 마케팅, Marketing Science, 파트너십, 콘텐츠 안전 기능을 통해 TikTok의 광고 제품을 상용화한다. Smart+는 Traffic·Sales·Lead Generation·App Promotion 목적에서 자동·부분자동·수동 제어를 제공하고, TikTok Shop·LIVE 같은 거래·창작자 생태계는 인접한 수익원이다.",
+        "[사실] TikTok은 비상장 사업이고 한국 법인의 플랫폼별 매출·이익, 광고주 수, 평균 지출, 유지율을 공개하지 않는다. 규제기관이 제시한 국내 이용자·이벤트 도구 이용 기업 수와 TikTok이 발표한 제품 사용 증가율을 재무 실적으로 바꾸어 쓰면 안 된다.",
+        "[해석] 광고 사업의 경제성은 노출량만이 아니라 유효한 광고 수요, 가격, 전환 신호의 질, 광고주 획득·지원 비용, 제품 채택, 재집행과 확장에 달려 있다. Shop·LIVE와의 연결도 총거래액보다 수수료·인센티브·환불·물류·창작자 비용을 반영한 순가치로 보아야 한다.",
+        "[판단] Business Analyst는 매출 또는 집행액을 최종 KPI 하나로 두지 않고, 광고주 목적→제품 설정→신뢰 가능한 전환 신호→증분효과→유지·확장까지 단계별 선행지표와 가드레일을 정의해야 한다."
+      ],
+      "bullets": [
+        "광고: 캠페인 집행액과 경매 기반 수익, 제품 채택·성과·재집행이 핵심",
+        "커머스: 거래 수수료와 서비스 수익 가능성, 인센티브·쿠폰·환불·물류를 차감한 순가치 필요",
+        "LIVE·창작자: 디지털 상품과 구독·생태계 수익, 안전·정산·창작자 유지 비용 동반",
+        "공통 운영: 영업 생산성, 파트너 지원, 데이터·콘텐츠 안전, 규제 준수 비용"
+      ]
+    },
+    {
+      "heading": "산업·경쟁 구도 — 성장하는 온라인 광고비와 측정 신뢰의 경쟁",
+      "paragraphs": [
+        "[사실] 2025 방송통신광고비조사 기준 국내 총광고비는 2024년 17.13조원에서 2025년 17.27조원, 2026년 17.94조원으로 늘어날 전망이다. 2026년 온라인 광고 성장률 전망은 7.2%로 전체 시장 3.8%보다 높다. 이는 시장 전망이며 TikTok의 점유율이나 매출을 뜻하지 않는다.",
+        "[해석] TikTok은 짧은 영상 체류와 발견형 추천을 강점으로 Google·YouTube, Meta, Naver, Kakao와 광고주의 예산·전환 신호·대행사 관심을 놓고 경쟁한다. 커머스에서는 플랫폼·마켓플레이스와, AI 광고 제작에서는 생성형 AI와 마케팅 SaaS 공급자와도 경쟁한다.",
+        "[사실] TikTok은 2026년 Smart+ Search Ads, Creative Selection, GMV Max의 실제 ROI 측정, TikTok for Business MCP와 에이전트 기반 기능을 발표했다. 동시에 Unified Lift, Conversion Lift, Attribution Analytics, Split Testing 등 마지막 클릭 밖의 측정 제품을 제공한다.",
+        "[판단] 경쟁 우위는 ‘영상 조회가 많다’가 아니라 특정 광고주 목적에서 더 빠르게 유효한 크리에이티브를 찾고, 동의된 신호로 증분효과를 설명하며, 영업팀이 그 결과를 재집행과 다음 제품 채택으로 연결하는 능력에서 나온다."
+      ]
+    },
+    {
+      "heading": "최신 실적과 운영 신호 — 규모, 자동화 채택, 신뢰 비용을 함께 본다",
+      "paragraphs": [
+        "[사실] 개인정보보호위원회는 2025년 12월 기준 TikTok 국내 활성 이용자 945만 명과 이벤트 도구를 사용한 국내 사업자 약 7만1천 곳을 제시했다. 이는 광고 플랫폼의 도달 범위와 전환 데이터 접점이 크다는 신호지만, 유료 광고주·매출·유지율 지표는 아니다.",
+        "[사실] TikTok Summit Korea 2026에는 회사 발표 기준 국내 브랜드·대행사 관계자 500여 명이 참석했다. TikTok이 인용한 Sensor Tower 자료는 글로벌 이용자의 일평균 사용시간 93분과 2026년 3분기 한국 광고 성장률이 1분기 대비 업계 평균의 1.8배였다고 제시한다. 표본·산식이 공개되지 않은 제3자·회사 행사 수치로 제한해 해석한다.",
+        "[사실] TikTok은 2026년 7~9월 TikTok for Business MCP 이용 광고주 수가 200% 늘었다고 발표했다. 자동화 도입 신호는 강하지만 절대 규모, 반복 사용, 캠페인 성과의 증분효과는 공개하지 않았다.",
+        "[판단] 운영 대시보드는 이용자·광고주·제품 사용의 규모와 함께 동의율, 이벤트 매칭률, 데이터 결측, 이상치, 실험 커버리지, 광고주 재집행, 불만·규제 사건을 동시에 보여줘야 한다. 성장 지표만 보면 측정 신뢰의 비용을 놓친다."
+      ]
+    },
+    {
+      "heading": "향후 3년 성장동력 — AI 크리에이티브, 풀퍼널 측정, 한국 기업의 글로벌 확장",
+      "paragraphs": [
+        "[판단] 첫째, Symphony·Seedance·Smart+와 에이전트 기능으로 크리에이티브 제작·테스트·캠페인 운영의 시간과 비용을 줄이는 것이다. 성공 KPI는 생성물 수보다 승인된 자산의 채택, 증분 전환, 제작 리드타임, 브랜드 안전과 사람 수정률이어야 한다.",
+        "[판단] 둘째, Search Ads와 Unified Lift·Conversion Lift·Attribution Analytics를 결합해 발견부터 행동까지의 증분효과를 설명하는 것이다. 마지막 클릭과 자체 보고 ROAS에만 기대지 않고 실험·모델·설문 결과가 일치하는 범위를 관리해야 한다.",
+        "[판단] 셋째, 한국 브랜드가 크리에이터·콘텐츠·TikTok Shop을 활용해 해외 고객을 검증하도록 돕는 것이다. 2026 TikTok Summit Korea가 한국 기업의 해외 성장 사례를 별도 세션으로 다룬 점은 방향성을 보여준다. 이를 한국 내 TikTok Shop 출시 사실로 해석하지 않는다.",
+        "[판단] 세 동력의 공통 조건은 데이터 신뢰다. 생성형 AI, 자동 입찰, 커머스가 늘수록 원천 이벤트·동의·비용·수익의 정의와 사람 승인 기록을 연결하는 Business Health 체계가 중요해진다."
+      ]
+    },
+    {
+      "heading": "주요 리스크 — 동의 없는 신호, 인과 없는 성과, 설명 없는 자동화",
+      "paragraphs": [
+        "[사실] 개인정보보호위원회는 2026년 7월 TikTok에 과징금 103억600만원과 시정·공표 명령을 부과했다. 국내 이용자의 제3자 행동정보 수집·국외 이전 과정에서 유효한 동의를 받지 않은 문제를 지적했으며, 연합뉴스와 헤럴드경제 보도에서도 945만 명·약 103억원 규모를 교차 확인했다.",
+        "[해석] 첫째, 동의와 데이터 이전 요건을 충족하지 못하면 전환 신호의 법적 사용 가능성과 측정 연속성이 훼손된다. 둘째, 귀속 매출과 실제 증분효과가 다르면 자동화가 기존 수요를 성과로 과대평가할 수 있다.",
+        "[해석] 셋째, 생성형 크리에이티브와 자동 입찰은 저작권·브랜드 안전·허위 표현·편향·설명가능성 위험을 키운다. 넷째, 하나의 목표를 과도하게 최적화하면 영업팀이 저품질 파이프라인, 짧은 집행, 할인 의존으로 숫자를 맞출 수 있다.",
+        "[판단] Business Analyst는 규제를 성장을 막는 별도 체크리스트로 두기보다 동의 가능한 데이터 커버리지, 실험 신뢰도, 제품 채택, 광고주 가치의 공통 제약으로 모델링해야 한다. 지표 정의 변경과 결측이 목표 달성에 미치는 영향도 함께 기록한다."
+      ]
+    },
+    {
+      "heading": "목표 직무가 해결할 문제 — Business Health-to-Verified Value Loop",
+      "paragraphs": [
+        "[제안] advertiser_id·objective_id·campaign_id·product_id를 공통 키로 두고 광고주 목적, 업종·지역·규모, 동의·이벤트 커버리지, 제품 설정, 캠페인·크리에이티브 실험, 영업 파이프라인, 증분효과, 재집행·확장을 연결한다. 원천·기준일·정의·담당자·변경이력을 각 지표에 붙인다.",
+        "[제안] 1단계 Define은 목표와 분모를 고정한다. 2단계 Diagnose는 업종·세그먼트·영업단계·제품·데이터 품질별 이상을 분해한다. 3단계 Validate는 홀드아웃·리프트·설문·백테스트로 인과를 확인한다. 4단계 Act는 영업·제품·마케팅 오너와 다음 행동을 정하고 5단계 Learn에서 결과와 기준을 갱신한다.",
+        "[제안] 경영 KPI는 신뢰 가능한 파이프라인, 활성·반복 광고주, 제품 채택, 증분 매출·리드, 재집행·확장으로 둔다. 선행지표는 이벤트 매칭·동의 커버리지, 설정 완료율, 영업단계 전환, 실험 커버리지, 이상 해결시간이고 가드레일은 불만·정책 위반·환불·측정 불확실성이다.",
+        "[가드레일] AI는 SQL 초안, 이상 탐지, 원인 후보와 영업 브리핑을 돕는다. 개인정보 원문은 최소화·가명화하고 승인된 환경에서만 처리하며, 성과 주장의 출처·산식·불확실성을 보존한다. 자동 추천이 예산·고객 약속을 직접 바꾸지 않도록 사람이 승인한다."
+      ],
+      "bullets": [
+        "Define: 광고주 목적, 성공·실패 정의, 분모, 기준일, 데이터 사용 가능 범위",
+        "Diagnose: 목표→세그먼트→영업단계→제품→캠페인→신호 품질의 분산 분해",
+        "Validate: Conversion Lift·Unified Lift·Split Test와 운영 데이터의 교차 확인",
+        "Act: 영업 코칭, 제품 설정 수정, 크리에이티브 테스트, 데이터 품질 개선의 오너·기한",
+        "Learn: 재집행·확장·이탈 결과를 다음 목표와 모델에 반영"
+      ]
+    },
+    {
+      "heading": "지원자 연결점과 강점 3개 — 경제성, 증거 추적, GTM 행동 설계",
+      "paragraphs": [
+        "[강점 1] 경제학·수학과 EY한영 Deal3 SAT M&A의 DCF·EV/EBITDA 경험은 큰 목표를 가격·수량·전환·유지의 드라이버로 나누고 가정 민감도를 보는 기반이다. 광고 지표를 나열하기보다 어느 변수가 경제적 결과를 바꾸는지 설명할 수 있다.",
+        "[강점 2] Report Footing·DM Deck Agent와 금융·보험 규제 RAG에서 원문→추출→산식→결과→사람 검토를 연결한 경험은 지표 정의, 데이터 계보, 이상치 검증, 성과 주장 통제에 맞는다. AI를 자동 결론기가 아니라 분석 품질과 반복 속도를 높이는 보조자라고 설명한다.",
+        "[강점 3] 신한금융 PoC와 베트남·미국 GTM, B2B SaaS, CRM·고객 여정 경험은 국가·고객·파트너의 차이를 영업 다음 행동으로 번역한 증거다. 제품 사용량을 광고주 가치와 재집행으로 연결하고 영업팀의 현장 피드백을 지표 정의에 되돌릴 수 있다.",
+        "[판단] 세 강점은 각각 목표 경제성, 데이터 신뢰, 상용화 실행을 맡는다. ‘TikTok을 자주 쓴다’보다 공개 캠페인 데이터를 가정해 목표 트리·실험 설계·대시보드·영업 브리핑을 한 묶음으로 보여주는 편이 설득력 있다."
+      ]
+    },
+    {
+      "heading": "보완해야 할 역량 2개 — 고급 데이터 분석과 광고 세일즈 운영",
+      "paragraphs": [
+        "[보완 1] 고급 SQL, 데이터 모델링, 실험설계와 리프트 해석의 직접 증거가 부족하다. 광고주-캠페인-이벤트-영업단계의 가상 스키마를 만들고 cohort, funnel, variance decomposition, holdout uplift, 데이터 품질 검사를 SQL·Python과 대시보드로 구현한다.",
+        "[보완 2] 디지털 광고 경매와 영업 목표 운영 경험이 없다. CPM·CTR·CVR·CPA·ROAS와 증분효과의 차이, 대행사·광고주 의사결정, quota·pipeline coverage·stage conversion·forecast accuracy를 익히고 같은 현상을 광고주·영업·제품 관점에서 각각 설명한다.",
+        "[판단] Python과 AI 구현 경험은 강점이지만 공고는 데이터·영업 양쪽의 사람과 일하는 역할이다. 분석 결과를 5분 영문 비즈니스 리뷰로 요약하고, 수치가 바뀔 때 원인·영향·권고·확인 질문을 한 장에 정리하는 훈련이 필요하다."
+      ]
+    },
+    {
+      "heading": "지원 결론 — A- 우선 지원, 검증 가능한 광고주 가치 사례로 들어간다",
+      "paragraphs": [
+        "[판단] TikTok GBS Business Analyst Graduate는 지원자의 경제·수학, M&A 분석, AI 기반 증거 추적, 해외 GTM, CRM 경험이 실제 초기경력 직무의 문제와 직접 만나는 드문 기회다. 데이터와 세일즈 로테이션이 분석을 실행으로 연결할 수 있다는 점도 장점이다.",
+        "[조건] A가 아닌 A-인 이유는 플랫폼 내부 데이터·광고 운영 경험과 고급 SQL·실험설계의 증거가 약하기 때문이다. 공개자료만으로 한국 TikTok 매출·시장점유율을 추정하지 않고, 데이터 정의와 검증 방법을 보여주는 포트폴리오로 간극을 줄인다.",
+        "[실행] 지원 전 48시간에 가상 광고주 3개 업종의 Business Health 대시보드를 만든다. objective→signal quality→product adoption→pipeline→lift→retention 트리를 설계하고, 이상치 하나의 SQL 진단, 홀드아웃 실험, 영업팀용 1페이지 권고를 함께 제시한다.",
+        "[주의] 공고는 수시 검토이므로 공식 페이지의 지원 가능 상태를 다시 확인하고 빠르게 제출한다. 개인정보 규제 사건을 공격적으로 평가하기보다 측정 신뢰와 동의 가능한 성장의 설계 문제로 다룬다."
+      ]
+    }
+  ],
+  "interviewNotes": [
+    "한 문장 지원 동기: ‘EY에서 거래 가정과 원문·산식·결과를 연결하고 B2B GTM과 CRM에서 고객의 다음 행동을 설계한 경험으로, TikTok GBS의 사업 건전성을 검증 가능한 광고주 가치와 영업 실행으로 연결하고 싶습니다.’",
+    "60초 문제 정의: ‘GBS의 병목은 데이터 부족보다 조회·귀속 성과·제품 사용이 실제 증분효과와 광고주 재집행으로 이어지는지, 그리고 그 신호를 영업팀의 다음 행동으로 바꿀 수 있는지 검증하는 데 있습니다.’",
+    "60초 제안: ‘광고주 목적에서 동의·이벤트 품질, 제품 채택, 파이프라인, 리프트, 재집행까지 연결한 Business Health-to-Verified Value Loop를 만들고 이상 원인과 오너를 함께 관리하겠습니다.’",
+    "강점 답변 1: DCF·EV/EBITDA는 금융 모델 경험 자체보다 목표를 드라이버와 가정으로 분해하고 결론의 민감도를 설명한 경험으로 연결한다.",
+    "강점 답변 2: Report Footing Agent는 보고서를 빨리 만드는 도구가 아니라 어느 원문·산식·검토에서 숫자가 왔는지 추적해 성과 주장의 신뢰를 높인 통제 경험으로 말한다.",
+    "강점 답변 3: 신한금융 PoC·해외 GTM·CRM은 분석을 고객·파트너·영업팀의 다음 행동으로 바꾼 경험이며, 데이터와 세일즈 로테이션에서 재사용할 수 있다고 설명한다.",
+    "약점 답변: ‘실제 광고 경매와 대규모 데이터웨어하우스 경험은 부족해 가상 캠페인·영업 스키마로 SQL funnel, lift experiment, forecast accuracy 대시보드를 구현하고 있습니다.’",
+    "영문 요약: ‘I would connect advertiser objectives, consented signals, product adoption, pipeline, incremental lift, and retention so that each anomaly leads to an owned commercial action.’",
+    "가드레일: ‘AI는 SQL 초안과 이상 원인 후보를 돕되 개인정보는 승인 환경에서 최소화하고, 성과 주장의 출처·산식·불확실성을 보존하며 예산과 고객 약속은 사람이 승인하게 하겠습니다.’",
+    "면접 질문 1: 12개월 로테이션에서 데이터 팀과 세일즈 팀이 공동으로 소유하는 business health 지표와 좋은 첫 90일 산출물은 무엇입니까?",
+    "면접 질문 2: 매출·집행액 목표를 산업·광고주·제품·영업단계로 분해할 때 팀이 가장 신뢰하는 선행지표와 가장 자주 오판하는 지표는 무엇입니까?",
+    "면접 질문 3: Attribution Analytics와 Lift 결과가 다를 때 영업팀은 광고주에게 어떤 기준과 언어로 권고를 결정합니까?",
+    "면접 질문 4: Smart+·MCP 같은 자동화 제품의 채택을 사용량이 아니라 증분효과·유지·영업 생산성과 연결해 평가하는 방법은 무엇입니까?",
+    "면접 질문 5: 개인정보 동의와 이벤트 신호 결측이 목표 추적과 forecast에 미치는 영향을 데이터·세일즈 팀이 어떻게 공동 관리합니까?",
+    "최종 확인: 공식 공고 상태를 다시 확인하고, SQL 진단·리프트 실험·영업 권고가 연결된 2페이지 Business Health 사례를 영문 발표까지 준비한다."
+  ],
+  "sources": [
+    {
+      "title": "Business Analyst Graduate (GBS) — 2027 Start",
+      "publisher": "TikTok Careers",
+      "publishedAt": "확인일 2026-10-30 · 수시 검토",
+      "url": "https://lifeattiktok.com/search/7684168348191787317"
+    },
+    {
+      "title": "Seoul 채용 검색 결과",
+      "publisher": "TikTok Careers",
+      "publishedAt": "확인일 2026-10-30",
+      "url": "https://lifeattiktok.com/search?keyword=&location_code_list=CT_134"
+    },
+    {
+      "title": "TikTok Summit Korea 2026 — AI 기반 풀퍼널 마케팅",
+      "publisher": "TikTok Newsroom",
+      "publishedAt": "2026-10-21",
+      "url": "https://newsroom.tiktok.com/tiktoksummit-korea-2026?lang=ko-KR"
+    },
+    {
+      "title": "TikTok unveils AI-powered updates for advertisers",
+      "publisher": "TikTok Newsroom",
+      "publishedAt": "2026-10-06",
+      "url": "https://newsroom.tiktok.com/tiktok-unveils-ai-powered-updates-for-advertisers-driving-discovery-action-and-measurable-business-outcomes-EU?lang=en-150"
+    },
+    {
+      "title": "About updates to Smart+",
+      "publisher": "TikTok for Business Help Center",
+      "publishedAt": "2026-10",
+      "url": "https://ads.tiktok.com/resources/help/article/about-updates-to-smart-plus?lang=en"
+    },
+    {
+      "title": "Measurement solutions",
+      "publisher": "TikTok for Business",
+      "publishedAt": "확인일 2026-10-30",
+      "url": "https://ads.tiktok.com/business/en-US/products/measurement"
+    },
+    {
+      "title": "TikTok World 2026 — performance, commerce and measurement",
+      "publisher": "TikTok for Business",
+      "publishedAt": "확인일 2026-10-30",
+      "url": "https://ads.tiktok.com/business/en-GB/tiktok-world"
+    },
+    {
+      "title": "틱톡의 맞춤형 광고 목적 개인정보 처리 관련 제재",
+      "publisher": "개인정보보호위원회",
+      "publishedAt": "2026-07-23",
+      "url": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=D010030000&nttId=12330"
+    },
+    {
+      "title": "TikTok fined over 10 bln won for privacy violations",
+      "publisher": "Yonhap News Agency",
+      "publishedAt": "2026-07-23",
+      "url": "https://en.yna.co.kr/view/AEN20260723003300315?section=national%2Fnational"
+    },
+    {
+      "title": "틱톡, 개인정보보호법 위반 과징금 103억여원",
+      "publisher": "헤럴드경제",
+      "publishedAt": "2026-07-23",
+      "url": "https://biz.heraldcorp.com/article/10817174"
+    },
+    {
+      "title": "2025 광고시장 결산 및 2026 전망",
+      "publisher": "한국방송광고진흥공사 KOBACO",
+      "publishedAt": "2026-02-05",
+      "url": "https://www.kobaco.co.kr/site/main/board/news/24646?baCommSelec=false&baNotice=false&baOpenDay=true&baUse=true&bcId=news&cp=4&sortDirection=DESC&sortOrder=BA_REGDATE"
+    },
+    {
+      "title": "2025 방송통신광고비조사 — 2024 실적·2025~2026 전망 인용표",
+      "publisher": "한국거래소 KIND",
+      "publishedAt": "2026-04-09",
+      "url": "https://kind.krx.co.kr/external/2026/04/09/001205/20260409002751/10081.htm"
+    },
+    {
+      "title": "국내 온라인 광고시장 2025~2026 전망 인용",
+      "publisher": "한국거래소 KIND",
+      "publishedAt": "2026-07-23",
+      "url": "https://kind.krx.co.kr/external/2026/07/23/000317/20260723000763/00591.htm"
+    }
+  ]
+}
